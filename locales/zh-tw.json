@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play 需要存取您的媒體庫以播放音頻和視頻文件。請授予權限以繼續。",
+      "grant_permission": "授予權限",
+      "close_app": "關閉應用程式"
+    },
+    "video_library": {
+      "videos": "視頻",
+      "search": "搜索...",
+      "no_videos_available": "無可用視頻",
+      "no_albums_available": "無可用相冊",
+      "view_mode": "檢視模式",
+      "layout": "佈局",
+      "sort": "排序",
+      "cancel": "取消",
+      "done": "完成"
+    },
+    "music_library": {
+      "music": "音樂",
+      "songs": "歌曲",
+      "search": "搜索...",
+      "start_adding_favorites": "開始新增您喜愛的歌曲以在此享受它們！",
+      "your_starry_favorites": "您的星光收藏",
+      "loading_starry_favorites": "正在載入您的星光收藏...",
+      "no_music_available": "無可用音樂",
+      "no_albums_available": "無可用相冊",
+      "view_mode": "檢視模式",
+      "layout": "佈局",
+      "sort": "排序",
+      "cancel": "取消",
+      "done": "完成"
+    },
+    "settings": {
+      "title": "設定",
+      "app_theme": "應用程式主題",
+      "language": "語言",
+      "pip_settings": "畫中畫設定",
+      "terms_of_use": "使用條款與條件",
+      "privacy_policy": "隱私政策",
+      "accept": "接受",
+      "app_language": "應用程式語言",
+      "starts_pip": "自動啟動畫中畫",
+      "save": "儲存",
+      "cancel": "取消",
+      "terms_of_use_content": "歡迎使用由 Winu Co. 開發的視頻與音樂播放應用程式 Winu Play。使用 Winu Play 即表示您同意以下條款與條件：\n\n1. **接受條款**：\n 下載、安裝或使用 Winu Play 即表示您同意遵守這些條款與條件。如不同意，請卸載應用程式。\n\n2. **應用程式使用**：\n Winu Play 允許您播放儲存在您設備上的視頻與音頻文件。您有責任確保您有合法權利存取並播放這些文件。\n\n3. **無需帳戶**：\n Winu Play 不要求用戶註冊或登入。不會收集或儲存任何個人資料。\n\n4. **禁止活動**：\n 您不得將 Winu Play 用於任何非法目的，包括但不限於未經許可分發受版權保護的材料，或參與損害其他用戶或應用程式功能的活動。\n\n5. **智慧財產權**：\n Winu Play 及其標誌為 Winu Co. 之財產。未經 Winu Co. 書面許可，您不得複製、修改或分發應用程式的任何部分。\n\n6. **免責聲明**：\n Winu Play 按「現狀」提供，不附帶任何明示或暗示的保證。Winu Co. 不保證應用程式能不間斷或無錯誤運行。\n\n7. **責任限制**：\n Winu Co. 對因使用或無法使用 Winu Play 所產生的任何間接、附帶、特殊或後果性損害不承擔責任。\n\n8. **條款變更**：\n Winu Co. 可隨時更新這些條款與條件。變更後繼續使用應用程式即表示接受新條款。\n\n9. **終止**：\n 若您違反這些條款，Winu Co. 保留自行決定終止或限制您存取 Winu Play 的權利。\n\n10. **聯絡我們**：\n 如有疑問或問題，請透過 winu-co@outlook.com 聯絡我們。\n\n這些條款與條件受 Winu Co. 所在地司法管轄區的法律約束。使用 Winu Play 即表示您同意通過仲裁或在該司法管轄區的適當法院解決任何爭議。",
+      "privacy_policy_content": "Winu Play 隱私政策\n\nWinu Play 由 Winu Co. 開發，致力於保護您的隱私。本隱私政策說明我們如何在您使用我們的視頻與音樂播放應用程式時處理您的資訊。\n\n1. **不收集資料**：\n Winu Play 不收集、儲存或傳輸任何個人或設備資料。我們不要求註冊、登入或建立帳戶，也不追蹤您的活動或與第三方分享資訊。\n\n2. **本地使用**：\n Winu Play 完全在您的設備上運行，僅存取您選擇從本地儲存播放的視頻與音頻文件。資料不會傳送到伺服器或外部服務。\n\n3. **無第三方服務**：\n 我們不整合可能收集資料的第三方分析、廣告或追蹤工具。\n\n4. **權限**：\n Winu Play 請求存取您的媒體文件（視頻與音樂）以運作。您可通過設備設定控制這些權限，並隨時撤銷。\n\n5. **政策變更**：\n Winu Co. 可能會更新此隱私政策以反映我們做法的變化。我們將通過應用程式或聯絡資訊通知您重大變更。\n\n6. **聯絡我們**：\n 如對隱私有疑問或問題，請透過 winu-co@outlook.com 聯絡我們。\n\n使用 Winu Play 即表示您已閱讀並理解此隱私政策。本政策符合適用的資料保護法律和應用程式商店要求。"
+    },
+    "theme_settings": {
+      "title": "主題設定",
+      "save": "儲存",
+      "color_options": {
+        "background_color": "背景顏色",
+        "text_color": "文字顏色",
+        "nav_bar_color": "導航欄顏色",
+        "icon_tint_color": "圖示色調",
+        "button_bg_color": "按鈕背景顏色",
+        "active_button_color": "啟用按鈕顏色",
+        "mini_player_position": "迷你播放器位置",
+        "mini_player_position_values": {
+          "bottom": "底部",
+          "top": "頂部"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "下載視頻",
+      "download": "下載",
+      "close": "關閉",
+      "no_videos_founds": "未找到視頻",
+      "download_progress": "下載進度",
+      "no_downloads": "無下載"
+    },
+    "fileOperation": {
+      "Copy Here": "複製到這裡",
+      "Move Here": "移動到這裡",
+      "Cancel": "取消",
+      "Copying...": "正在複製...",
+      "Moving...": "正在移動...",
+      "No folders found": "未找到資料夾",
+      "placeholder": "搜索資料夾...",
+      "Copy To": "複製到",
+      "Move To": "移動到",
+      "Confirm": "確認",
+      "Deleting...": "正在刪除...",
+      "deleteConfirmation": "您確定要刪除 {{filename}} 嗎？",
+      "Save": "儲存",
+      "Rename": "重新命名",
+      "Share": "分享",
+      "Delete": "刪除",
+      "Move": "移動",
+      "Copy": "複製",
+      "enterFolderName": "輸入資料夾名稱",
+      "errorCreatingFolder": "創建資料夾時出錯",
+      "Create": "創建"
+    },
+    "videoPlayer": {
+      "file": "文件",
+      "name": "名稱：{{value}}",
+      "path": "路徑：{{value}}",
+      "size": "大小：{{value}}",
+      "created": "創建時間：{{value}}",
+      "multimedia": "多媒體",
+      "format": "格式：{{value}}",
+      "duration": "時長：{{value}}",
+      "resolution": "解析度：{{value}}"
+    }
+  }

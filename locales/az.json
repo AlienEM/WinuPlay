@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play audio və video faylları oynatmaq üçün media kitabxananıza giriş tələb edir. Davam etmək üçün icazə verin.",
+      "grant_permission": "İcazə Ver",
+      "close_app": "Tətbiqi Bağla"
+    },
+    "video_library": {
+      "videos": "Videolar",
+      "search": "Axtar...",
+      "no_videos_available": "Video Yoxdur",
+      "no_albums_available": "Albom Yoxdur",
+      "view_mode": "Görünüş Rejimi",
+      "layout": "Düzülüş",
+      "sort": "Sırala",
+      "cancel": "Ləğv Et",
+      "done": "Bitdi"
+    },
+    "music_library": {
+      "music": "Musiqi",
+      "songs": "Mahnılar",
+      "search": "Axtar...",
+      "start_adding_favorites": "Sevimli mahnılarınızı əlavə etməyə başlayın ki, burada onlardan zövq alasınız!",
+      "your_starry_favorites": "Sizin Ulduzlu Sevimliləriniz",
+      "loading_starry_favorites": "Ulduzlu Sevimliləriniz Yüklənir...",
+      "no_music_available": "Musiqi Yoxdur",
+      "no_albums_available": "Albom Yoxdur",
+      "view_mode": "Görünüş Rejimi",
+      "layout": "Düzülüş",
+      "sort": "Sırala",
+      "cancel": "Ləğv Et",
+      "done": "Bitdi"
+    },
+    "settings": {
+      "title": "Tənzimləmə",
+      "app_theme": "Tətbiq Teması",
+      "language": "Dil",
+      "pip_settings": "PiP Tənzimləmələri",
+      "terms_of_use": "İstifadə Şərtləri və Şərtləri",
+      "privacy_policy": "Məxfilik Siyasəti",
+      "accept": "Qəbul Et",
+      "app_language": "Tətbiq Dili",
+      "starts_pip": "Şəkil İçində Şəkili Avtomatik Başlat",
+      "save": "Yadda Saxla",
+      "cancel": "Ləğv Et",
+      "terms_of_use_content": "Winu Play-ə xoş gəlmisiniz, Winu Co tərəfindən hazırlanmış video və musiqi pleyer tətbiqi. Winu Play-i istifadə etməklə, aşağıdakı İstifadə Şərtlərinə razılaşırsınız:\n\n1. **Şərtlərin Qəbulu**:\n Winu Play-i endirməklə, quraşdırmaqla və ya istifadə etməklə bu İstifadə Şərtlərinə riayət etməyə razılaşırsınız. Razı deyilsinizsə, lütfən tətbiqi silin.\n\n2. **Tətbiqin İstifadəsi**:\n Winu Play cihazınızda saxlanılan video və audio faylları oynatmağa imkan verir. Bu fayllara giriş və oynatmaq üçün qanuni hüququnuzun olduğundan əmin olmaq sizin məsuliyyətinizdir.\n\n3. **Hesab Tələb Olunmur**:\n Winu Play istifadəçi qeydiyyatı və ya giriş tələb etmir. Heç bir şəxsi məlumat toplanmır və ya saxlanılmır.\n\n4. **Qadağan Edilmiş Fəaliyyətlər**:\n Winu Play-i qanunsuz məqsədlər üçün istifadə edə bilməzsiniz, o cümlədən icazəsiz müəllif hüququ ilə qorunan materialın yayılması və ya digər istifadəçilərə və ya tətbiqin funksionallığına zərər verən fəaliyyətlərlə məşğul olmaq.\n\n5. **İntellektual Mülkiyyət**:\n Winu Play və onun loqosu Winu Co-nun mülkiyyətidir. Winu Co-dan yazılı icazə almadan tətbiqin hər hansı bir hissəsini çoxalda, dəyişdirə və ya yaya bilməzsiniz.\n\n6. **Zəmanətlərin İmtina Edilməsi**:\n Winu Play “olduğu kimi” təqdim olunur və heç bir açıq və ya dolaylı zəmanət verilmir. Winu Co tətbiqin fasiləsiz və ya xətasız işləməsinə zəmanət vermir.\n\n7. **Məsuliyyətin Məhdudlaşdırılması**:\n Winu Co, Winu Play-in istifadəsi və ya istifadə edilməməsi nəticəsində yaranan hər hansı dolayı, təsadüfi, xüsusi və ya nəticəvi zərərlərə görə məsuliyyət daşımır.\n\n8. **Şərtlərdə Dəyişikliklər**:\n Winu Co bu İstifadə Şərtlərini istənilən vaxt yeniləyə bilər. Belə dəyişikliklərdən sonra tətbiqin istifadəsinə davam etmək yeni şərtlərin qəbulu deməkdir.\n\n9. **Xitam**:\n Winu Co, bu şərtləri pozduğunuz təqdirdə öz mülahizəsinə görə Winu Play-ə girişi xitam verə və ya məhdudlaşdıra bilər.\n\n10. **Bizimlə Əlaqə**:\n Sual və ya narahatlıqlarınız varsa, lütfən winu-co@outlook.com ünvanına müraciət edin.\n\nBu İstifadə Şərtləri Winu Co-nun yerləşdiyi yurisdiksiyanın qanunları ilə tənzimlənir. Winu Play-i istifadə etməklə, hər hansı mübahisəni arbitraj yolu ilə və ya həmin yurisdiksiyanın müvafiq məhkəmələrində həll etməyə razılaşırsınız.",
+      "privacy_policy_content": "Winu Play Məxfilik Siyasəti\n\nWinu Co tərəfindən hazırlanmış Winu Play sizin məxfiliyinizi qorumağa sadiqdir. Bu Məxfilik Siyasəti video və musiqi pleyer tətbiqimizi istifadə edərkən məlumatlarınızın necə idarə olunduğunu izah edir.\n\n1. **Məlumat Toplanmır**:\n Winu Play heç bir şəxsi və ya cihaz məlumatını toplamır, saxlamır və ya ötürmür. Biz qeydiyyat, giriş və ya hesab yaradılmasını tələb etmirik və sizin fəaliyyətinizi izləmirik və ya üçüncü tərəflərlə məlumat paylaşmırıq.\n\n2. **Yerli İstifadə**:\n Winu Play tamamilə cihazınızda işləyir və yalnız yerli yaddaşınızdan oynatmaq üçün seçdiyiniz video və audio fayllara daxil olur. Heç bir məlumat serverlərə və ya xarici xidmətlərə göndərilmir.\n\n3. **Üçüncü Tərəf Xidmətləri Yoxdur**:\n Biz məlumat toplaya biləcək üçüncü tərəf analitikası, reklam və ya izləmə alətlərini inteqrasiya etmirik.\n\n4. **İcazələr**:\n Winu Play funksiyasını yerinə yetirmək üçün media fayllarınıza (videolar və musiqi) giriş tələb edir. Bu icazələri siz idarə edirsiniz və istənilən vaxt cihaz ayarlarınız vasitəsilə ləğv edə bilərsiniz.\n\n5. **Siyasətdə Dəyişikliklər**:\n Winu Co təcrübələrimizdəki dəyişiklikləri əks etdirmək üçün bu Məxfilik Siyasətini yeniləyə bilər. Əhəmiyyətli dəyişikliklər barədə sizi tətbiq və ya əlaqə məlumatlarımız vasitəsilə xəbərdar edəcəyik.\n\n6. **Bizimlə Əlaqə**:\n Məxfiliklə bağlı sual və ya narahatlıqlarınız varsa, lütfən winu-co@outlook.com ünvanına müraciət edin.\n\nWinu Play-i istifadə etməklə, bu Məxfilik Siyasətini oxuduğunuzu və başa düşdüyünüzü təsdiq edirsiniz. Bu siyasət müvafiq məlumat qoruma qanunlarına və tətbiq mağazası tələblərinə uyğundur."
+    },
+    "theme_settings": {
+      "title": "Tema Tənzimləmələri",
+      "save": "Yadda Saxla",
+      "color_options": {
+        "background_color": "Arxa Plan Rəngi",
+        "text_color": "Mətn Rəngi",
+        "nav_bar_color": "Naviqasiya Çubuğu Rəngi",
+        "icon_tint_color": "İkon Rəngi",
+        "button_bg_color": "Düymə Arxa Plan Rəngi",
+        "active_button_color": "Aktiv Düymə Rəngi",
+        "mini_player_position": "Mini Pleyer Mövqeyi",
+        "mini_player_position_values": {
+          "bottom": "Aşağı",
+          "top": "Yuxarı"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Videoları Endir",
+      "download": "Endir",
+      "close": "Bağla",
+      "no_videos_founds": "Video Tapılmadı",
+      "download_progress": "Endirmə Tərəqqi",
+      "no_downloads": "Endirmə Yoxdur"
+    },
+    "fileOperation": {
+      "Copy Here": "Buraya Kopyala",
+      "Move Here": "Buraya Köçür",
+      "Cancel": "Ləğv Et",
+      "Copying...": "Kopyalanır...",
+      "Moving...": "Köçürülür...",
+      "No folders found": "Qovluq Tapılmadı",
+      "placeholder": "Qovluqları axtar...",
+      "Copy To": "Buraya Kopyala",
+      "Move To": "Buraya Köçür",
+      "Confirm": "Təsdiq Et",
+      "Deleting...": "Silinir...",
+      "deleteConfirmation": "{{filename}} faylını silmək istədiyinizə əminsiniz?",
+      "Save": "Yadda Saxla",
+      "Rename": "Adını Dəyiş",
+      "Share": "Paylaş",
+      "Delete": "Sil",
+      "Move": "Köçür",
+      "Copy": "Kopyala",
+      "enterFolderName": "Qovluq adını daxil et",
+      "errorCreatingFolder": "Qovluq yaradılmasında xəta",
+      "Create": "Yarat"
+    },
+    "videoPlayer": {
+      "file": "Fayl",
+      "name": "Ad: {{value}}",
+      "path": "Yol: {{value}}",
+      "size": "Ölçü: {{value}}",
+      "created": "Yaradılıb: {{value}}",
+      "multimedia": "Multimedia",
+      "format": "Format: {{value}}",
+      "duration": "Müddət: {{value}}",
+      "resolution": "Çözünürlük: {{value}}"
+    }
+  }

@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play potrebuje dostop do vaše medijske knjižnice za predvajanje avdio in video datotek. Prosimo, dovolite dostop za nadaljevanje.",
+      "grant_permission": "Dovoli dostop",
+      "close_app": "Zapri aplikacijo"
+    },
+    "video_library": {
+      "videos": "Videoposnetki",
+      "search": "Išči...",
+      "no_videos_available": "Ni video posnetkov",
+      "no_albums_available": "Ni albumov",
+      "view_mode": "Način prikaza",
+      "layout": "Postavitev",
+      "sort": "Razvrsti",
+      "cancel": "Prekliči",
+      "done": "Končano"
+    },
+    "music_library": {
+      "music": "Glasba",
+      "songs": "Pesmi",
+      "search": "Išči...",
+      "start_adding_favorites": "Začnite dodajati priljubljene pesmi in jih uživajte tukaj!",
+      "your_starry_favorites": "Vaše zvezdne priljubljene pesmi",
+      "loading_starry_favorites": "Nalagam vaše zvezdne priljubljene pesmi...",
+      "no_music_available": "Ni glasbe",
+      "no_albums_available": "Ni albumov",
+      "view_mode": "Način prikaza",
+      "layout": "Postavitev",
+      "sort": "Razvrsti",
+      "cancel": "Prekliči",
+      "done": "Končano"
+    },
+    "settings": {
+      "title": "Nastavitve",
+      "app_theme": "Tema aplikacije",
+      "language": "Jezik",
+      "pip_settings": "Nastavitve PiP",
+      "terms_of_use": "Pogoji uporabe",
+      "privacy_policy": "Politika zasebnosti",
+      "accept": "Sprejmi",
+      "app_language": "Jezik aplikacije",
+      "starts_pip": "Samodejno zaženi sliko v sliki",
+      "save": "Shrani",
+      "cancel": "Prekliči",
+      "terms_of_use_content": "Dobrodošli v Winu Play, video in glasbenem predvajalniku podjetja Winu Co. Z uporabo Winu Play se strinjate z naslednjimi pogoji:\n\n1. **Sprejem pogojev**:\n S prenosom, namestitvijo ali uporabo Winu Play se strinjate s temi pogoji. Če se ne strinjate, aplikacijo odstranite.\n\n2. **Uporaba aplikacije**:\n Winu Play omogoča predvajanje video in avdio datotek v vaši napravi. Odgovorni ste za zakonito uporabo teh datotek.\n\n3. **Brez registracije**:\n Winu Play ne zahteva registracije ali prijave. Aplikacija ne zbira osebnih podatkov.\n\n4. **Prepovedane dejavnosti**:\n Prepovedana je nezakonita uporaba, vključno s distribucijo materiala z avtorskimi pravicami brez dovoljenja.\n\n5. **Intelektualna lastnina**:\n Winu Play in njegov logo sta last podjetja Winu Co. Prepovedana je reprodukcija ali spreminjanje brez dovoljenja.\n\n6. **Izključitev garancij**:\n Winu Play je na voljo 'kot je' brez garancij. Podjetje ne zagotavlja nemotene delovanje.\n\n7. **Omejitev odgovornosti**:\n Podjetje ne odgovarja za posredne ali posledične škode zaradi uporabe.\n\n8. **Spremembe pogojev**:\n Pogoje lahko kadar koli posodobimo. Nadaljnja uporaba pomeni sprejetje novih pogojev.\n\n9. **Prekinitev**:\n Podjetje si pridržuje pravico do prekinitve dostopa ob kršitvi pogojev.\n\n10. **Kontakt**:\n Vprašanja pošljite na winu-co@outlook.com.\n\nPogoji so urejeni po zakonodaji jurisdikcije, kjer je podjetje registrirano.",
+      "privacy_policy_content": "Politika zasebnosti Winu Play\n\nPodjetje Winu Co spoštuje vašo zasebnost. Ta politika opisuje obravnavo podatkov v aplikaciji Winu Play.\n\n1. **Brez zbiranja podatkov**:\n Winu Play ne zbira, ne shranjuje in ne prenaša osebnih podatkov. Ni potrebna registracija.\n\n2. **Lokalna uporaba**:\n Aplikacija deluje samo v vaši napravi in dostopa le do izbranih datotek.\n\n3. **Brez storitev tretjih**:\n Ne uporabljamo analitičnih ali oglaševalskih orodij tretjih strani.\n\n4. **Dovoljenja**:\n Dostop do medijev lahko kadarkoli spremenite v nastavitvah naprave.\n\n5. **Spremembe politike**:\n Večje spremembe bodo objavljene preko aplikacije.\n\n6. **Kontakt**:\n Vprašanja o zasebnosti pošljite na winu-co@outlook.com.\n\nZ uporabo aplikacije potrjujete, da ste seznanjeni s to politiko."
+    },
+    "theme_settings": {
+      "title": "Nastavitve teme",
+      "save": "Shrani",
+      "color_options": {
+        "background_color": "Barva ozadja",
+        "text_color": "Barva besedila",
+        "nav_bar_color": "Barva navigacijske vrstice",
+        "icon_tint_color": "Barva ikon",
+        "button_bg_color": "Barva gumba",
+        "active_button_color": "Barva aktivnega gumba",
+        "mini_player_position": "Položaj mini predvajalnika",
+        "mini_player_position_values": {
+          "bottom": "Spodaj",
+          "top": "Zgoraj"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Prenesi videoposnetke",
+      "download": "Prenesi",
+      "close": "Zapri",
+      "no_videos_founds": "Ni najdenih video posnetkov",
+      "download_progress": "Napredek prenosa",
+      "no_downloads": "Ni prenosov"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopiraj sem",
+      "Move Here": "Premakni sem",
+      "Cancel": "Prekliči",
+      "Copying...": "Kopiranje...",
+      "Moving...": "Premikanje...",
+      "No folders found": "Ni mape",
+      "placeholder": "Išči mape...",
+      "Copy To": "Kopiraj v",
+      "Move To": "Premakni v",
+      "Confirm": "Potrdi",
+      "Deleting...": "Brisanje...",
+      "deleteConfirmation": "Ali res želite izbrisati {{filename}}?",
+      "Save": "Shrani",
+      "Rename": "Preimenuj",
+      "Share": "Deli",
+      "Delete": "Izbriši",
+      "Move": "Premakni",
+      "Copy": "Kopiraj",
+      "enterFolderName": "Vnesite ime mape",
+      "errorCreatingFolder": "Napaka pri ustvarjanju mape",
+      "Create": "Ustvari"
+    },
+    "videoPlayer": {
+      "file": "Datoteka",
+      "name": "Ime: {{value}}",
+      "path": "Pot: {{value}}",
+      "size": "Velikost: {{value}}",
+      "created": "Ustvarjeno: {{value}}",
+      "multimedia": "Multimedija",
+      "format": "Oblika: {{value}}",
+      "duration": "Trajanje: {{value}}",
+      "resolution": "Ločljivost: {{value}}"
+    }
+  }

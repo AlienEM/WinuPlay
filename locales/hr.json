@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play zahtijeva pristup vašoj medijskoj knjižnici kako bi reproducirao audio i video datoteke. Molimo dopustite pristup za nastavak.",
+      "grant_permission": "Dopusti Pristup",
+      "close_app": "Zatvori Aplikaciju"
+    },
+    "video_library": {
+      "videos": "Videozapisi",
+      "search": "Pretraži...",
+      "no_videos_available": "Nema Dostupnih Videozapisa",
+      "no_albums_available": "Nema Dostupnih Albuma",
+      "view_mode": "Način Prikaza",
+      "layout": "Raspored",
+      "sort": "Sortiraj",
+      "cancel": "Odustani",
+      "done": "Gotovo"
+    },
+    "music_library": {
+      "music": "Glazba",
+      "songs": "Pjesme",
+      "search": "Pretraži...",
+      "start_adding_favorites": "Počnite dodavati svoje omiljene pjesme kako biste ih ovdje uživali!",
+      "your_starry_favorites": "Vaši Omiljeni sa Zvjezdicom",
+      "loading_starry_favorites": "Učitavanje Vaših Omiljenih sa Zvjezdicom...",
+      "no_music_available": "Nema Dostupne Glazbe",
+      "no_albums_available": "Nema Dostupnih Albuma",
+      "view_mode": "Način Prikaza",
+      "layout": "Raspored",
+      "sort": "Sortiraj",
+      "cancel": "Odustani",
+      "done": "Gotovo"
+    },
+    "settings": {
+      "title": "Postavke",
+      "app_theme": "Tema Aplikacije",
+      "language": "Jezik",
+      "pip_settings": "Postavke Slike u Slici",
+      "terms_of_use": "Uvjeti Korištenja i Pravila",
+      "privacy_policy": "Pravila Privatnosti",
+      "accept": "Prihvati",
+      "app_language": "Jezik Aplikacije",
+      "starts_pip": "Automatski Pokreni Sliku u Slici",
+      "save": "Spremi",
+      "cancel": "Odustani",
+      "terms_of_use_content": "Dobrodošli u Winu Play, aplikaciju za reprodukciju videa i glazbe koju je razvio Winu Co. Korištenjem Winu Playa pristajete na sljedeće Uvjete Korištenja:\n\n1. **Prihvaćanje Uvjeta**:\n Preuzimanjem, instaliranjem ili korištenjem Winu Playa pristajete na poštivanje ovih Uvjeta Korištenja. Ako se ne slažete, molimo deinstalirajte aplikaciju.\n\n2. **Korištenje Aplikacije**:\n Winu Play omogućuje vam reprodukciju video i audio datoteka pohranjenih na vašem uređaju. Vi ste odgovorni za osiguravanje da imate zakonsko pravo pristupa i reprodukcije tih datoteka.\n\n3. **Nije Potreban Račun**:\n Winu Play ne zahtijeva registraciju ili prijavu korisnika. Ne prikupljaju se niti pohranjuju osobni podaci.\n\n4. **Zabranjene Aktivnosti**:\n Ne smijete koristiti Winu Play u nezakonite svrhe, uključujući, ali ne ograničavajući se na distribuciju materijala zaštićenog autorskim pravima bez dopuštenja ili sudjelovanje u aktivnostima koje štete drugim korisnicima ili funkcionalnosti aplikacije.\n\n5. **Intelektualno Vlasništvo**:\n Winu Play i njegov logotip vlasništvo su Winu Co-a. Ne smijete reproducirati, mijenjati niti distribuirati bilo koji dio aplikacije bez pisanog dopuštenja Winu Co-a.\n\n6. **Odricanje od Jamstava**:\n Winu Play pruža se „kakav jest“ bez ikakvih jamstava, izričitih ili podrazumijevanih. Winu Co ne jamči neprekinuti ili bezgrešni rad aplikacije.\n\n7. **Ograničenje Odgovornosti**:\n Winu Co nije odgovoran za neizravne, slučajne, posebne ili posljedične štete koje proizlaze iz korištenja ili nemogućnosti korištenja Winu Playa.\n\n8. **Promjene Uvjeta**:\n Winu Co može ažurirati ove Uvjete Korištenja u bilo kojem trenutku. Nastavak korištenja aplikacije nakon takvih promjena predstavlja prihvaćanje novih uvjeta.\n\n9. **Prekid**:\n Winu Co zadržava pravo prekinuti ili ograničiti pristup Winu Playu prema vlastitom nahođenju ako prekršite ove uvjete.\n\n10. **Kontaktirajte Nas**:\n Ako imate pitanja ili nedoumice, kontaktirajte nas na winu-co@outlook.com.\n\nOvi Uvjeti Korištenja podliježu zakonima jurisdikcije u kojoj je Winu Co smješten. Korištenjem Winu Playa pristajete na rješavanje bilo kakvih sporova putem arbitraže ili pred nadležnim sudovima te jurisdikcije.",
+      "privacy_policy_content": "Pravila Privatnosti Winu Playa\n\nWinu Play, koji je razvio Winu Co, predan je zaštiti vaše privatnosti. Ova Pravila Privatnosti objašnjavaju kako upravljamo vašim informacijama dok koristite našu aplikaciju za reprodukciju videa i glazbe.\n\n1. **Bez Prikupljanja Podataka**:\n Winu Play ne prikuplja, ne pohranjuje niti prenosi osobne podatke ili podatke o uređaju. Ne zahtijevamo registraciju, prijavu ili stvaranje računa, niti pratimo vašu aktivnost ili dijelimo informacije s trećim stranama.\n\n2. **Lokalna Upotreba**:\n Winu Play radi isključivo na vašem uređaju i pristupa samo video i audio datotekama koje odaberete za reprodukciju iz vašeg lokalnog spremišta. Nema podataka koji se šalju na poslužitelje ili vanjske usluge.\n\n3. **Bez Usluga Trećih Strana**:\n Ne integriramo analitiku trećih strana, oglase ili alate za praćenje koji bi mogli prikupljati podatke.\n\n4. **Dopuštenja**:\n Winu Play zahtijeva pristup vašim medijskim datotekama (video i glazba) kako bi funkcionirao. Vi upravljate ovim dopuštenjima i možete ih opozvati u bilo kojem trenutku putem postavki uređaja.\n\n5. **Promjene Pravila**:\n Winu Co može ažurirati ova Pravila Privatnosti kako bi odražavala promjene u našim praksama. Obavijestit ćemo vas o značajnim promjenama putem aplikacije ili naših kontakt podataka.\n\n6. **Kontaktirajte Nas**:\n Ako imate pitanja ili nedoumice u vezi s vašom privatnošću, kontaktirajte nas na winu-co@outlook.com.\n\nKorištenjem Winu Playa potvrđujete da ste pročitali i razumjeli ova Pravila Privatnosti. Ova pravila su u skladu s primjenjivim zakonima o zaštiti podataka i zahtjevima trgovina aplikacija."
+    },
+    "theme_settings": {
+      "title": "Postavke Teme",
+      "save": "Spremi",
+      "color_options": {
+        "background_color": "Boja Pozadine",
+        "text_color": "Boja Teksta",
+        "nav_bar_color": "Boja Navigacijske Trake",
+        "icon_tint_color": "Boja Nijanse Ikona",
+        "button_bg_color": "Boja Pozadine Gumba",
+        "active_button_color": "Boja Aktivnog Gumba",
+        "mini_player_position": "Položaj Mini Playera",
+        "mini_player_position_values": {
+          "bottom": "Dolje",
+          "top": "Gore"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Preuzmi Videozapise",
+      "download": "Preuzmi",
+      "close": "Zatvori",
+      "no_videos_founds": "Nema Pronađenih Videozapisa",
+      "download_progress": "Napredak Preuzimanja",
+      "no_downloads": "Nema Preuzimanja"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopiraj Ovdje",
+      "Move Here": "Premjesti Ovdje",
+      "Cancel": "Odustani",
+      "Copying...": "Kopiranje...",
+      "Moving...": "Premještanje...",
+      "No folders found": "Nema Pronađenih Mapa",
+      "placeholder": "Pretraži mape...",
+      "Copy To": "Kopiraj U",
+      "Move To": "Premjesti U",
+      "Confirm": "Potvrdi",
+      "Deleting...": "Brisanje...",
+      "deleteConfirmation": "Jeste li sigurni da želite izbrisati {{filename}}?",
+      "Save": "Spremi",
+      "Rename": "Preimenuj",
+      "Share": "Podijeli",
+      "Delete": "Izbriši",
+      "Move": "Premjesti",
+      "Copy": "Kopiraj",
+      "enterFolderName": "Unesi naziv mape",
+      "errorCreatingFolder": "Pogreška pri stvaranju mape",
+      "Create": "Stvori"
+    },
+    "videoPlayer": {
+      "file": "Datoteka",
+      "name": "Naziv: {{value}}",
+      "path": "Putanja: {{value}}",
+      "size": "Veličina: {{value}}",
+      "created": "Stvoreno: {{value}}",
+      "multimedia": "Multimedija",
+      "format": "Format: {{value}}",
+      "duration": "Trajanje: {{value}}",
+      "resolution": "Rezolucija: {{value}}"
+    }
+  }

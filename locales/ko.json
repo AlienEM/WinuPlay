@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play는 오디오 및 비디오 파일을 재생하기 위해 미디어 라이브러리에 대한 접근 권한이 필요합니다. 계속하려면 권한을 허용해주세요.",
+      "grant_permission": "권한 허용",
+      "close_app": "앱 닫기"
+    },
+    "video_library": {
+      "videos": "비디오",
+      "search": "검색...",
+      "no_videos_available": "사용 가능한 비디오가 없습니다",
+      "no_albums_available": "사용 가능한 앨범이 없습니다",
+      "view_mode": "보기 모드",
+      "layout": "레이아웃",
+      "sort": "정렬",
+      "cancel": "취소",
+      "done": "완료"
+    },
+    "music_library": {
+      "music": "음악",
+      "songs": "노래",
+      "search": "검색...",
+      "start_adding_favorites": "좋아하는 노래를 추가하여 여기에서 즐기세요!",
+      "your_starry_favorites": "별표 표시된 즐겨찾기",
+      "loading_starry_favorites": "별표 표시된 즐겨찾기를 불러오는 중...",
+      "no_music_available": "사용 가능한 음악이 없습니다",
+      "no_albums_available": "사용 가능한 앨범이 없습니다",
+      "view_mode": "보기 모드",
+      "layout": "레이아웃",
+      "sort": "정렬",
+      "cancel": "취소",
+      "done": "완료"
+    },
+    "settings": {
+      "title": "설정",
+      "app_theme": "앱 테마",
+      "language": "언어",
+      "pip_settings": "화면 속 화면 설정",
+      "terms_of_use": "이용 약관 및 규칙",
+      "privacy_policy": "개인정보 보호정책",
+      "accept": "동의",
+      "app_language": "앱 언어",
+      "starts_pip": "화면 속 화면 자동 시작",
+      "save": "저장",
+      "cancel": "취소",
+      "terms_of_use_content": "Winu Play에 오신 것을 환영합니다. Winu Play는 Winu Co.에서 개발한 비디오 및 음악 재생 앱입니다. Winu Play를 사용함으로써 아래의 이용 약관에 동의하게 됩니다:\n\n1. **약관 동의**:\n Winu Play를 다운로드, 설치 또는 사용함으로써 이 이용 약관을 준수하는 데 동의합니다. 동의하지 않을 경우 앱을 삭제해 주세요.\n\n2. **앱 사용**:\n Winu Play를 통해 귀하의 기기에 저장된 비디오 및 오디오 파일을 재생할 수 있습니다. 귀하는 이러한 파일에 접근하고 재생할 법적 권리가 있는지 확인할 책임이 있습니다.\n\n3. **계정 불필요**:\n Winu Play는 사용자 등록이나 로그인을 요구하지 않습니다. 개인 정보는 수집되거나 저장되지 않습니다.\n\n4. **금지된 활동**:\n Winu Play를 불법적인 목적으로 사용할 수 없습니다. 여기에는 허가 없이 저작권으로 보호된 자료를 배포하거나, 다른 사용자 또는 앱의 기능에 해를 끼치는 활동에 참여하는 것이 포함되지만 이에 국한되지 않습니다.\n\n5. **지적 재산권**:\n Winu Play 및 그 로고는 Winu Co.의 자산입니다. Winu Co.의 서면 허가 없이 앱의 어떤 부분도 복제, 수정, 배포할 수 없습니다.\n\n6. **보증 부인**:\n Winu Play는 “있는 그대로” 제공되며, 명시적이거나 암묵적인 보증이 없습니다. Winu Co.는 앱의 중단 없는 또는 오류 없는 작동을 보장하지 않습니다.\n\n7. **책임 제한**:\n Winu Co.는 Winu Play의 사용 또는 사용 불가능으로 인해 발생하는 간접적, 우발적, 특별, 또는 결과적 손해에 대해 책임을 지지 않습니다.\n\n8. **약관 변경**:\n Winu Co.는 언제든지 이 이용 약관을 업데이트할 수 있습니다. 이러한 변경 후에도 앱을 계속 사용하면 새로운 약관에 동의한 것으로 간주됩니다.\n\n9. **종료**:\n Winu Co.는 귀하가 이 약관을 위반할 경우 자체 재량으로 Winu Play에 대한 접근을 종료하거나 제한할 권리를 보유합니다.\n\n10. **문의하기**:\n 질문이나 우려 사항이 있으면 winu-co@outlook.com으로 연락 주세요.\n\n이 이용 약관은 Winu Co.가 소재한 관할권의 법률에 따릅니다. Winu Play를 사용함으로써 모든 분쟁을 중재 또는 해당 관할권의 관할 법원을 통해 해결하는 데 동의합니다.",
+      "privacy_policy_content": "Winu Play 개인정보 보호정책\n\nWinu Play는 Winu Co.에서 개발했으며, 귀하의 개인정보를 보호하기 위해 최선을 다하고 있습니다. 이 개인정보 보호정책은 귀하가 비디오 및 음악 재생 앱을 사용할 때 귀하의 정보가 어떻게 처리되는지를 설명합니다.\n\n1. **데이터 수집 없음**:\n Winu Play는 개인 데이터나 기기 데이터를 수집, 저장, 전송하지 않습니다. 등록, 로그인, 계정 생성이 필요 없으며, 귀하의 활동을 추적하거나 제3자와 정보를 공유하지 않습니다.\n\n2. **로컬 사용**:\n Winu Play는 귀하의 기기에서만 작동하며, 귀하가 로컬 저장소에서 재생하도록 선택한 비디오 및 오디오 파일에만 접근합니다. 데이터는 서버나 외부 서비스로 전송되지 않습니다.\n\n3. **제3자 서비스 없음**:\n 데이터를 수집할 수 있는 제3자의 분석, 광고, 추적 도구를 통합하지 않습니다.\n\n4. **권한**:\n Winu Play가 작동하려면 귀하의 미디어 파일(비디오 및 음악)에 대한 접근 권한이 필요합니다. 귀하는 이 권한을 관리하며, 언제든지 기기 설정을 통해 철회할 수 있습니다.\n\n5. **정책 변경**:\n Winu Co.는 당사의 관행 변화를 반영하기 위해 이 개인정보 보호정책을 업데이트할 수 있습니다. 중요한 변경 사항은 앱 또는 연락처 정보를 통해 귀하에게 알릴 것입니다.\n\n6. **문의하기**:\n 개인정보에 대한 질문이나 우려 사항이 있으면 winu-co@outlook.com으로 연락 주세요.\n\nWinu Play를 사용함으로써 귀하는 이 개인정보 보호정책을 읽고 이해했음을 확인합니다. 이 정책은 적용 가능한 데이터 보호법 및 앱 스토어 요구 사항을 준수합니다."
+    },
+    "theme_settings": {
+      "title": "테마 설정",
+      "save": "저장",
+      "color_options": {
+        "background_color": "배경 색상",
+        "text_color": "텍스트 색상",
+        "nav_bar_color": "내비게이션 바 색상",
+        "icon_tint_color": "아이콘 색조",
+        "button_bg_color": "버튼 배경 색상",
+        "active_button_color": "활성 버튼 색상",
+        "mini_player_position": "미니 플레이어 위치",
+        "mini_player_position_values": {
+          "bottom": "하단",
+          "top": "상단"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "비디오 다운로드",
+      "download": "다운로드",
+      "close": "닫기",
+      "no_videos_founds": "비디오를 찾을 수 없습니다",
+      "download_progress": "다운로드 진행 상황",
+      "no_downloads": "다운로드 없음"
+    },
+    "fileOperation": {
+      "Copy Here": "여기에 복사",
+      "Move Here": "여기로 이동",
+      "Cancel": "취소",
+      "Copying...": "복사 중...",
+      "Moving...": "이동 중...",
+      "No folders found": "폴더를 찾을 수 없습니다",
+      "placeholder": "폴더 검색...",
+      "Copy To": "여기에 복사",
+      "Move To": "여기로 이동",
+      "Confirm": "확인",
+      "Deleting...": "삭제 중...",
+      "deleteConfirmation": "{{filename}}을(를) 삭제하시겠습니까?",
+      "Save": "저장",
+      "Rename": "이름 변경",
+      "Share": "공유",
+      "Delete": "삭제",
+      "Move": "이동",
+      "Copy": "복사",
+      "enterFolderName": "폴더 이름 입력",
+      "errorCreatingFolder": "폴더 생성 오류",
+      "Create": "생성"
+    },
+    "videoPlayer": {
+      "file": "파일",
+      "name": "이름: {{value}}",
+      "path": "경로: {{value}}",
+      "size": "크기: {{value}}",
+      "created": "생성일: {{value}}",
+      "multimedia": "멀티미디어",
+      "format": "형식: {{value}}",
+      "duration": "재생 시간: {{value}}",
+      "resolution": "해상도: {{value}}"
+    }
+  }

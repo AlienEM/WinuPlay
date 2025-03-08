@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play memerlukan akses ke perpustakaan media Anda untuk memutar file audio dan video. Harap berikan izin untuk melanjutkan.",
+      "grant_permission": "Berikan Izin",
+      "close_app": "Tutup Aplikasi"
+    },
+    "video_library": {
+      "videos": "Video",
+      "search": "Cari...",
+      "no_videos_available": "Tidak Ada Video yang Tersedia",
+      "no_albums_available": "Tidak Ada Album yang Tersedia",
+      "view_mode": "Mode Tampilan",
+      "layout": "Tata Letak",
+      "sort": "Urutkan",
+      "cancel": "Batal",
+      "done": "Selesai"
+    },
+    "music_library": {
+      "music": "Musik",
+      "songs": "Lagu",
+      "search": "Cari...",
+      "start_adding_favorites": "Mulai tambahkan lagu favorit Anda untuk menikmatinya di sini!",
+      "your_starry_favorites": "Favorit Berbintang Anda",
+      "loading_starry_favorites": "Memuat Favorit Berbintang Anda...",
+      "no_music_available": "Tidak Ada Musik yang Tersedia",
+      "no_albums_available": "Tidak Ada Album yang Tersedia",
+      "view_mode": "Mode Tampilan",
+      "layout": "Tata Letak",
+      "sort": "Urutkan",
+      "cancel": "Batal",
+      "done": "Selesai"
+    },
+    "settings": {
+      "title": "Pengaturan",
+      "app_theme": "Tema Aplikasi",
+      "language": "Bahasa",
+      "pip_settings": "Pengaturan PiP",
+      "terms_of_use": "Syarat Penggunaan dan Ketentuan",
+      "privacy_policy": "Kebijakan Privasi",
+      "accept": "Terima",
+      "app_language": "Bahasa Aplikasi",
+      "starts_pip": "Mulai Picture-in-Picture Secara Otomatis",
+      "save": "Simpan",
+      "cancel": "Batal",
+      "terms_of_use_content": "Selamat datang di Winu Play, aplikasi pemutar video dan musik yang dikembangkan oleh Winu Co. Dengan menggunakan Winu Play, Anda menyetujui Syarat Penggunaan berikut:\n\n1. **Penerimaan Syarat**:\n Dengan mengunduh, menginstal, atau menggunakan Winu Play, Anda setuju untuk mematuhi Syarat Penggunaan ini. Jika Anda tidak setuju, harap hapus instalasi aplikasi.\n\n2. **Penggunaan Aplikasi**:\n Winu Play memungkinkan Anda memutar file video dan audio yang disimpan di perangkat Anda. Anda bertanggung jawab untuk memastikan bahwa Anda memiliki hak hukum untuk mengakses dan memutar file-file tersebut.\n\n3. **Tidak Diperlukan Akun**:\n Winu Play tidak memerlukan registrasi atau login pengguna. Tidak ada data pribadi yang dikumpulkan atau disimpan.\n\n4. **Aktivitas yang Dilarang**:\n Anda tidak boleh menggunakan Winu Play untuk tujuan ilegal, termasuk namun tidak terbatas pada mendistribusikan materi berhak cipta tanpa izin, atau terlibat dalam aktivitas yang merugikan pengguna lain atau fungsi aplikasi.\n\n5. **Hak Kekayaan Intelektual**:\n Winu Play dan logonya adalah milik Winu Co. Anda tidak boleh mereproduksi, memodifikasi, atau mendistribusikan bagian mana pun dari aplikasi tanpa izin tertulis dari Winu Co.\n\n6. **Penafian Jaminan**:\n Winu Play disediakan “sebagaimana adanya” tanpa jaminan apa pun, baik tersurat maupun tersirat. Winu Co tidak menjamin operasi aplikasi yang tidak terganggu atau bebas dari kesalahan.\n\n7. **Batasan Tanggung Jawab**:\n Winu Co tidak bertanggung jawab atas segala kerusakan tidak langsung, insidental, khusus, atau konsekuensial yang timbul dari penggunaan atau ketidakmampuan menggunakan Winu Play.\n\n8. **Perubahan Syarat**:\n Winu Co dapat memperbarui Syarat Penggunaan ini kapan saja. Penggunaan aplikasi yang berkelanjutan setelah perubahan tersebut merupakan penerimaan terhadap syarat baru.\n\n9. **Pengakhiran**:\n Winu Co berhak untuk mengakhiri atau membatasi akses ke Winu Play atas kebijakannya jika Anda melanggar syarat ini.\n\n10. **Hubungi Kami**:\n Jika Anda memiliki pertanyaan atau kekhawatiran, silakan hubungi kami di winu-co@outlook.com.\n\nSyarat Penggunaan ini diatur oleh hukum yurisdiksi tempat Winu Co berbasis. Dengan menggunakan Winu Play, Anda setuju untuk menyelesaikan segala sengketa melalui arbitrase atau di pengadilan yang sesuai di yurisdiksi tersebut.",
+      "privacy_policy_content": "Kebijakan Privasi Winu Play\n\nWinu Play, yang dikembangkan oleh Winu Co, berkomitmen untuk melindungi privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami menangani informasi Anda saat menggunakan aplikasi pemutar video dan musik kami.\n\n1. **Tidak Ada Pengumpulan Data**:\n Winu Play tidak mengumpulkan, menyimpan, atau mengirimkan data pribadi atau perangkat apa pun. Kami tidak memerlukan registrasi, login, atau pembuatan akun, dan kami tidak melacak aktivitas Anda atau membagikan informasi dengan pihak ketiga.\n\n2. **Penggunaan Lokal**:\n Winu Play beroperasi sepenuhnya di perangkat Anda, hanya mengakses file video dan audio yang Anda pilih untuk diputar dari penyimpanan lokal Anda. Tidak ada data yang dikirim ke server atau layanan eksternal.\n\n3. **Tidak Ada Layanan Pihak Ketiga**:\n Kami tidak mengintegrasikan analitik pihak ketiga, iklan, atau alat pelacak yang dapat mengumpulkan data.\n\n4. **Izin**:\n Winu Play meminta akses ke file media Anda (video dan musik) untuk berfungsi. Anda mengontrol izin ini dan dapat mencabutnya kapan saja melalui pengaturan perangkat Anda.\n\n5. **Perubahan Kebijakan**:\n Winu Co dapat memperbarui Kebijakan Privasi ini untuk mencerminkan perubahan dalam praktik kami. Kami akan memberi tahu Anda tentang perubahan signifikan melalui aplikasi atau informasi kontak kami.\n\n6. **Hubungi Kami**:\n Jika Anda memiliki pertanyaan atau kekhawatiran tentang privasi Anda, silakan hubungi kami di winu-co@outlook.com.\n\nDengan menggunakan Winu Play, Anda mengakui bahwa Anda telah membaca dan memahami Kebijakan Privasi ini. Kebijakan ini mematuhi hukum perlindungan data yang berlaku dan persyaratan toko aplikasi."
+    },
+    "theme_settings": {
+      "title": "Pengaturan Tema",
+      "save": "Simpan",
+      "color_options": {
+        "background_color": "Warna Latar Belakang",
+        "text_color": "Warna Teks",
+        "nav_bar_color": "Warna Bilah Navigasi",
+        "icon_tint_color": "Warna Tint Ikon",
+        "button_bg_color": "Warna Latar Belakang Tombol",
+        "active_button_color": "Warna Tombol Aktif",
+        "mini_player_position": "Posisi Pemutar Mini",
+        "mini_player_position_values": {
+          "bottom": "Bawah",
+          "top": "Atas"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Unduh Video",
+      "download": "Unduh",
+      "close": "Tutup",
+      "no_videos_founds": "Tidak Ada Video yang Ditemukan",
+      "download_progress": "Progres Pengunduhan",
+      "no_downloads": "Tidak Ada Pengunduhan"
+    },
+    "fileOperation": {
+      "Copy Here": "Salin ke Sini",
+      "Move Here": "Pindah ke Sini",
+      "Cancel": "Batal",
+      "Copying...": "Menyalin...",
+      "Moving...": "Memindahkan...",
+      "No folders found": "Tidak Ada Folder yang Ditemukan",
+      "placeholder": "Cari folder...",
+      "Copy To": "Salin Ke",
+      "Move To": "Pindah Ke",
+      "Confirm": "Konfirmasi",
+      "Deleting...": "Menghapus...",
+      "deleteConfirmation": "Apakah Anda yakin ingin menghapus {{filename}}?",
+      "Save": "Simpan",
+      "Rename": "Ganti Nama",
+      "Share": "Bagikan",
+      "Delete": "Hapus",
+      "Move": "Pindah",
+      "Copy": "Salin",
+      "enterFolderName": "Masukkan nama folder",
+      "errorCreatingFolder": "Kesalahan saat membuat folder",
+      "Create": "Buat"
+    },
+    "videoPlayer": {
+      "file": "File",
+      "name": "Nama: {{value}}",
+      "path": "Jalur: {{value}}",
+      "size": "Ukuran: {{value}}",
+      "created": "Dibuat: {{value}}",
+      "multimedia": "Multimedia",
+      "format": "Format: {{value}}",
+      "duration": "Durasi: {{value}}",
+      "resolution": "Resolusi: {{value}}"
+    }
+  }

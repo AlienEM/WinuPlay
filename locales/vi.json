@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play cần quyền truy cập vào thư viện phương tiện của bạn để phát các tệp âm thanh và video. Vui lòng cấp quyền để tiếp tục.",
+      "grant_permission": "Cấp quyền",
+      "close_app": "Đóng ứng dụng"
+    },
+    "video_library": {
+      "videos": "Video",
+      "search": "Tìm kiếm...",
+      "no_videos_available": "Không có video nào",
+      "no_albums_available": "Không có album nào",
+      "view_mode": "Chế độ xem",
+      "layout": "Bố cục",
+      "sort": "Sắp xếp",
+      "cancel": "Hủy",
+      "done": "Xong"
+    },
+    "music_library": {
+      "music": "Âm nhạc",
+      "songs": "Bài hát",
+      "search": "Tìm kiếm...",
+      "start_adding_favorites": "Bắt đầu thêm các bài hát yêu thích của bạn để thưởng thức tại đây!",
+      "your_starry_favorites": "Yêu thích đầy sao của bạn",
+      "loading_starry_favorites": "Đang tải các yêu thích đầy sao của bạn...",
+      "no_music_available": "Không có nhạc nào",
+      "no_albums_available": "Không có album nào",
+      "view_mode": "Chế độ xem",
+      "layout": "Bố cục",
+      "sort": "Sắp xếp",
+      "cancel": "Hủy",
+      "done": "Xong"
+    },
+    "settings": {
+      "title": "Cài đặt",
+      "app_theme": "Chủ đề ứng dụng",
+      "language": "Ngôn ngữ",
+      "pip_settings": "Cài đặt PiP",
+      "terms_of_use": "Điều khoản sử dụng",
+      "privacy_policy": "Chính sách bảo mật",
+      "accept": "Chấp nhận",
+      "app_language": "Ngôn ngữ ứng dụng",
+      "starts_pip": "Tự động bật hình trong hình",
+      "save": "Lưu",
+      "cancel": "Hủy",
+      "terms_of_use_content": "Chào mừng đến với Winu Play, ứng dụng phát video và nhạc được phát triển bởi Winu Co. Bằng cách sử dụng Winu Play, bạn đồng ý với các điều khoản sau:\n\n1. **Chấp nhận điều khoản**:\n Việc tải xuống, cài đặt hoặc sử dụng Winu Play đồng nghĩa với việc bạn chấp nhận các điều khoản này. Nếu không đồng ý, vui lòng gỡ ứng dụng.\n\n2. **Sử dụng ứng dụng**:\n Winu Play cho phép phát các tệp video và âm thanh trên thiết bị của bạn. Bạn chịu trách nhiệm đảm bảo quyền hợp pháp để sử dụng các tệp này.\n\n3. **Không yêu cầu tài khoản**:\n Winu Play không yêu cầu đăng ký hoặc đăng nhập. Không thu thập dữ liệu cá nhân.\n\n4. **Hoạt động cấm**:\n Không được sử dụng Winu Play cho mục đích bất hợp pháp, bao gồm phân phối tài liệu có bản quyền trái phép.\n\n5. **Sở hữu trí tuệ**:\n Winu Play và logo là tài sản của Winu Co. Cấm sao chép hoặc sửa đổi không được phép.\n\n6. **Từ chối trách nhiệm bảo hành**:\n Winu Play được cung cấp 'nguyên trạng' không kèm bảo hành. Winu Co không đảm bảo hoạt động liên tục.\n\n7. **Giới hạn trách nhiệm**:\n Winu Co không chịu trách nhiệm cho các thiệt hại gián tiếp phát sinh từ việc sử dụng ứng dụng.\n\n8. **Thay đổi điều khoản**:\n Winu Co có thể cập nhật điều khoản bất kỳ lúc nào. Việc tiếp tục sử dụng đồng nghĩa với chấp nhận điều khoản mới.\n\n9. **Chấm dứt**:\n Winu Co có quyền chấm dứt quyền truy cập nếu vi phạm điều khoản.\n\n10. **Liên hệ**:\n Thắc mắc xin gửi đến winu-co@outlook.com.\n\nCác điều khoản này tuân theo luật pháp của khu vực pháp lý nơi Winu Co đặt trụ sở.",
+      "privacy_policy_content": "Chính sách bảo mật Winu Play\n\nWinu Co cam kết bảo vệ quyền riêng tư của bạn. Chính sách này giải thích cách chúng tôi xử lý thông tin của bạn:\n\n1. **Không thu thập dữ liệu**:\n Winu Play không thu thập, lưu trữ hoặc truyền dữ liệu cá nhân. Không yêu cầu đăng ký tài khoản.\n\n2. **Sử dụng cục bộ**:\n Ứng dụng hoạt động hoàn toàn trên thiết bị của bạn, chỉ truy cập các tệp bạn chọn.\n\n3. **Không dịch vụ bên thứ ba**:\n Chúng tôi không sử dụng công cụ phân tích hoặc quảng cáo của bên thứ ba.\n\n4. **Quyền truy cập**:\n Bạn có thể thay đổi quyền truy cập phương tiện thông qua cài đặt thiết bị.\n\n5. **Thay đổi chính sách**:\n Các thay đổi quan trọng sẽ được thông báo qua ứng dụng.\n\n6. **Liên hệ**:\n Thắc mắc về bảo mật xin gửi đến winu-co@outlook.com.\n\nViệc sử dụng ứng dụng đồng nghĩa với việc bạn đã đọc và hiểu chính sách này."
+    },
+    "theme_settings": {
+      "title": "Cài đặt chủ đề",
+      "save": "Lưu",
+      "color_options": {
+        "background_color": "Màu nền",
+        "text_color": "Màu chữ",
+        "nav_bar_color": "Màu thanh điều hướng",
+        "icon_tint_color": "Màu biểu tượng",
+        "button_bg_color": "Màu nút",
+        "active_button_color": "Màu nút hoạt động",
+        "mini_player_position": "Vị trí trình phát nhỏ",
+        "mini_player_position_values": {
+          "bottom": "Dưới cùng",
+          "top": "Trên cùng"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Tải video",
+      "download": "Tải xuống",
+      "close": "Đóng",
+      "no_videos_founds": "Không tìm thấy video",
+      "download_progress": "Tiến trình tải xuống",
+      "no_downloads": "Không có tải xuống"
+    },
+    "fileOperation": {
+      "Copy Here": "Sao chép tại đây",
+      "Move Here": "Di chuyển tại đây",
+      "Cancel": "Hủy",
+      "Copying...": "Đang sao chép...",
+      "Moving...": "Đang di chuyển...",
+      "No folders found": "Không tìm thấy thư mục",
+      "placeholder": "Tìm thư mục...",
+      "Copy To": "Sao chép vào",
+      "Move To": "Di chuyển vào",
+      "Confirm": "Xác nhận",
+      "Deleting...": "Đang xóa...",
+      "deleteConfirmation": "Bạn có chắc muốn xóa {{filename}}?",
+      "Save": "Lưu",
+      "Rename": "Đổi tên",
+      "Share": "Chia sẻ",
+      "Delete": "Xóa",
+      "Move": "Di chuyển",
+      "Copy": "Sao chép",
+      "enterFolderName": "Nhập tên thư mục",
+      "errorCreatingFolder": "Lỗi khi tạo thư mục",
+      "Create": "Tạo"
+    },
+    "videoPlayer": {
+      "file": "Tệp",
+      "name": "Tên: {{value}}",
+      "path": "Đường dẫn: {{value}}",
+      "size": "Kích thước: {{value}}",
+      "created": "Ngày tạo: {{value}}",
+      "multimedia": "Đa phương tiện",
+      "format": "Định dạng: {{value}}",
+      "duration": "Thời lượng: {{value}}",
+      "resolution": "Độ phân giải: {{value}}"
+    }
+  }

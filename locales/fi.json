@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play tarvitsee pääsyn mediakirjastoosi toistaakseen ääni- ja videotiedostoja. Anna lupa jatkaaksesi.",
+      "grant_permission": "Anna Lupa",
+      "close_app": "Sulje Sovellus"
+    },
+    "video_library": {
+      "videos": "Videot",
+      "search": "Hae...",
+      "no_videos_available": "Videoita Ei Ole Saatavilla",
+      "no_albums_available": "Albumeita Ei Ole Saatavilla",
+      "view_mode": "Näkymätila",
+      "layout": "Asettelu",
+      "sort": "Järjestä",
+      "cancel": "Peruuta",
+      "done": "Valmis"
+    },
+    "music_library": {
+      "music": "Musiikki",
+      "songs": "Kappaleet",
+      "search": "Hae...",
+      "start_adding_favorites": "Aloita suosikkikappaleidesi lisääminen nauttiaksesi niistä täällä!",
+      "your_starry_favorites": "Tähdellä Merkityt Suosikkisi",
+      "loading_starry_favorites": "Ladataan Tähdellä Merkityt Suosikkisi...",
+      "no_music_available": "Musiikkia Ei Ole Saatavilla",
+      "no_albums_available": "Albumeita Ei Ole Saatavilla",
+      "view_mode": "Näkymätila",
+      "layout": "Asettelu",
+      "sort": "Järjestä",
+      "cancel": "Peruuta",
+      "done": "Valmis"
+    },
+    "settings": {
+      "title": "Asetukset",
+      "app_theme": "Sovelluksen Teema",
+      "language": "Kieli",
+      "pip_settings": "PiP-Asetukset",
+      "terms_of_use": "Käyttöehdot ja Säännöt",
+      "privacy_policy": "Tietosuojakäytäntö",
+      "accept": "Hyväksy",
+      "app_language": "Sovelluksen Kieli",
+      "starts_pip": "Käynnistä Kuva Kuvassa Automaattisesti",
+      "save": "Tallenna",
+      "cancel": "Peruuta",
+      "terms_of_use_content": "Tervetuloa Winu Playhin, video- ja musiikkisoitinsovellukseen, jonka on kehittänyt Winu Co. Käyttämällä Winu Playta hyväksyt seuraavat käyttöehdot:\n\n1. **Ehtojen Hyväksyminen**:\n Lataamalla, asentamalla tai käyttämällä Winu Playta hyväksyt näiden käyttöehtojen noudattamisen. Jos et hyväksy, poista sovellus.\n\n2. **Sovelluksen Käyttö**:\n Winu Play mahdollistaa laitteellesi tallennettujen video- ja äänitiedostojen toistamisen. Olet vastuussa siitä, että sinulla on laillinen oikeus käyttää ja toistaa näitä tiedostoja.\n\n3. **Tiliä Ei Vaadita**:\n Winu Play ei vaadi käyttäjän rekisteröitymistä tai kirjautumista. Henkilökohtaisia tietoja ei kerätä eikä tallenneta.\n\n4. **Kielletyt Toiminnot**:\n Et saa käyttää Winu Playta laittomiin tarkoituksiin, mukaan lukien mutta ei rajoittuen tekijänoikeudella suojatun materiaalin jakamiseen ilman lupaa tai toimintoihin, jotka vahingoittavat muita käyttäjiä tai sovelluksen toimivuutta.\n\n5. **Immateriaalioikeudet**:\n Winu Play ja sen logo ovat Winu Co:n omaisuutta. Et saa jäljentää, muokata tai jakaa mitään osaa sovelluksesta ilman Winu Co:n kirjallista lupaa.\n\n6. **Takuuvapaus**:\n Winu Play tarjotaan ”sellaisena kuin se on” ilman minkäänlaisia nimenomaisia tai epäsuoria takuita. Winu Co ei takaa sovelluksen keskeytymätöntä tai virheetöntä toimintaa.\n\n7. **Vastuunrajoitus**:\n Winu Co ei ole vastuussa välillisistä, satunnaisista, erityisistä tai seurauksellisista vahingoista, jotka johtuvat Winu Playn käytöstä tai kyvyttömyydestä käyttää sitä.\n\n8. **Ehtojen Muutokset**:\n Winu Co voi päivittää näitä käyttöehtoja milloin tahansa. Jatkamalla sovelluksen käyttöä tällaisten muutosten jälkeen hyväksyt uudet ehdot.\n\n9. **Lopettaminen**:\n Winu Co pidättää oikeuden lopettaa tai rajoittaa pääsyä Winu Playhin oman harkintansa mukaan, jos rikot näitä ehtoja.\n\n10. **Ota Yhteyttä**:\n Jos sinulla on kysymyksiä tai huolenaiheita, ota meihin yhteyttä osoitteessa winu-co@outlook.com.\n\nNäitä käyttöehtoja säätelevät sen lainkäyttöalueen lait, jossa Winu Co sijaitsee. Käyttämällä Winu Playta suostut ratkaisemaan mahdolliset riidat välimiesmenettelyllä tai kyseisen lainkäyttöalueen toimivaltaisissa tuomioistuimissa.",
+      "privacy_policy_content": "Winu Playn Tietosuojakäytäntö\n\nWinu Play, jonka on kehittänyt Winu Co, on sitoutunut suojelemaan yksityisyyttäsi. Tämä tietosuojakäytäntö selittää, miten käsittelemme tietojasi, kun käytät video- ja musiikkisoitinsovellustamme.\n\n1. **Ei Tietojen Keräystä**:\n Winu Play ei kerää, tallenna tai lähetä henkilökohtaisia tietoja tai laitetietoja. Emme vaadi rekisteröitymistä, kirjautumista tai tilin luomista, emmekä seuraa toimintaasi tai jaa tietoja kolmansien osapuolten kanssa.\n\n2. **Paikallinen Käyttö**:\n Winu Play toimii täysin laitteellasi ja käyttää vain niitä video- ja äänitiedostoja, jotka valitset toistettavaksi paikallisesta tallennustilastasi. Mitään tietoja ei lähetetä palvelimille tai ulkoisille palveluille.\n\n3. **Ei Kolmansien Osapuolten Palveluita**:\n Emme integroi kolmansien osapuolten analytiikkaa, mainoksia tai seurantatyökaluja, jotka voisivat kerätä tietoja.\n\n4. **Luvat**:\n Winu Play pyytää pääsyä mediatiedostoihisi (videot ja musiikki) toimiakseen. Sinä hallitset näitä lupia ja voit peruuttaa ne milloin tahansa laitteesi asetuksista.\n\n5. **Käytännön Muutokset**:\n Winu Co voi päivittää tämän tietosuojakäytännön heijastaakseen muutoksia käytännöissämme. Ilmoitamme sinulle merkittävistä muutoksista sovelluksen kautta tai yhteystietojemme avulla.\n\n6. **Ota Yhteyttä**:\n Jos sinulla on kysymyksiä tai huolenaiheita yksityisyydestäsi, ota meihin yhteyttä osoitteessa winu-co@outlook.com.\n\nKäyttämällä Winu Playta vahvistat, että olet lukenut ja ymmärtänyt tämän tietosuojakäytännön. Tämä käytäntö noudattaa sovellettavia tietosuojalakeja ja sovelluskauppojen vaatimuksia."
+    },
+    "theme_settings": {
+      "title": "Teeman Asetukset",
+      "save": "Tallenna",
+      "color_options": {
+        "background_color": "Taustaväri",
+        "text_color": "Tekstin Väri",
+        "nav_bar_color": "Navigointipalkin Väri",
+        "icon_tint_color": "Kuvakkeiden Sävy",
+        "button_bg_color": "Painikkeen Taustaväri",
+        "active_button_color": "Aktiivisen Painikkeen Väri",
+        "mini_player_position": "Mini-Soittimen Sijainti",
+        "mini_player_position_values": {
+          "bottom": "Alhaalla",
+          "top": "Ylhäällä"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Lataa Videoita",
+      "download": "Lataa",
+      "close": "Sulje",
+      "no_videos_founds": "Videoita Ei Löytynyt",
+      "download_progress": "Latauksen Edistyminen",
+      "no_downloads": "Ei Latauksia"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopioi Tänne",
+      "Move Here": "Siirrä Tänne",
+      "Cancel": "Peruuta",
+      "Copying...": "Kopioidaan...",
+      "Moving...": "Siirretään...",
+      "No folders found": "Kansioita Ei Löytynyt",
+      "placeholder": "Etsi kansioita...",
+      "Copy To": "Kopioi Kohteeseen",
+      "Move To": "Siirrä Kohteeseen",
+      "Confirm": "Vahvista",
+      "Deleting...": "Poistetaan...",
+      "deleteConfirmation": "Oletko varma, että haluat poistaa tiedoston {{filename}}?",
+      "Save": "Tallenna",
+      "Rename": "Nimeä Uudelleen",
+      "Share": "Jaa",
+      "Delete": "Poista",
+      "Move": "Siirrä",
+      "Copy": "Kopioi",
+      "enterFolderName": "Syötä kansion nimi",
+      "errorCreatingFolder": "Virhe kansion luomisessa",
+      "Create": "Luo"
+    },
+    "videoPlayer": {
+      "file": "Tiedosto",
+      "name": "Nimi: {{value}}",
+      "path": "Polku: {{value}}",
+      "size": "Koko: {{value}}",
+      "created": "Luotu: {{value}}",
+      "multimedia": "Multimedia",
+      "format": "Muoto: {{value}}",
+      "duration": "Kesto: {{value}}",
+      "resolution": "Resoluutio: {{value}}"
+    }
+  }

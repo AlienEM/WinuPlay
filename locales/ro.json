@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play necesită acces la biblioteca ta multimedia pentru a reda fișiere audio și video. Te rugăm să acorzi permisiunea pentru a continua.",
+      "grant_permission": "Acordă Permisiune",
+      "close_app": "Închide Aplicația"
+    },
+    "video_library": {
+      "videos": "Videoclipuri",
+      "search": "Caută...",
+      "no_videos_available": "Niciun Videoclip Disponibil",
+      "no_albums_available": "Niciun Album Disponibil",
+      "view_mode": "Mod Vizualizare",
+      "layout": "Aspect",
+      "sort": "Sortează",
+      "cancel": "Anulează",
+      "done": "Terminat"
+    },
+    "music_library": {
+      "music": "Muzică",
+      "songs": "Melodii",
+      "search": "Caută...",
+      "start_adding_favorites": "Începe să adaugi melodiile tale preferate pentru a te bucura de ele aici!",
+      "your_starry_favorites": "Favoritele Tale Cu Stea",
+      "loading_starry_favorites": "Încărcare Favorite Cu Stea...",
+      "no_music_available": "Nicio Muzică Disponibilă",
+      "no_albums_available": "Niciun Album Disponibil",
+      "view_mode": "Mod Vizualizare",
+      "layout": "Aspect",
+      "sort": "Sortează",
+      "cancel": "Anulează",
+      "done": "Terminat"
+    },
+    "settings": {
+      "title": "Setări",
+      "app_theme": "Temă Aplicație",
+      "language": "Limbă",
+      "pip_settings": "Setări Imagine în Imagine",
+      "terms_of_use": "Termeni de Utilizare și Reguli",
+      "privacy_policy": "Politica de Confidențialitate",
+      "accept": "Acceptă",
+      "app_language": "Limba Aplicației",
+      "starts_pip": "Pornește Automat Imagine în Imagine",
+      "save": "Salvează",
+      "cancel": "Anulează",
+      "terms_of_use_content": "Bine ai venit la Winu Play, o aplicație de redare video și muzică dezvoltată de Winu Co. Prin utilizarea Winu Play, ești de acord cu următorii Termeni de Utilizare:\n\n1. **Acceptarea Termenilor**:\n Prin descărcarea, instalarea sau utilizarea Winu Play, ești de acord să respecți acești Termeni de Utilizare. Dacă nu ești de acord, te rugăm să dezinstalezi aplicația.\n\n2. **Utilizarea Aplicației**:\n Winu Play îți permite să redai fișiere video și audio stocate pe dispozitivul tău. Este responsabilitatea ta să te asiguri că ai dreptul legal de a accesa și reda aceste fișiere.\n\n3. **Cont Nu Este Necesar**:\n Winu Play nu necesită înregistrarea sau autentificarea utilizatorului. Nu se colectează și nu se stochează date personale.\n\n4. **Activități Interzise**:\n Nu poți utiliza Winu Play în scopuri ilegale, inclusiv, dar fără a se limita la, distribuirea de materiale protejate de drepturi de autor fără permisiune sau participarea la activități care dăunează altor utilizatori sau funcționalității aplicației.\n\n5. **Proprietate Intelectuală**:\n Winu Play și logo-ul său sunt proprietatea Winu Co. Nu ai voie să reproduci, să modifici sau să distribui nicio parte a aplicației fără permisiunea scrisă a Winu Co.\n\n6. **Renunțarea la Garanții**:\n Winu Play este furnizat „așa cum este”, fără garanții explicite sau implicite. Winu Co nu garantează funcționarea neîntreruptă sau fără erori a aplicației.\n\n7. **Limitarea Răspunderii**:\n Winu Co nu este responsabil pentru daune indirecte, incidentale, speciale sau consecutive care rezultă din utilizarea sau incapacitatea de a utiliza Winu Play.\n\n8. **Modificări ale Termenilor**:\n Winu Co poate actualiza acești Termeni de Utilizare în orice moment. Continuarea utilizării aplicației după astfel de modificări constituie acceptarea noilor termeni.\n\n9. **Încetare**:\n Winu Co își rezervă dreptul de a înceta sau restricționa accesul la Winu Play la propria discreție, dacă încalci acești termeni.\n\n10. **Contactează-ne**:\n Dacă ai întrebări sau preocupări, te rugăm să ne contactezi la winu-co@outlook.com.\n\nAcești Termeni de Utilizare sunt guvernați de legile jurisdicției în care se află Winu Co. Prin utilizarea Winu Play, ești de acord să soluționezi orice dispute prin arbitraj sau în instanțele competente ale acelei jurisdicții.",
+      "privacy_policy_content": "Politica de Confidențialitate Winu Play\n\nWinu Play, dezvoltat de Winu Co, se angajează să protejeze confidențialitatea ta. Această Politică de Confidențialitate explică modul în care gestionăm informațiile tale atunci când utilizezi aplicația noastră de redare video și muzică.\n\n1. **Fără Colectare de Date**:\n Winu Play nu colectează, nu stochează și nu transmite date personale sau date ale dispozitivului. Nu solicităm înregistrare, autentificare sau crearea unui cont și nu urmărim activitatea ta sau nu împărtășim informații cu terțe părți.\n\n2. **Utilizare Locală**:\n Winu Play funcționează exclusiv pe dispozitivul tău și accesează doar fișierele video și audio pe care le alegi să le redai din stocarea locală. Niciun fel de date nu sunt trimise către servere sau servicii externe.\n\n3. **Fără Servicii Terțe**:\n Nu integrăm analize de la terți, reclame sau instrumente de urmărire care ar putea colecta date.\n\n4. **Permisiuni**:\n Winu Play necesită acces la fișierele tale multimedia (video și muzică) pentru a funcționa. Tu controlezi aceste permisiuni și le poți revoca oricând prin setările dispozitivului.\n\n5. **Modificări ale Politicii**:\n Winu Co poate actualiza această Politică de Confidențialitate pentru a reflecta schimbările în practicile noastre. Te vom informa despre modificările semnificative prin intermediul aplicației sau al informațiilor noastre de contact.\n\n6. **Contactează-ne**:\n Dacă ai întrebări sau preocupări legate de confidențialitatea ta, te rugăm să ne contactezi la winu-co@outlook.com.\n\nPrin utilizarea Winu Play, confirmi că ai citit și ai înțeles această Politică de Confidențialitate. Această politică respectă legile aplicabile privind protecția datelor și cerințele magazinelor de aplicații."
+    },
+    "theme_settings": {
+      "title": "Setări Temă",
+      "save": "Salvează",
+      "color_options": {
+        "background_color": "Culoare Fundal",
+        "text_color": "Culoare Text",
+        "nav_bar_color": "Culoare Bară de Navigație",
+        "icon_tint_color": "Ton Culoare Pictograme",
+        "button_bg_color": "Culoare Fundal Buton",
+        "active_button_color": "Culoare Buton Activ",
+        "mini_player_position": "Poziție Mini Player",
+        "mini_player_position_values": {
+          "bottom": "Jos",
+          "top": "Sus"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Descarcă Videoclipuri",
+      "download": "Descarcă",
+      "close": "Închide",
+      "no_videos_founds": "Niciun Videoclip Găsit",
+      "download_progress": "Progres Descărcare",
+      "no_downloads": "Nicio Descărcare"
+    },
+    "fileOperation": {
+      "Copy Here": "Copiază Aici",
+      "Move Here": "Mută Aici",
+      "Cancel": "Anulează",
+      "Copying...": "Se copiază...",
+      "Moving...": "Se mută...",
+      "No folders found": "Niciun Dosar Găsit",
+      "placeholder": "Caută dosare...",
+      "Copy To": "Copiază În",
+      "Move To": "Mută În",
+      "Confirm": "Confirmă",
+      "Deleting...": "Se șterge...",
+      "deleteConfirmation": "Ești sigur că dorești să ștergi {{filename}}?",
+      "Save": "Salvează",
+      "Rename": "Redenumește",
+      "Share": "Distribuie",
+      "Delete": "Șterge",
+      "Move": "Mută",
+      "Copy": "Copiază",
+      "enterFolderName": "Introdu numele dosarului",
+      "errorCreatingFolder": "Eroare la crearea dosarului",
+      "Create": "Creează"
+    },
+    "videoPlayer": {
+      "file": "Fișier",
+      "name": "Nume: {{value}}",
+      "path": "Cale: {{value}}",
+      "size": "Dimensiune: {{value}}",
+      "created": "Creat: {{value}}",
+      "multimedia": "Multimedia",
+      "format": "Format: {{value}}",
+      "duration": "Durată: {{value}}",
+      "resolution": "Rezoluție: {{value}}"
+    }
+  }

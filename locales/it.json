@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play richiede l'accesso alla tua libreria multimediale per riprodurre file audio e video. Per favore, concedi il permesso per continuare.",
+      "grant_permission": "Concedi Permesso",
+      "close_app": "Chiudi App"
+    },
+    "video_library": {
+      "videos": "Video",
+      "search": "Cerca...",
+      "no_videos_available": "Nessun Video Disponibile",
+      "no_albums_available": "Nessun Album Disponibile",
+      "view_mode": "Modalità di Visualizzazione",
+      "layout": "Layout",
+      "sort": "Ordina",
+      "cancel": "Annulla",
+      "done": "Fatto"
+    },
+    "music_library": {
+      "music": "Musica",
+      "songs": "Canzoni",
+      "search": "Cerca...",
+      "start_adding_favorites": "Inizia ad aggiungere le tue canzoni preferite per godertelo qui!",
+      "your_starry_favorites": "I Tuoi Preferiti con Stella",
+      "loading_starry_favorites": "Caricamento dei Tuoi Preferiti con Stella...",
+      "no_music_available": "Nessuna Musica Disponibile",
+      "no_albums_available": "Nessun Album Disponibile",
+      "view_mode": "Modalità di Visualizzazione",
+      "layout": "Layout",
+      "sort": "Ordina",
+      "cancel": "Annulla",
+      "done": "Fatto"
+    },
+    "settings": {
+      "title": "Impostazioni",
+      "app_theme": "Tema dell'App",
+      "language": "Lingua",
+      "pip_settings": "Impostazioni PiP",
+      "terms_of_use": "Termini d'Uso e Regole",
+      "privacy_policy": "Informativa sulla Privacy",
+      "accept": "Accetta",
+      "app_language": "Lingua dell'App",
+      "starts_pip": "Avvia Automaticamente Immagine nell'Immagine",
+      "save": "Salva",
+      "cancel": "Annulla",
+      "terms_of_use_content": "Benvenuto in Winu Play, un'app per la riproduzione di video e musica sviluppata da Winu Co. Utilizzando Winu Play, accetti i seguenti Termini d'Uso:\n\n1. **Accettazione dei Termini**:\n Scaricando, installando o utilizzando Winu Play, accetti di rispettare questi Termini d'Uso. Se non sei d'accordo, per favore disinstalla l'app.\n\n2. **Uso dell'App**:\n Winu Play ti consente di riprodurre file video e audio memorizzati sul tuo dispositivo. Sei responsabile di garantire che tu abbia il diritto legale di accedere e riprodurre questi file.\n\n3. **Nessun Account Richiesto**:\n Winu Play non richiede registrazione o accesso da parte dell'utente. Nessun dato personale viene raccolto o memorizzato.\n\n4. **Attività Proibite**:\n Non puoi utilizzare Winu Play per scopi illegali, inclusa, ma non limitata a, la distribuzione di materiale protetto da copyright senza permesso o la partecipazione ad attività che danneggiano altri utenti o la funzionalità dell'app.\n\n5. **Proprietà Intellettuale**:\n Winu Play e il suo logo sono proprietà di Winu Co. Non puoi riprodurre, modificare o distribuire alcuna parte dell'app senza il permesso scritto di Winu Co.\n\n6. **Esclusione di Garanzie**:\n Winu Play è fornito “così com'è” senza garanzie di alcun tipo, espresse o implicite. Winu Co non garantisce un funzionamento ininterrotto o privo di errori dell'app.\n\n7. **Limitazione di Responsabilità**:\n Winu Co non sarà responsabile per danni indiretti, incidentali, speciali o consequenziali derivanti dall'uso o dall'impossibilità di utilizzare Winu Play.\n\n8. **Modifiche ai Termini**:\n Winu Co può aggiornare questi Termini d'Uso in qualsiasi momento. L'uso continuato dell'app dopo tali modifiche costituisce l'accettazione dei nuovi termini.\n\n9. **Terminazione**:\n Winu Co si riserva il diritto di terminare o limitare l'accesso a Winu Play a propria discrezione se violi questi termini.\n\n10. **Contattaci**:\n Se hai domande o dubbi, contattaci all'indirizzo winu-co@outlook.com.\n\nQuesti Termini d'Uso sono regolati dalle leggi della giurisdizione in cui ha sede Winu Co. Utilizzando Winu Play, accetti di risolvere eventuali controversie tramite arbitrato o nei tribunali competenti di tale giurisdizione.",
+      "privacy_policy_content": "Informativa sulla Privacy di Winu Play\n\nWinu Play, sviluppato da Winu Co, si impegna a proteggere la tua privacy. Questa Informativa sulla Privacy spiega come gestiamo le tue informazioni quando utilizzi la nostra app per la riproduzione di video e musica.\n\n1. **Nessuna Raccolta di Dati**:\n Winu Play non raccoglie, memorizza o trasmette dati personali o relativi al dispositivo. Non richiediamo registrazione, accesso o creazione di un account, né monitoriamo la tua attività o condividiamo informazioni con terze parti.\n\n2. **Uso Locale**:\n Winu Play funziona interamente sul tuo dispositivo e accede solo ai file video e audio che scegli di riprodurre dalla tua memoria locale. Nessun dato viene inviato a server o servizi esterni.\n\n3. **Nessun Servizio di Terze Parti**:\n Non integriamo analisi di terze parti, pubblicità o strumenti di tracciamento che potrebbero raccogliere dati.\n\n4. **Permessi**:\n Winu Play richiede l'accesso ai tuoi file multimediali (video e musica) per funzionare. Tu controlli questi permessi e puoi revocarli in qualsiasi momento tramite le impostazioni del tuo dispositivo.\n\n5. **Modifiche all'Informativa**:\n Winu Co può aggiornare questa Informativa sulla Privacy per riflettere cambiamenti nelle nostre pratiche. Ti informeremo di modifiche significative tramite l'app o i nostri dati di contatto.\n\n6. **Contattaci**:\n Se hai domande o dubbi sulla tua privacy, contattaci all'indirizzo winu-co@outlook.com.\n\nUtilizzando Winu Play, riconosci di aver letto e compreso questa Informativa sulla Privacy. Questa informativa è conforme alle leggi sulla protezione dei dati applicabili e ai requisiti degli store di app."
+    },
+    "theme_settings": {
+      "title": "Impostazioni Tema",
+      "save": "Salva",
+      "color_options": {
+        "background_color": "Colore di Sfondo",
+        "text_color": "Colore del Testo",
+        "nav_bar_color": "Colore della Barra di Navigazione",
+        "icon_tint_color": "Tonalità delle Icone",
+        "button_bg_color": "Colore di Sfondo del Pulsante",
+        "active_button_color": "Colore del Pulsante Attivo",
+        "mini_player_position": "Posizione del Mini Player",
+        "mini_player_position_values": {
+          "bottom": "In Basso",
+          "top": "In Alto"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Scarica Video",
+      "download": "Scarica",
+      "close": "Chiudi",
+      "no_videos_founds": "Nessun Video Trovato",
+      "download_progress": "Avanzamento Download",
+      "no_downloads": "Nessun Download"
+    },
+    "fileOperation": {
+      "Copy Here": "Copia Qui",
+      "Move Here": "Sposta Qui",
+      "Cancel": "Annulla",
+      "Copying...": "Copia in Corso...",
+      "Moving...": "Spostamento in Corso...",
+      "No folders found": "Nessuna Cartella Trovata",
+      "placeholder": "Cerca cartelle...",
+      "Copy To": "Copia In",
+      "Move To": "Sposta In",
+      "Confirm": "Conferma",
+      "Deleting...": "Eliminazione in Corso...",
+      "deleteConfirmation": "Sei sicuro di voler eliminare {{filename}}?",
+      "Save": "Salva",
+      "Rename": "Rinomina",
+      "Share": "Condividi",
+      "Delete": "Elimina",
+      "Move": "Sposta",
+      "Copy": "Copia",
+      "enterFolderName": "Inserisci il nome della cartella",
+      "errorCreatingFolder": "Errore nella creazione della cartella",
+      "Create": "Crea"
+    },
+    "videoPlayer": {
+      "file": "File",
+      "name": "Nome: {{value}}",
+      "path": "Percorso: {{value}}",
+      "size": "Dimensione: {{value}}",
+      "created": "Creato: {{value}}",
+      "multimedia": "Multimediale",
+      "format": "Formato: {{value}}",
+      "duration": "Durata: {{value}}",
+      "resolution": "Risoluzione: {{value}}"
+    }
+  }

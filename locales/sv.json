@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play behöver tillgång till ditt mediabibliotek för att spela upp ljud- och videofiler. Vänligen ge tillstånd för att fortsätta.",
+      "grant_permission": "Bevilja tillstånd",
+      "close_app": "Stäng app"
+    },
+    "video_library": {
+      "videos": "Videor",
+      "search": "Sök...",
+      "no_videos_available": "Inga videor tillgängliga",
+      "no_albums_available": "Inga album tillgängliga",
+      "view_mode": "Visningsläge",
+      "layout": "Layout",
+      "sort": "Sortera",
+      "cancel": "Avbryt",
+      "done": "Klar"
+    },
+    "music_library": {
+      "music": "Musik",
+      "songs": "Låtar",
+      "search": "Sök...",
+      "start_adding_favorites": "Börja lägga till dina favoritlåtar för att njuta av dem här!",
+      "your_starry_favorites": "Dina stjärnklara favoriter",
+      "loading_starry_favorites": "Laddar dina stjärnklara favoriter...",
+      "no_music_available": "Ingen musik tillgänglig",
+      "no_albums_available": "Inga album tillgängliga",
+      "view_mode": "Visningsläge",
+      "layout": "Layout",
+      "sort": "Sortera",
+      "cancel": "Avbryt",
+      "done": "Klar"
+    },
+    "settings": {
+      "title": "Inställningar",
+      "app_theme": "Apptema",
+      "language": "Språk",
+      "pip_settings": "Bild-i-bild-inställningar",
+      "terms_of_use": "Användarvillkor",
+      "privacy_policy": "Integritetspolicy",
+      "accept": "Acceptera",
+      "app_language": "Appens språk",
+      "starts_pip": "Starta bild-i-bild automatiskt",
+      "save": "Spara",
+      "cancel": "Avbryt",
+      "terms_of_use_content": "Välkommen till Winu Play, en video- och musikspelarapp utvecklad av Winu Co. Genom att använda Winu Play godkänner du följande villkor:\n\n1. **Acceptera villkor**:\n Genom att ladda ner, installera eller använda Winu Play godkänner du dessa villkor. Om du inte godkänner, avinstallera appen.\n\n2. **Appanvändning**:\n Winu Play låter dig spela upp video- och ljudfiler lagrade på din enhet. Du ansvarar för att ha rätt att använda dessa filer.\n\n3. **Inget konto krävs**:\n Winu Play kräver inte registrering eller inloggning. Ingen personlig data samlas in.\n\n4. **Förbjuden användning**:\n Du får inte använda appen för olagliga ändamål, inklusive distribution av upphovsrättsskyddat material utan tillstånd.\n\n5. **Immateriella rättigheter**:\n Winu Play och dess logo är Winu Cos egendom. Du får inte kopiera eller modifiera appen utan tillstånd.\n\n6. **Friskrivning**:\n Winu Play tillhandahålls 'som det är' utan garantier. Winu Co garanterar inte felfri funktion.\n\n7. **Ansvarssbegränsning**:\n Winu Co ansvarar inte för indirekta skador som uppstår från appanvändning.\n\n8. **Villkorsändringar**:\n Winu Co kan uppdatera dessa villkor när som helst. Fortsatt användning innebär accepterande.\n\n9. **Uppsägning**:\n Winu Co förbehåller sig rätten att avsluta åtkomst vid villkorsbrott.\n\n10. **Kontakt**:\n Frågor skickas till winu-co@outlook.com.\n\nDessa villkor regleras av lagarna i Winu Cos jurisdiktion.",
+      "privacy_policy_content": "Integritetspolicy för Winu Play\n\nWinu Co värnar om din integritet. Denna policy förklarar hur vi hanterar din information:\n\n1. **Ingen datainsamling**:\n Winu Play samlar inte in, lagrar eller överför personlig data. Ingen registrering krävs.\n\n2. **Lokal användning**:\n Appen fungerar enbart på din enhet och kommer endast åt filer du väljer.\n\n3. **Inga tredjepartstjänster**:\n Vi använder inga analys- eller annonsverktyg från tredje part.\n\n4. **Behörigheter**:\n Mediatillgång kan när som helst ändras i enhetsinställningarna.\n\n5. **Policyändringar**:\n Viktiga ändringar meddelas via appen eller e-post.\n\n6. **Kontakt**:\n Frågor om integritet skickas till winu-co@outlook.com.\n\nGenom att använda appen godkänner du denna policy."
+    },
+    "theme_settings": {
+      "title": "Temainställningar",
+      "save": "Spara",
+      "color_options": {
+        "background_color": "Bakgrundsfärg",
+        "text_color": "Textfärg",
+        "nav_bar_color": "Navigeringsfältets färg",
+        "icon_tint_color": "Ikonfärg",
+        "button_bg_color": "Knappbakgrundsfärg",
+        "active_button_color": "Aktiv knappfärg",
+        "mini_player_position": "Miniplayersposition",
+        "mini_player_position_values": {
+          "bottom": "Längst ner",
+          "top": "Längst upp"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Ladda ner videor",
+      "download": "Ladda ner",
+      "close": "Stäng",
+      "no_videos_founds": "Inga videor hittades",
+      "download_progress": "Nedladdningsförlopp",
+      "no_downloads": "Inga nedladdningar"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopiera hit",
+      "Move Here": "Flytta hit",
+      "Cancel": "Avbryt",
+      "Copying...": "Kopierar...",
+      "Moving...": "Flyttar...",
+      "No folders found": "Inga mappar hittades",
+      "placeholder": "Sök mappar...",
+      "Copy To": "Kopiera till",
+      "Move To": "Flytta till",
+      "Confirm": "Bekräfta",
+      "Deleting...": "Raderar...",
+      "deleteConfirmation": "Är du säker på att du vill ta bort {{filename}}?",
+      "Save": "Spara",
+      "Rename": "Byt namn",
+      "Share": "Dela",
+      "Delete": "Radera",
+      "Move": "Flytta",
+      "Copy": "Kopiera",
+      "enterFolderName": "Ange mappnamn",
+      "errorCreatingFolder": "Fel vid skapande av mapp",
+      "Create": "Skapa"
+    },
+    "videoPlayer": {
+      "file": "Fil",
+      "name": "Namn: {{value}}",
+      "path": "Sökväg: {{value}}",
+      "size": "Storlek: {{value}}",
+      "created": "Skapad: {{value}}",
+      "multimedia": "Multimedia",
+      "format": "Format: {{value}}",
+      "duration": "Längd: {{value}}",
+      "resolution": "Upplösning: {{value}}"
+    }
+  }

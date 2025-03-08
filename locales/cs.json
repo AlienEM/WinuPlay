@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play vyžaduje přístup k vaší mediální knihovně pro přehrávání audio a video souborů. Prosím, udělte povolení pro pokračování.",
+      "grant_permission": "Udělit Povolení",
+      "close_app": "Zavřít Aplikaci"
+    },
+    "video_library": {
+      "videos": "Videa",
+      "search": "Hledat...",
+      "no_videos_available": "Žádná Videa Nejsou K Dispozici",
+      "no_albums_available": "Žádná Alba Nejsou K Dispozici",
+      "view_mode": "Režim Zobrazení",
+      "layout": "Rozložení",
+      "sort": "Třídit",
+      "cancel": "Zrušit",
+      "done": "Hotovo"
+    },
+    "music_library": {
+      "music": "Hudba",
+      "songs": "Písně",
+      "search": "Hledat...",
+      "start_adding_favorites": "Začněte přidávat své oblíbené písně, abyste si je zde užili!",
+      "your_starry_favorites": "Vaše Hvězdné Oblíbené",
+      "loading_starry_favorites": "Načítání Vašich Hvězdných Oblíbených...",
+      "no_music_available": "Žádná Hudba Není K Dispozici",
+      "no_albums_available": "Žádná Alba Nejsou K Dispozici",
+      "view_mode": "Režim Zobrazení",
+      "layout": "Rozložení",
+      "sort": "Třídit",
+      "cancel": "Zrušit",
+      "done": "Hotovo"
+    },
+    "settings": {
+      "title": "Nastavení",
+      "app_theme": "Téma Aplikace",
+      "language": "Jazyk",
+      "pip_settings": "Nastavení PiP",
+      "terms_of_use": "Podmínky Používání a Pravidla",
+      "privacy_policy": "Zásady Ochrany Soukromí",
+      "accept": "Přijmout",
+      "app_language": "Jazyk Aplikace",
+      "starts_pip": "Spustit Obraz v Obrazu Automaticky",
+      "save": "Uložit",
+      "cancel": "Zrušit",
+      "terms_of_use_content": "Vítejte v Winu Play, aplikaci pro přehrávání videa a hudby vyvinuté společností Winu Co. Používáním Winu Play souhlasíte s následujícími Podmínkami Používání:\n\n1. **Přijetí Podmínek**:\n Stažením, instalací nebo používáním Winu Play souhlasíte s dodržováním těchto Podmínek Používání. Pokud nesouhlasíte, prosím, odinstalujte aplikaci.\n\n2. **Používání Aplikace**:\n Winu Play vám umožňuje přehrávat video a audio soubory uložené na vašem zařízení. Jste odpovědní za zajištění, že máte zákonné právo přistupovat k těmto souborům a přehrávat je.\n\n3. **Není Vyžadován Účet**:\n Winu Play nevyžaduje registraci ani přihlášení uživatele. Žádné osobní údaje nejsou shromažďovány ani ukládány.\n\n4. **Zakázané Činnosti**:\n Nesmíte používat Winu Play k žádným nezákonným účelům, včetně, ale nejen, distribuce materiálů chráněných autorskými právy bez povolení nebo zapojení do činností, které škodí jiným uživatelům nebo funkčnosti aplikace.\n\n5. **Duševní Vlastnictví**:\n Winu Play a jeho logo jsou vlastnictvím společnosti Winu Co. Nesmíte reprodukovat, upravovat ani distribuovat žádnou část aplikace bez písemného povolení od Winu Co.\n\n6. **Vyloučení Záruk**:\n Winu Play je poskytován „tak, jak je“ bez jakýchkoli záruk, ať už výslovných nebo předpokládaných. Winu Co nezaručuje nepřerušený nebo bezchybný provoz aplikace.\n\n7. **Omezení Odpovědnosti**:\n Winu Co nenese odpovědnost za žádné nepřímé, náhodné, zvláštní nebo následné škody vyplývající z používání nebo nemožnosti používat Winu Play.\n\n8. **Změny Podmínek**:\n Winu Co může kdykoli aktualizovat tyto Podmínky Používání. Pokračování v používání aplikace po těchto změnách znamená přijetí nových podmínek.\n\n9. **Ukončení**:\n Winu Co si vyhrazuje právo ukončit nebo omezit přístup k Winu Play podle svého uvážení, pokud porušíte tyto podmínky.\n\n10. **Kontaktujte Nás**:\n Pokud máte otázky nebo obavy, kontaktujte nás na winu-co@outlook.com.\n\nTyto Podmínky Používání se řídí zákony jurisdikce, kde má Winu Co své sídlo. Používáním Winu Play souhlasíte s řešením jakýchkoli sporů prostřednictvím arbitráže nebo u příslušných soudů této jurisdikce.",
+      "privacy_policy_content": "Zásady Ochrany Soukromí Winu Play\n\nWinu Play, vyvinutý společností Winu Co, se zavazuje chránit vaše soukromí. Tyto Zásady Ochrany Soukromí vysvětlují, jak nakládáme s vašimi informacemi při používání naší aplikace pro přehrávání videa a hudby.\n\n1. **Žádné Shromažďování Dat**:\n Winu Play neshromažďuje, neukládá ani nepřenáší žádné osobní údaje ani údaje o zařízení. Nevyžadujeme registraci, přihlášení ani vytvoření účtu a nesledujeme vaši aktivitu ani nesdílíme informace s třetími stranami.\n\n2. **Místní Použití**:\n Winu Play funguje výhradně na vašem zařízení a přistupuje pouze k video a audio souborům, které si vyberete k přehrání z místního úložiště. Žádné údaje nejsou odesílány na servery ani externí služby.\n\n3. **Žádné Služby Třetích Stran**:\n Neintegrujeme analytické nástroje třetích stran, reklamy ani sledovací nástroje, které by mohly shromažďovat data.\n\n4. **Oprávnění**:\n Winu Play vyžaduje přístup k vašim mediálním souborům (videa a hudba), aby mohl fungovat. Tato oprávnění ovládáte vy a můžete je kdykoli odvolat prostřednictvím nastavení zařízení.\n\n5. **Změny Zásad**:\n Winu Co může aktualizovat tyto Zásady Ochrany Soukromí, aby odrážely změny v našich postupech. O významných změnách vás budeme informovat prostřednictvím aplikace nebo našich kontaktních údajů.\n\n6. **Kontaktujte Nás**:\n Pokud máte otázky nebo obavy týkající se vašeho soukromí, kontaktujte nás na winu-co@outlook.com.\n\nPoužíváním Winu Play potvrzujete, že jste si přečetli a pochopili tyto Zásady Ochrany Soukromí. Tyto zásady jsou v souladu s platnými zákony o ochraně dat a požadavky obchodu s aplikacemi."
+    },
+    "theme_settings": {
+      "title": "Nastavení Tématu",
+      "save": "Uložit",
+      "color_options": {
+        "background_color": "Barva Pozadí",
+        "text_color": "Barva Textu",
+        "nav_bar_color": "Barva Navigační Lišty",
+        "icon_tint_color": "Barva Odstínu Ikon",
+        "button_bg_color": "Barva Pozadí Tlačítka",
+        "active_button_color": "Barva Aktivního Tlačítka",
+        "mini_player_position": "Pozice Mini Přehrávače",
+        "mini_player_position_values": {
+          "bottom": "Dole",
+          "top": "Nahoře"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Stáhnout Videa",
+      "download": "Stáhnout",
+      "close": "Zavřít",
+      "no_videos_founds": "Nenalezena Žádná Videa",
+      "download_progress": "Průběh Stahování",
+      "no_downloads": "Žádné Stahování"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopírovat Sem",
+      "Move Here": "Přesunout Sem",
+      "Cancel": "Zrušit",
+      "Copying...": "Kopírování...",
+      "Moving...": "Přesouvání...",
+      "No folders found": "Nenalezeny Žádné Složky",
+      "placeholder": "Hledat složky...",
+      "Copy To": "Kopírovat Do",
+      "Move To": "Přesunout Do",
+      "Confirm": "Potvrdit",
+      "Deleting...": "Mazání...",
+      "deleteConfirmation": "Jste si jisti, že chcete smazat {{filename}}?",
+      "Save": "Uložit",
+      "Rename": "Přejmenovat",
+      "Share": "Sdílet",
+      "Delete": "Smazat",
+      "Move": "Přesunout",
+      "Copy": "Kopírovat",
+      "enterFolderName": "Zadejte název složky",
+      "errorCreatingFolder": "Chyba při vytváření složky",
+      "Create": "Vytvořit"
+    },
+    "videoPlayer": {
+      "file": "Soubor",
+      "name": "Název: {{value}}",
+      "path": "Cesta: {{value}}",
+      "size": "Velikost: {{value}}",
+      "created": "Vytvořeno: {{value}}",
+      "multimedia": "Multimédia",
+      "format": "Formát: {{value}}",
+      "duration": "Délka: {{value}}",
+      "resolution": "Rozlišení: {{value}}"
+    }
+  }

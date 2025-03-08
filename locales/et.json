@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play vajab juurdepääsu teie meediateegile, et esitada heli- ja videofaile. Jätkamiseks palun andke luba.",
+      "grant_permission": "Anna Luba",
+      "close_app": "Sulge Rakendus"
+    },
+    "video_library": {
+      "videos": "Videod",
+      "search": "Otsi...",
+      "no_videos_available": "Videoid Pole Saadaval",
+      "no_albums_available": "Albumeid Pole Saadaval",
+      "view_mode": "Vaate Režiim",
+      "layout": "Paigutus",
+      "sort": "Sorteeri",
+      "cancel": "Tühista",
+      "done": "Valmis"
+    },
+    "music_library": {
+      "music": "Muusika",
+      "songs": "Laulud",
+      "search": "Otsi...",
+      "start_adding_favorites": "Alustage oma lemmiklaulude lisamist, et neid siin nautida!",
+      "your_starry_favorites": "Teie Tähtedega Lemmikud",
+      "loading_starry_favorites": "Teie Tähtedega Lemmikute Laadimine...",
+      "no_music_available": "Muusikat Pole Saadaval",
+      "no_albums_available": "Albumeid Pole Saadaval",
+      "view_mode": "Vaate Režiim",
+      "layout": "Paigutus",
+      "sort": "Sorteeri",
+      "cancel": "Tühista",
+      "done": "Valmis"
+    },
+    "settings": {
+      "title": "Seaded",
+      "app_theme": "Rakenduse Teema",
+      "language": "Keel",
+      "pip_settings": "PiP Seaded",
+      "terms_of_use": "Kasutustingimused ja Reeglid",
+      "privacy_policy": "Privaatsuspoliitika",
+      "accept": "Nõustu",
+      "app_language": "Rakenduse Keel",
+      "starts_pip": "Käivita Pilt-Pildis Automaatselt",
+      "save": "Salvesta",
+      "cancel": "Tühista",
+      "terms_of_use_content": "Tere tulemast Winu Play’sse, video- ja muusikamängija rakendusse, mille on arendanud Winu Co. Winu Play kasutamisega nõustute järgmiste kasutustingimustega:\n\n1. **Tingimuste Nõustumine**:\n Winu Play allalaadimise, installimise või kasutamisega nõustute järgima neid kasutustingimusi. Kui te ei nõustu, palun eemaldage rakendus.\n\n2. **Rakenduse Kasutamine**:\n Winu Play võimaldab teil esitada teie seadmes salvestatud video- ja helifaile. Teie vastutusel on tagada, et teil on seaduslik õigus neile failidele juurde pääseda ja neid esitada.\n\n3. **Kontot Ei Nõuta**:\n Winu Play ei nõua kasutaja registreerimist ega sisselogimist. Isikuandmeid ei koguta ega salvestata.\n\n4. **Keelatud Tegevused**:\n Te ei tohi kasutada Winu Play’d ebaseaduslikel eesmärkidel, sealhulgas, kuid mitte ainult, autoriõigusega kaitstud materjali levitamiseks ilma loata või tegevustes osalemiseks, mis kahjustavad teisi kasutajaid või rakenduse funktsionaalsust.\n\n5. **Intellektuaalomand**:\n Winu Play ja selle logo on Winu Co omand. Te ei tohi reprodutseerida, muuta ega levitada rakenduse ühtki osa ilma Winu Co kirjaliku loata.\n\n6. **Garantii Välistamine**:\n Winu Play pakutakse „nagu see on“ ilma igasuguste otseste või kaudsete garantiideta. Winu Co ei taga rakenduse katkematut või veavaba tööd.\n\n7. **Vastutuse Piiramine**:\n Winu Co ei vastuta kaudsete, juhuslike, eriliste ega järgnevate kahjude eest, mis tulenevad Winu Play kasutamisest või selle kasutamise võimatusest.\n\n8. **Tingimuste Muutmine**:\n Winu Co võib neid kasutustingimusi igal ajal uuendada. Rakenduse jätkuv kasutamine pärast selliseid muudatusi tähendab uute tingimuste aktsepteerimist.\n\n9. **Lõpetamine**:\n Winu Co jätab endale õiguse lõpetada või piirata juurdepääsu Winu Play’le oma äranägemise järgi, kui rikute neid tingimusi.\n\n10. **Võtke Meiega Ühendust**:\n Kui teil on küsimusi või muresid, võtke meiega ühendust aadressil winu-co@outlook.com.\n\nNeed kasutustingimused alluvad jurisdiktsiooni seadustele, kus Winu Co asub. Winu Play kasutamisega nõustute lahendama mis tahes vaidlused arbitraaži kaudu või selle jurisdiktsiooni vastavates kohtutes.",
+      "privacy_policy_content": "Winu Play Privaatsuspoliitika\n\nWinu Play, mille on arendanud Winu Co, on pühendunud teie privaatsuse kaitsmisele. See privaatsuspoliitika selgitab, kuidas me käsitleme teie teavet, kui kasutate meie video- ja muusikamängija rakendust.\n\n1. **Andmete Kogumise Puudumine**:\n Winu Play ei kogu, salvesta ega edasta mingeid isiku- ega seadmeandmeid. Me ei nõua registreerimist, sisselogimist ega konto loomist ning me ei jälgi teie tegevust ega jaga teavet kolmandate osapooltega.\n\n2. **Kohalik Kasutus**:\n Winu Play toimib täielikult teie seadmes ja pääseb juurde ainult nendele video- ja helifailidele, mille olete valinud kohalikust salvestusest esitamiseks. Ühtegi andmeid ei saadeta serveritesse ega välistesse teenustesse.\n\n3. **Kolmandate Osapoolte Teenuste Puudumine**:\n Me ei integreeri kolmandate osapoolte analüütikat, reklaame ega jälgimistööriistu, mis võiksid andmeid koguda.\n\n4. **Load**:\n Winu Play nõuab juurdepääsu teie meediafailidele (videod ja muusika), et toimida. Te kontrollite neid lubasid ja saate need igal ajal oma seadme seadete kaudu tühistada.\n\n5. **Poliitika Muudatused**:\n Winu Co võib seda privaatsuspoliitikat uuendada, et kajastada muutusi meie tavades. Teavitame teid olulistest muudatustest rakenduse kaudu või meie kontaktandmete abil.\n\n6. **Võtke Meiega Ühendust**:\n Kui teil on küsimusi või muresid oma privaatsuse kohta, võtke meiega ühendust aadressil winu-co@outlook.com.\n\nWinu Play kasutamisega kinnitate, et olete selle privaatsuspoliitika läbi lugenud ja mõistnud. See poliitika vastab kehtivatele andmekaitseseadustele ja rakenduste poodide nõuetele."
+    },
+    "theme_settings": {
+      "title": "Teema Seaded",
+      "save": "Salvesta",
+      "color_options": {
+        "background_color": "Taustavärv",
+        "text_color": "Teksti Värv",
+        "nav_bar_color": "Navigatsiooniriba Värv",
+        "icon_tint_color": "Ikoonide Toon",
+        "button_bg_color": "Nupu Taustavärv",
+        "active_button_color": "Aktiivse Nupu Värv",
+        "mini_player_position": "Mini-Mängija Asukoht",
+        "mini_player_position_values": {
+          "bottom": "All",
+          "top": "Ülal"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Laadi Videod Alla",
+      "download": "Laadi Alla",
+      "close": "Sulge",
+      "no_videos_founds": "Videoid Ei Leitud",
+      "download_progress": "Allalaadimise Edenemine",
+      "no_downloads": "Allalaadimisi Pole"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopeeri Siia",
+      "Move Here": "Liiguta Siia",
+      "Cancel": "Tühista",
+      "Copying...": "Kopeerimine...",
+      "Moving...": "Liigutamine...",
+      "No folders found": "Kaustu Ei Leitud",
+      "placeholder": "Otsi kaustu...",
+      "Copy To": "Kopeeri Siia",
+      "Move To": "Liiguta Siia",
+      "Confirm": "Kinnita",
+      "Deleting...": "Kustutamine...",
+      "deleteConfirmation": "Kas olete kindel, et soovite kustutada {{filename}}?",
+      "Save": "Salvesta",
+      "Rename": "Nimeta Ümber",
+      "Share": "Jaga",
+      "Delete": "Kustuta",
+      "Move": "Liiguta",
+      "Copy": "Kopeeri",
+      "enterFolderName": "Sisesta kausta nimi",
+      "errorCreatingFolder": "Viga kausta loomisel",
+      "Create": "Loo"
+    },
+    "videoPlayer": {
+      "file": "Fail",
+      "name": "Nimi: {{value}}",
+      "path": "Asukoht: {{value}}",
+      "size": "Suurus: {{value}}",
+      "created": "Loodud: {{value}}",
+      "multimedia": "Multimeedia",
+      "format": "Formaat: {{value}}",
+      "duration": "Kestus: {{value}}",
+      "resolution": "Resolutsioon: {{value}}"
+    }
+  }

@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play, ses ve video dosyalarını oynatmak için medya kütüphanenize erişim gerektirir. Lütfen devam etmek için izin verin.",
+      "grant_permission": "İzin Ver",
+      "close_app": "Uygulamayı Kapat"
+    },
+    "video_library": {
+      "videos": "Videolar",
+      "search": "Ara...",
+      "no_videos_available": "Kullanılabilir Video Yok",
+      "no_albums_available": "Kullanılabilir Albüm Yok",
+      "view_mode": "Görünüm Modu",
+      "layout": "Düzen",
+      "sort": "Sırala",
+      "cancel": "İptal",
+      "done": "Tamam"
+    },
+    "music_library": {
+      "music": "Müzik",
+      "songs": "Şarkılar",
+      "search": "Ara...",
+      "start_adding_favorites": "Favori şarkılarınızı burada dinlemek için eklemeye başlayın!",
+      "your_starry_favorites": "Yıldızlı Favorileriniz",
+      "loading_starry_favorites": "Yıldızlı Favorileriniz Yükleniyor...",
+      "no_music_available": "Kullanılabilir Müzik Yok",
+      "no_albums_available": "Kullanılabilir Albüm Yok",
+      "view_mode": "Görünüm Modu",
+      "layout": "Düzen",
+      "sort": "Sırala",
+      "cancel": "İptal",
+      "done": "Tamam"
+    },
+    "settings": {
+      "title": "Ayarlar",
+      "app_theme": "Uygulama Teması",
+      "language": "Dil",
+      "pip_settings": "PiP Ayarları",
+      "terms_of_use": "Kullanım Şartları ve Koşulları",
+      "privacy_policy": "Gizlilik Politikası",
+      "accept": "Kabul Et",
+      "app_language": "Uygulama Dili",
+      "starts_pip": "Picture-in-Picture'ı Otomatik Başlat",
+      "save": "Kaydet",
+      "cancel": "İptal",
+      "terms_of_use_content": "Winu Play'e hoş geldiniz. Bu video ve müzik çalar uygulamasını kullanarak aşağıdaki Şartlar ve Koşulları kabul etmiş olursunuz:\n\n1. **Şartların Kabulü**:\n Winu Play'i indirerek, yükleyerek veya kullanarak bu Şartlar ve Koşullara uymayı kabul edersiniz. Kabul etmiyorsanız lütfen uygulamayı kaldırın.\n\n2. **Uygulama Kullanımı**:\n Winu Play, cihazınızda kayıtlı video ve ses dosyalarını oynatmanızı sağlar. Bu dosyalara erişim ve oynatma hakkınız olduğundan siz sorumlusunuz.\n\n3. **Hesap Gereksinimi Yok**:\n Winu Play kullanmak için kayıt veya giriş yapmanız gerekmez. Hiçbir kişisel veri toplanmaz veya saklanmaz.\n\n4. **Yasaklanmış Faaliyetler**:\n Winu Play'i yasa dışı amaçlarla, telif hakkıyla korunan materyalleri izinsiz dağıtmak veya uygulamanın işlevselliğine zarar veren eylemlerde bulunmak gibi faaliyetler için kullanamazsınız.\n\n5. **Fikri Mülkiyet**:\n Winu Play ve logosu Winu Co.'nun mülkiyetindedir. Winu Co.'dan yazılı izin alınmadan uygulamanın hiçbir parçası çoğaltılamaz, değiştirilemez veya dağıtılamaz.\n\n6. **Garanti Reddi**:\n Winu Play \"olduğu gibi\" sunulur ve herhangi bir garanti verilmez. Winu Co., uygulamanın kesintisiz veya hatasız çalışacağını taahhüt etmez.\n\n7. **Sorumluluk Sınırlaması**:\n Winu Co., Winu Play kullanımından veya kullanamamaktan kaynaklanan dolaylı, arızi, özel veya sonuçsal zararlardan sorumlu değildir.\n\n8. **Şartlardaki Değişiklikler**:\n Winu Co., bu Şartlar ve Koşulları dilediği zaman güncelleyebilir. Değişiklikler sonrasında uygulamayı kullanmaya devam etmeniz yeni şartları kabul ettiğiniz anlamına gelir.\n\n9. **Fesih Hakkı**:\n Winu Co., bu şartları ihlal etmeniz durumunda uygulamaya erişiminizi sonlandırma hakkını saklı tutar.\n\n10. **İletişim**:\n Soru veya görüşleriniz için winu-co@outlook.com adresinden bize ulaşabilirsiniz.\n\nBu Şartlar ve Koşullar, Winu Co.'nun bulunduğu yargı bölgesinin kanunlarına tabidir. Winu Play'i kullanarak, anlaşmazlıkların ilgili yargı bölgesinin mahkemelerinde veya arbitrasyon yoluyla çözüleceğini kabul etmiş olursunuz.",
+      "privacy_policy_content": "Winu Play Gizlilik Politikası\n\nWinu Co. tarafından geliştirilen Winu Play, gizliliğinize saygı duyar. Bu Gizlilik Politikası, uygulamamızı kullanırken bilgilerinizin nasıl işlendiğini açıklar.\n\n1. **Veri Toplanmaz**:\n Winu Play hiçbir kişisel veya cihaz verisi toplamaz, saklamaz veya iletmez. Kayıt, giriş veya hesap oluşturma gerektirmez. Faaliyetleriniz izlenmez veya üçüncü taraflarla paylaşılmaz.\n\n2. **Yerel Kullanım**:\n Winu Play tamamen cihazınızda çalışır ve yalnızca yerel depolamanızdan seçtiğiniz dosyaları oynatır. Hiçbir veri sunuculara veya harici servislere gönderilmez.\n\n3. **Üçüncü Taraf Entegrasyonu Yok**:\n Veri toplayabilecek analiz, reklam veya izleme araçları kullanılmaz.\n\n4. **İzinler**:\n Winu Play, işlevselliği için medya dosyalarınıza erişim ister. Bu izinleri cihaz ayarlarınızdan dilediğiniz zaman iptal edebilirsiniz.\n\n5. **Politika Değişiklikleri**:\n Winu Co., bu politikayı güncelleyebilir. Önemli değişiklikler uygulama içinden veya iletişim bilgilerimizle bildirilir.\n\n6. **İletişim**:\n Gizlilikle ilgili sorularınız için winu-co@outlook.com adresine yazabilirsiniz.\n\nWinu Play'i kullanarak bu Gizlilik Politikasını okuduğunuzu ve anladığınızı kabul etmiş olursunuz. Bu politika, geçerli veri koruma yasalarına ve mağaza gereksinimlerine uygundur."
+    },
+    "theme_settings": {
+      "title": "Tema Ayarları",
+      "save": "Kaydet",
+      "color_options": {
+        "background_color": "Arkaplan Rengi",
+        "text_color": "Metin Rengi",
+        "nav_bar_color": "Gezinme Çubuğu Rengi",
+        "icon_tint_color": "İkon Renk Tonu",
+        "button_bg_color": "Düğme Arkaplan Rengi",
+        "active_button_color": "Aktif Düğme Rengi",
+        "mini_player_position": "Mini Oynatıcı Konumu",
+        "mini_player_position_values": {
+          "bottom": "Alt",
+          "top": "Üst"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Videoları İndir",
+      "download": "İndir",
+      "close": "Kapat",
+      "no_videos_founds": "Hiç Video Bulunamadı",
+      "download_progress": "İndirme İlerlemesi",
+      "no_downloads": "İndirme Yok"
+    },
+    "fileOperation": {
+      "Copy Here": "Buraya Kopyala",
+      "Move Here": "Buraya Taşı",
+      "Cancel": "İptal",
+      "Copying...": "Kopyalanıyor...",
+      "Moving...": "Taşınıyor...",
+      "No folders found": "Klasör Bulunamadı",
+      "placeholder": "Klasörlerde ara...",
+      "Copy To": "Kopyalanacak Yer",
+      "Move To": "Taşınacak Yer",
+      "Confirm": "Onayla",
+      "Deleting...": "Siliniyor...",
+      "deleteConfirmation": "{{filename}} dosyasını silmek istediğinize emin misiniz?",
+      "Save": "Kaydet",
+      "Rename": "Yeniden Adlandır",
+      "Share": "Paylaş",
+      "Delete": "Sil",
+      "Move": "Taşı",
+      "Copy": "Kopyala",
+      "enterFolderName": "Klasör adını girin",
+      "errorCreatingFolder": "Klasör oluşturulurken hata",
+      "Create": "Oluştur"
+    },
+    "videoPlayer": {
+      "file": "Dosya",
+      "name": "Ad: {{value}}",
+      "path": "Yol: {{value}}",
+      "size": "Boyut: {{value}}",
+      "created": "Oluşturulma: {{value}}",
+      "multimedia": "Multimedya",
+      "format": "Biçim: {{value}}",
+      "duration": "Süre: {{value}}",
+      "resolution": "Çözünürlük: {{value}}"
+    }
+  }

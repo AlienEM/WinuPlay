@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play kræver adgang til dit mediebibliotek for at afspille lyd- og videofiler. Giv venligst tilladelse for at fortsætte.",
+      "grant_permission": "Giv Tilladelse",
+      "close_app": "Luk Appen"
+    },
+    "video_library": {
+      "videos": "Videoer",
+      "search": "Søg...",
+      "no_videos_available": "Ingen Videoer Tilgængelige",
+      "no_albums_available": "Ingen Album Tilgængelige",
+      "view_mode": "Visningstilstand",
+      "layout": "Layout",
+      "sort": "Sorter",
+      "cancel": "Annuller",
+      "done": "Færdig"
+    },
+    "music_library": {
+      "music": "Musik",
+      "songs": "Sange",
+      "search": "Søg...",
+      "start_adding_favorites": "Begynd at tilføje dine yndlingssange for at nyde dem her!",
+      "your_starry_favorites": "Dine Stjernemarkerede Favoritter",
+      "loading_starry_favorites": "Indlæser Dine Stjernemarkerede Favoritter...",
+      "no_music_available": "Ingen Musik Tilgængelig",
+      "no_albums_available": "Ingen Album Tilgængelige",
+      "view_mode": "Visningstilstand",
+      "layout": "Layout",
+      "sort": "Sorter",
+      "cancel": "Annuller",
+      "done": "Færdig"
+    },
+    "settings": {
+      "title": "Indstillinger",
+      "app_theme": "App-Tema",
+      "language": "Sprog",
+      "pip_settings": "PiP-Indstillinger",
+      "terms_of_use": "Brugsbetingelser og Vilkår",
+      "privacy_policy": "Privatlivspolitik",
+      "accept": "Accepter",
+      "app_language": "App-Sprog",
+      "starts_pip": "Start Billede-i-Billede Automatisk",
+      "save": "Gem",
+      "cancel": "Annuller",
+      "terms_of_use_content": "Velkommen til Winu Play, en video- og musikafspiller-app udviklet af Winu Co. Ved at bruge Winu Play accepterer du følgende Brugsbetingelser:\n\n1. **Accept af Betingelser**:\n Ved at downloade, installere eller bruge Winu Play accepterer du at overholde disse Brugsbetingelser. Hvis du ikke accepterer, bedes du afinstallere appen.\n\n2. **Brug af Appen**:\n Winu Play giver dig mulighed for at afspille video- og lydfiler, der er gemt på din enhed. Du er ansvarlig for at sikre, at du har den lovlige ret til at få adgang til og afspille disse filer.\n\n3. **Ingen Konto Krævet**:\n Winu Play kræver ikke brugerregistrering eller login. Ingen personlige data indsamles eller gemmes.\n\n4. **Forbudte Aktiviteter**:\n Du må ikke bruge Winu Play til ulovlige formål, herunder men ikke begrænset til distribution af ophavsretligt beskyttet materiale uden tilladelse eller deltagelse i aktiviteter, der skader andre brugere eller appens funktionalitet.\n\n5. **Intellektuel Ejendom**:\n Winu Play og dets logo er ejendom af Winu Co. Du må ikke reproducere, ændre eller distribuere nogen del af appen uden skriftlig tilladelse fra Winu Co.\n\n6. **Fraskrivelse af Garantier**:\n Winu Play leveres “som den er” uden garantier af nogen art, hverken udtrykkelige eller underforståede. Winu Co garanterer ikke uafbrudt eller fejlfri drift af appen.\n\n7. **Ansvarsbegrænsning**:\n Winu Co er ikke ansvarlig for indirekte, tilfældige, særlige eller følgeskader, der opstår som følge af brugen eller manglende evne til at bruge Winu Play.\n\n8. **Ændringer i Betingelser**:\n Winu Co kan til enhver tid opdatere disse Brugsbetingelser. Fortsat brug af appen efter sådanne ændringer udgør accept af de nye betingelser.\n\n9. **Opsigelse**:\n Winu Co forbeholder sig retten til at opsige eller begrænse adgangen til Winu Play efter eget skøn, hvis du overtræder disse betingelser.\n\n10. **Kontakt Os**:\n Hvis du har spørgsmål eller bekymringer, bedes du kontakte os på winu-co@outlook.com.\n\nDisse Brugsbetingelser er underlagt lovgivningen i den jurisdiktion, hvor Winu Co er baseret. Ved at bruge Winu Play accepterer du at løse eventuelle tvister gennem voldgift eller ved de relevante domstole i denne jurisdiktion.",
+      "privacy_policy_content": "Privatlivspolitik for Winu Play\n\nWinu Play, udviklet af Winu Co, er forpligtet til at beskytte dit privatliv. Denne Privatlivspolitik forklarer, hvordan vi håndterer dine oplysninger, når du bruger vores video- og musikafspiller-app.\n\n1. **Ingen Dataindsamling**:\n Winu Play indsamler, gemmer eller transmitterer ikke nogen personlige data eller enhedsdata. Vi kræver ikke registrering, login eller oprettelse af en konto, og vi sporer ikke din aktivitet eller deler oplysninger med tredjeparter.\n\n2. **Lokal Brug**:\n Winu Play fungerer udelukkende på din enhed og får kun adgang til de video- og lydfiler, du vælger at afspille fra dit lokale lager. Ingen data sendes til servere eller eksterne tjenester.\n\n3. **Ingen Tredjepartstjenester**:\n Vi integrerer ikke tredjepartsanalyse, annoncer eller sporingværktøjer, der kan indsamle data.\n\n4. **Tilladelser**:\n Winu Play anmoder om adgang til dine mediefiler (videoer og musik) for at fungere. Du kontrollerer disse tilladelser og kan tilbagekalde dem når som helst via dine enhedsindstillinger.\n\n5. **Ændringer i Politik**:\n Winu Co kan opdatere denne Privatlivspolitik for at afspejle ændringer i vores praksis. Vi vil underrette dig om væsentlige ændringer via appen eller vores kontaktoplysninger.\n\n6. **Kontakt Os**:\n Hvis du har spørgsmål eller bekymringer om dit privatliv, bedes du kontakte os på winu-co@outlook.com.\n\nVed at bruge Winu Play anerkender du, at du har læst og forstået denne Privatlivspolitik. Denne politik overholder gældende databeskyttelseslove og krav fra app-butikker."
+    },
+    "theme_settings": {
+      "title": "Tema Indstillinger",
+      "save": "Gem",
+      "color_options": {
+        "background_color": "Baggrundsfarve",
+        "text_color": "Tekstfarve",
+        "nav_bar_color": "Navigationsbjælkens Farve",
+        "icon_tint_color": "Ikonfarvetone",
+        "button_bg_color": "Knap Baggrundsfarve",
+        "active_button_color": "Aktiv Knapfarve",
+        "mini_player_position": "Mini Afspiller Position",
+        "mini_player_position_values": {
+          "bottom": "Nederst",
+          "top": "Øverst"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Download Videoer",
+      "download": "Download",
+      "close": "Luk",
+      "no_videos_founds": "Ingen Videoer Fundet",
+      "download_progress": "Download Fremskridt",
+      "no_downloads": "Ingen Downloads"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopiér Her",
+      "Move Here": "Flyt Her",
+      "Cancel": "Annuller",
+      "Copying...": "Kopierer...",
+      "Moving...": "Flytter...",
+      "No folders found": "Ingen Mapper Fundet",
+      "placeholder": "Søg efter mapper...",
+      "Copy To": "Kopiér Til",
+      "Move To": "Flyt Til",
+      "Confirm": "Bekræft",
+      "Deleting...": "Sletter...",
+      "deleteConfirmation": "Er du sikker på, at du vil slette {{filename}}?",
+      "Save": "Gem",
+      "Rename": "Omdøb",
+      "Share": "Del",
+      "Delete": "Slet",
+      "Move": "Flyt",
+      "Copy": "Kopiér",
+      "enterFolderName": "Indtast mappenavn",
+      "errorCreatingFolder": "Fejl ved oprettelse af mappe",
+      "Create": "Opret"
+    },
+    "videoPlayer": {
+      "file": "Fil",
+      "name": "Navn: {{value}}",
+      "path": "Sti: {{value}}",
+      "size": "Størrelse: {{value}}",
+      "created": "Oprettet: {{value}}",
+      "multimedia": "Multimedie",
+      "format": "Format: {{value}}",
+      "duration": "Varighed: {{value}}",
+      "resolution": "Opløsning: {{value}}"
+    }
+  }

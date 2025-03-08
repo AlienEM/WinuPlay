@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play reikalinga prieiga prie jūsų medijos bibliotekos, kad galėtų groti garso ir vaizdo failus. Prašome suteikti leidimą, kad galėtumėte tęsti.",
+      "grant_permission": "Suteikti Leidimą",
+      "close_app": "Uždaryti Programėlę"
+    },
+    "video_library": {
+      "videos": "Vaizdo įrašai",
+      "search": "Ieškoti...",
+      "no_videos_available": "Nėra Prieinamų Vaizdo įrašų",
+      "no_albums_available": "Nėra Prieinamų Albumų",
+      "view_mode": "Peržiūros Režimas",
+      "layout": "Išdėstymas",
+      "sort": "Rūšiuoti",
+      "cancel": "Atšaukti",
+      "done": "Atlikta"
+    },
+    "music_library": {
+      "music": "Muzika",
+      "songs": "Dainos",
+      "search": "Ieškoti...",
+      "start_adding_favorites": "Pradėkite pridėti savo mėgstamas dainas, kad galėtumėte jas mėgautis čia!",
+      "your_starry_favorites": "Jūsų Žvaigždutėmis Pažymėti Mėgstamiausi",
+      "loading_starry_favorites": "Kraunami Jūsų Žvaigždutėmis Pažymėti Mėgstamiausi...",
+      "no_music_available": "Nėra Prieinamos Muzikos",
+      "no_albums_available": "Nėra Prieinamų Albumų",
+      "view_mode": "Peržiūros Režimas",
+      "layout": "Išdėstymas",
+      "sort": "Rūšiuoti",
+      "cancel": "Atšaukti",
+      "done": "Atlikta"
+    },
+    "settings": {
+      "title": "Nustatymai",
+      "app_theme": "Programėlės Tema",
+      "language": "Kalba",
+      "pip_settings": "Vaizdas Vaizde Nustatymai",
+      "terms_of_use": "Naudojimo Sąlygos ir Taisyklės",
+      "privacy_policy": "Privatumo Politika",
+      "accept": "Priimti",
+      "app_language": "Programėlės Kalba",
+      "starts_pip": "Automatiškai Paleisti Vaizdas Vaizde",
+      "save": "Išsaugoti",
+      "cancel": "Atšaukti",
+      "terms_of_use_content": "Sveiki atvykę į Winu Play – vaizdo ir muzikos grotuvo programėlę, kurią sukūrė Winu Co. Naudodamiesi Winu Play, jūs sutinkate su šiom Naudojimo Sąlygom:\n\n1. **Sąlygų Priėmimas**:\n Atsisiųsdami, įdiegdami ar naudodami Winu Play, jūs sutinkate laikytis šių Naudojimo Sąlygų. Jei nesutinkate, prašome pašalinti programėlę.\n\n2. **Programėlės Naudojimas**:\n Winu Play leidžia jums groti vaizdo ir garso failus, saugomus jūsų įrenginyje. Jūs esate atsakingi už tai, kad turėtumėte teisėtą teisę prieiti prie šių failų ir juos atkurti.\n\n3. **Paskyra Nereikalinga**:\n Winu Play nereikalauja vartotojo registracijos ar prisijungimo. Asmens duomenys nėra renkami ar saugomi.\n\n4. **Draudžiamos Veiklos**:\n Jūs negalite naudoti Winu Play neteisėtiems tikslams, įskaitant, bet neapsiribojant, autorių teisėmis apsaugotos medžiagos platinimu be leidimo ar dalyvavimu veiklose, kurios kenkia kitiems vartotojams ar programėlės funkcionalumui.\n\n5. **Intelektinė Nuosavybė**:\n Winu Play ir jo logotipas yra Winu Co nuosavybė. Jūs negalite kopijuoti, keisti ar platinti jokios programėlės dalies be raštiško Winu Co leidimo.\n\n6. **Garantijų Atsisakymas**:\n Winu Play teikiamas „kaip yra“ be jokių aiškių ar numanomų garantijų. Winu Co negarantuoja nepertraukiamo ar be klaidų programėlės veikimo.\n\n7. **Atsakomybės Ribojimas**:\n Winu Co neatsako už netiesioginius, atsitiktinius, specialius ar pasekminius nuostolius, kylančius dėl Winu Play naudojimo ar negalėjimo jo naudoti.\n\n8. **Sąlygų Pakeitimai**:\n Winu Co gali bet kada atnaujinti šias Naudojimo Sąlygas. Toliau naudojant programėlę po tokių pakeitimų reiškia sutikimą su naujomis sąlygomis.\n\n9. **Nutraukimas**:\n Winu Co pasilieka teisę nutraukti ar apriboti prieigą prie Winu Play savo nuožiūra, jei pažeidžiate šias sąlygas.\n\n10. **Susisiekite su Mumis**:\n Jei turite klausimų ar rūpesčių, prašome susisiekti su mumis el. paštu: winu-co@outlook.com.\n\nŠios Naudojimo Sąlygos yra pavaldžios jurisdikcijos, kurioje yra Winu Co, įstatymams. Naudodamiesi Winu Play, sutinkate spręsti bet kokius ginčus per arbitražą arba tos jurisdikcijos kompetentinguose teismuose.",
+      "privacy_policy_content": "Winu Play Privatumo Politika\n\nWinu Play, sukurtas Winu Co, yra įsipareigojęs apsaugoti jūsų privatumą. Ši Privatumo Politika paaiškina, kaip mes tvarkome jūsų informaciją, kai naudojate mūsų vaizdo ir muzikos grotuvo programėlę.\n\n1. **Duomenų Nerenkama**:\n Winu Play nerenka, nesaugo ir neperduoda asmeninių ar įrenginio duomenų. Mes nereikalaujame registracijos, prisijungimo ar paskyros sukūrimo, taip pat nestebime jūsų veiklos ir nesidaliname informacija su trečiosiomis šalimis.\n\n2. **Vietinis Naudojimas**:\n Winu Play veikia tik jūsų įrenginyje ir pasiekia tik tuos vaizdo ir garso failus, kuriuos pasirenkate atkurti iš vietinės atminties. Duomenys nėra siunčiami į serverius ar išorines paslaugas.\n\n3. **Jokių Trečiųjų Šalių Paslaugų**:\n Mes neintegruojame trečiųjų šalių analitikos, reklamos ar sekimo įrankių, galinčių rinkti duomenis.\n\n4. **Leidimai**:\n Winu Play reikalinga prieiga prie jūsų medijos failų (vaizdo ir muzikos), kad veiktų. Jūs kontroliuojate šiuos leidimus ir galite juos bet kada atšaukti per įrenginio nustatymus.\n\n5. **Politikos Pakeitimai**:\n Winu Co gali atnaujinti šią Privatumo Politiką, kad atspindėtų mūsų praktikos pokyčius. Apie reikšmingus pakeitimus jus informuosime per programėlę ar mūsų kontaktinę informaciją.\n\n6. **Susisiekite su Mumis**:\n Jei turite klausimų ar rūpesčių dėl savo privatumo, prašome susisiekti su mumis el. paštu: winu-co@outlook.com.\n\nNaudodamiesi Winu Play, jūs patvirtinate, kad perskaitėte ir supratote šią Privatumo Politiką. Ši politika atitinka galiojančius duomenų apsaugos įstatymus ir programėlių parduotuvių reikalavimus."
+    },
+    "theme_settings": {
+      "title": "Temos Nustatymai",
+      "save": "Išsaugoti",
+      "color_options": {
+        "background_color": "Fono Spalva",
+        "text_color": "Teksto Spalva",
+        "nav_bar_color": "Navigacijos Juostos Spalva",
+        "icon_tint_color": "Ikonų Atspalvio Spalva",
+        "button_bg_color": "Mygtuko Fono Spalva",
+        "active_button_color": "Aktyvaus Mygtuko Spalva",
+        "mini_player_position": "Mini Grotuvo Pozicija",
+        "mini_player_position_values": {
+          "bottom": "Apačioje",
+          "top": "Viršuje"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Atsisiųsti Vaizdo įrašus",
+      "download": "Atsisiųsti",
+      "close": "Uždaryti",
+      "no_videos_founds": "Vaizdo įrašų Nerasta",
+      "download_progress": "Atsisiuntimo Eiga",
+      "no_downloads": "Nėra Atsisiuntimų"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopijuoti Čia",
+      "Move Here": "Perkelti Čia",
+      "Cancel": "Atšaukti",
+      "Copying...": "Kopijavimas...",
+      "Moving...": "Perkėlimas...",
+      "No folders found": "Aplankų Nerasta",
+      "placeholder": "Ieškoti aplankų...",
+      "Copy To": "Kopijuoti Į",
+      "Move To": "Perkelti Į",
+      "Confirm": "Patvirtinti",
+      "Deleting...": "Trinimas...",
+      "deleteConfirmation": "Ar tikrai norite ištrinti {{filename}}?",
+      "Save": "Išsaugoti",
+      "Rename": "Pervadinti",
+      "Share": "Dalintis",
+      "Delete": "Ištrinti",
+      "Move": "Perkelti",
+      "Copy": "Kopijuoti",
+      "enterFolderName": "Įveskite aplanko pavadinimą",
+      "errorCreatingFolder": "Klaida kuriant aplanką",
+      "Create": "Sukurti"
+    },
+    "videoPlayer": {
+      "file": "Failas",
+      "name": "Pavadinimas: {{value}}",
+      "path": "Kelias: {{value}}",
+      "size": "Dydis: {{value}}",
+      "created": "Sukurtas: {{value}}",
+      "multimedia": "Multimedija",
+      "format": "Formatas: {{value}}",
+      "duration": "Trukmė: {{value}}",
+      "resolution": "Rezoliucija: {{value}}"
+    }
+  }

@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play vereis toegang tot jou medialêer om oudio- en videolêers te speel. Gee asseblief toestemming om voort te gaan.",
+      "grant_permission": "Gee Toestemming",
+      "close_app": "Sluit Toepassing"
+    },
+    "video_library": {
+      "videos": "Video's",
+      "search": "Soek...",
+      "no_videos_available": "Geen Video's Beskikbaar Nie",
+      "no_albums_available": "Geen Albums Beskikbaar Nie",
+      "view_mode": "Aansigmodus",
+      "layout": "Uitleg",
+      "sort": "Sorteer",
+      "cancel": "Kanselleer",
+      "done": "Klaar"
+    },
+    "music_library": {
+      "music": "Musiek",
+      "songs": "Liedjies",
+      "search": "Soek...",
+      "start_adding_favorites": "Begin om jou gunsteling liedjies by te voeg om hier te geniet!",
+      "your_starry_favorites": "Jou Sterre Gunstelinge",
+      "loading_starry_favorites": "Laai Jou Sterre Gunstelinge...",
+      "no_music_available": "Geen Musiek Beskikbaar Nie",
+      "no_albums_available": "Geen Albums Beskikbaar Nie",
+      "view_mode": "Aansigmodus",
+      "layout": "Uitleg",
+      "sort": "Sorteer",
+      "cancel": "Kanselleer",
+      "done": "Klaar"
+    },
+    "settings": {
+      "title": "Instelling",
+      "app_theme": "Toepassing Tema",
+      "language": "Taal",
+      "pip_settings": "PiP Instellings",
+      "terms_of_use": "Gebruiksvoorwaardes en -toestande",
+      "privacy_policy": "Privaatheidsbeleid",
+      "accept": "Aanvaar",
+      "app_language": "Toepassing Taal",
+      "starts_pip": "Begin Prent-in-Prent Outomaties",
+      "save": "Stoor",
+      "cancel": "Kanselleer",
+      "terms_of_use_content": "Welkom by Winu Play, 'n video- en musiekspeler-toepassing ontwikkel deur Winu Co. Deur Winu Play te gebruik, stem jy in met die volgende Gebruiksvoorwaardes:\n\n1. **Aanvaarding van Voorwaardes**:\n Deur Winu Play af te laai, te installeer of te gebruik, stem jy in om aan hierdie Gebruiksvoorwaardes te voldoen. Indien jy nie saamstem nie, verwyder asseblief die toepassing.\n\n2. **Gebruik van die Toepassing**:\n Winu Play laat jou toe om video- en oudiolêers wat op jou toestel gestoor is, te speel. Jy is verantwoordelik om te verseker dat jy die wettige reg het om toegang tot hierdie lêers te kry en dit te speel.\n\n3. **Geen Rekening Vereis Nie**:\n Winu Play vereis nie gebruikersregistrasie of aanmelding nie. Geen persoonlike data word versamel of gestoor nie.\n\n4. **Verbode Aktiwiteite**:\n Jy mag nie Winu Play vir enige onwettige doel gebruik nie, insluitend maar nie beperk tot die verspreiding van kopiereg-beskermde materiaal sonder toestemming, of om deel te neem aan aktiwiteite wat ander gebruikers of die toepassing se funksionaliteit benadeel.\n\n5. **Intellektuele Eiendom**:\n Winu Play en sy logo is die eiendom van Winu Co. Jy mag geen deel van die toepassing reproduseer, wysig of versprei sonder skriftelike toestemming van Winu Co nie.\n\n6. **Vrywaring van Waarborge**:\n Winu Play word “soos dit is” verskaf sonder enige waarborge, hetsy uitdruklik of geïmpliseer. Winu Co waarborg nie ononderbroke of foutvrye werking van die toepassing nie.\n\n7. **Beperking van Aanspreeklikheid**:\n Winu Co sal nie aanspreeklik wees vir enige indirekte, toevallige, spesiale of gevolglike skade wat voortspruit uit die gebruik of onvermoë om Winu Play te gebruik nie.\n\n8. **Veranderinge aan Voorwaardes**:\n Winu Co kan hierdie Gebruiksvoorwaardes te eniger tyd bywerk. Voortgesette gebruik van die toepassing na sulke veranderinge beteken aanvaarding van die nuwe voorwaardes.\n\n9. **Beëindiging**:\n Winu Co behou die reg voor om toegang tot Winu Play te beëindig of te beperk na sy goeddunke indien jy hierdie voorwaardes oortree.\n\n10. **Kontak Ons**:\n Indien jy vrae of bekommernisse het, kontak ons asseblief by winu-co@outlook.com.\n\nHierdie Gebruiksvoorwaardes word beheer deur die wette van die jurisdiksie waar Winu Co gevestig is. Deur Winu Play te gebruik, stem jy in om enige dispute deur arbitrasie of in die toepaslike howe van daardie jurisdiksie op te los.",
+      "privacy_policy_content": "Winu Play Privaatheidsbeleid\n\nWinu Play, ontwikkel deur Winu Co, is toegewyd aan die beskerming van jou privaatheid. Hierdie Privaatheidsbeleid verduidelik hoe ons jou inligting hanteer wanneer jy ons video- en musiekspeler-toepassing gebruik.\n\n1. **Geen Data Versameling Nie**:\n Winu Play versamel, stoor of stuur geen persoonlike of toesteldata nie. Ons vereis nie registrasie, aanmelding of rekening skepping nie, en ons volg nie jou aktiwiteit of deel inligting met derde partye nie.\n\n2. **Plaaslike Gebruik**:\n Winu Play werk uitsluitlik op jou toestel en kry toegang tot slegs die video- en oudiolêers wat jy kies om vanaf jou plaaslike berging te speel. Geen data word na bedieners of eksterne dienste gestuur nie.\n\n3. **Geen Derdeparty Dienste Nie**:\n Ons integreer nie derdeparty analitiese, advertensies of opsporingsinstrumente wat data kan insamel nie.\n\n4. **Toestemmings**:\n Winu Play versoek toegang tot jou medialêers (video's en musiek) om te funksioneer. Jy beheer hierdie toestemmings en kan dit enige tyd deur jou toestelinstellings terugtrek.\n\n5. **Veranderinge aan Beleid**:\n Winu Co kan hierdie Privaatheidsbeleid bywerk om veranderinge in ons praktyke te weerspieël. Ons sal jou in kennis stel van beduidende veranderinge via die toepassing of ons kontakinligting.\n\n6. **Kontak Ons**:\n Indien jy vrae of bekommernisse oor jou privaatheid het, kontak ons asseblief by winu-co@outlook.com.\n\nDeur Winu Play te gebruik, erken jy dat jy hierdie Privaatheidsbeleid gelees en verstaan het. Hierdie beleid voldoen aan toepaslike databeskermingswette en toepassingwinkelvereistes."
+    },
+    "theme_settings": {
+      "title": "Tema Instellings",
+      "save": "Stoor",
+      "color_options": {
+        "background_color": "Agtergrondkleur",
+        "text_color": "Teks Kleur",
+        "nav_bar_color": "Navigasiebalk Kleur",
+        "icon_tint_color": "Ikoon Tint Kleur",
+        "button_bg_color": "Knoppie Agtergrondkleur",
+        "active_button_color": "Aktiewe Knoppie Kleur",
+        "mini_player_position": "Mini Speler Posisie",
+        "mini_player_position_values": {
+          "bottom": "Onder",
+          "top": "Bo"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Laai Video's Af",
+      "download": "Laai Af",
+      "close": "Sluit",
+      "no_videos_founds": "Geen Video's Gevind Nie",
+      "download_progress": "Aflaai Vordering",
+      "no_downloads": "Geen Aflaaie Nie"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopieer Hier",
+      "Move Here": "Skuif Hier",
+      "Cancel": "Kanselleer",
+      "Copying...": "Kopiëer...",
+      "Moving...": "Skuif...",
+      "No folders found": "Geen vouers gevind nie",
+      "placeholder": "Soek vouers...",
+      "Copy To": "Kopieer Na",
+      "Move To": "Skuif Na",
+      "Confirm": "Bevestig",
+      "Deleting...": "Verwyder...",
+      "deleteConfirmation": "Is jy seker jy wil {{filename}} verwyder?",
+      "Save": "Stoor",
+      "Rename": "Hernoem",
+      "Share": "Deel",
+      "Delete": "Verwyder",
+      "Move": "Skuif",
+      "Copy": "Kopieer",
+      "enterFolderName": "Voer vouernaam in",
+      "errorCreatingFolder": "Fout met die skep van vouer",
+      "Create": "Skep"
+    },
+    "videoPlayer": {
+      "file": "Lêer",
+      "name": "Naam: {{value}}",
+      "path": "Pad: {{value}}",
+      "size": "Grootte: {{value}}",
+      "created": "Geskep: {{value}}",
+      "multimedia": "Multimedia",
+      "format": "Formaat: {{value}}",
+      "duration": "Duur: {{value}}",
+      "resolution": "Resolusie: {{value}}"
+    }
+  }

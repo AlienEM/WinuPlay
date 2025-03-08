@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Aplikácia Winu Play vyžaduje prístup k vašej knižnici médií na prehrávanie audio a video súborov. Ak chcete pokračovať, udelte povolenie.",
+      "grant_permission": "Udeliť povolenie",
+      "close_app": "Zatvoriť aplikáciu"
+    },
+    "video_library": {
+      "videos": "Videá",
+      "search": "Hľadať...",
+      "no_videos_available": "Žiadne dostupné videá",
+      "no_albums_available": "Žiadne dostupné albumy",
+      "view_mode": "Režim zobrazenia",
+      "layout": "Rozloženie",
+      "sort": "Triediť",
+      "cancel": "Zrušiť",
+      "done": "Hotovo"
+    },
+    "music_library": {
+      "music": "Hudba",
+      "songs": "Skladby",
+      "search": "Hľadať...",
+      "start_adding_favorites": "Začnite pridávať svoje obľúbené skladby, aby ste si ich tu mohli užívať!",
+      "your_starry_favorites": "Vaše obľúbené hviezdne skladby",
+      "loading_starry_favorites": "Načítavajú sa vaše obľúbené hviezdne skladby...",
+      "no_music_available": "Žiadna dostupná hudba",
+      "no_albums_available": "Žiadne dostupné albumy",
+      "view_mode": "Režim zobrazenia",
+      "layout": "Rozloženie",
+      "sort": "Triediť",
+      "cancel": "Zrušiť",
+      "done": "Hotovo"
+    },
+    "settings": {
+      "title": "Nastavenia",
+      "app_theme": "Téma aplikácie",
+      "language": "Jazyk",
+      "pip_settings": "Nastavenia PiP",
+      "terms_of_use": "Podmienky používania",
+      "privacy_policy": "Ochrana súkromia",
+      "accept": "Prijať",
+      "app_language": "Jazyk aplikácie",
+      "starts_pip": "Automaticky spustiť obraz v obraze",
+      "save": "Uložiť",
+      "cancel": "Zrušiť",
+      "terms_of_use_content": "Vitajte v aplikácii Winu Play, video a audio prehrávači od spoločnosti Winu Co. Používaním aplikácie Winu Play súhlasíte s nasledovnými podmienkami:\n\n1. **Akceptácia podmienok**:\n Stiahnutím, inštaláciou alebo používaním aplikácie Winu Play súhlasíte s týmito podmienkami. Ak nesúhlasíte, prosím odinštalujte aplikáciu.\n\n2. **Používanie aplikácie**:\n Winu Play umožňuje prehrávanie video a audio súborov uložených vo vašom zariadení. Ste zodpovední za to, že máte právo tieto súbory prehrávať.\n\n3. **Bez registrácie**:\n Winu Play nevyžaduje registráciu ani prihlásenie. Aplikácia nezhromažďuje ani neukladá žiadne osobné údaje.\n\n4. **Zakázané činnosti**:\n Nesmiete používať Winu Play na nezákonné účely, vrátane šírenia autorskými právami chráneného obsahu bez povolenia.\n\n5. **Duševné vlastníctvo**:\n Winu Play a jeho logo sú vlastníctvom spoločnosti Winu Co. Bez písomného súhlasu nesmiete reprodukovať ani modifikovať žiadnu časť aplikácie.\n\n6. **Vylúčenie záruk**:\n Winu Play je poskytovaný „tak, ako je“ bez akýchkoľvek záruk. Spoločnosť Winu Co nezaručuje nepretržité alebo bezchybné fungovanie aplikácie.\n\n7. **Obmedzenie zodpovednosti**:\n Spoločnosť Winu Co nezodpovedá za žiadne nepriame alebo následné škody vzniknuté používaním aplikácie.\n\n8. **Zmeny podmienok**:\n Spoločnosť Winu Co môže kedykoľvek aktualizovať tieto podmienky. Pokračovaním v používaní aplikácie vyjadrujete súhlas s novými podmienkami.\n\n9. **Ukončenie**:\n Spoločnosť Winu Co si vyhradzuje právo obmedziť prístup k aplikácii v prípade porušenia týchto podmienok.\n\n10. **Kontakt**:\n Otázky a pripomienky posielajte na winu-co@outlook.com.\n\nTieto podmienky sa riadia právnym poriadkom jurisdikcie, v ktorej má Winu Co sídlo.",
+      "privacy_policy_content": "Ochrana súkromia v aplikácii Winu Play\n\nSpoločnosť Winu Co sa zaviazala chrániť vaše súkromie. Táto politika vysvetľuje, ako aplikácia Winu Play zaobchádza s vašimi údajmi.\n\n1. **Nezhromažďujeme údaje**:\n Winu Play nezhromažďuje, neukladá ani neprenáša žiadne osobné údaje. Nepožadujeme registráciu ani účty.\n\n2. **Lokálne používanie**:\n Winu Play funguje výhradne vo vašom zariadení a pristupuje len k súborom, ktoré si vyberiete.\n\n3. **Žiadne tretie strany**:\n Nepoužívame analytické ani reklamné nástroje tretích strán.\n\n4. **Oprávnenia**:\n Prístup k médiám môžete kedykoľvek zmeniť v nastaveniach zariadenia.\n\n5. **Zmeny politiky**:\n Významné zmeny v politike budú oznámené prostredníctvom aplikácie.\n\n6. **Kontakt**:\n Otázky týkajúce sa súkromia posielajte na winu-co@outlook.com.\n\nPoužívaním aplikácie potvrdzujete, že ste si prečítali a porozumeli tejto politike."
+    },
+    "theme_settings": {
+      "title": "Nastavenia témy",
+      "save": "Uložiť",
+      "color_options": {
+        "background_color": "Farba pozadia",
+        "text_color": "Farba textu",
+        "nav_bar_color": "Farba navigačného panelu",
+        "icon_tint_color": "Farba ikon",
+        "button_bg_color": "Farba pozadia tlačidla",
+        "active_button_color": "Farba aktívneho tlačidla",
+        "mini_player_position": "Pozícia mini prehrávača",
+        "mini_player_position_values": {
+          "bottom": "Dole",
+          "top": "Hore"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Stiahnuť videá",
+      "download": "Stiahnuť",
+      "close": "Zavrieť",
+      "no_videos_founds": "Nenašli sa žiadne videá",
+      "download_progress": "Priebeh sťahovania",
+      "no_downloads": "Žiadne sťahovania"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopírovať sem",
+      "Move Here": "Presunúť sem",
+      "Cancel": "Zrušiť",
+      "Copying...": "Kopíruje sa...",
+      "Moving...": "Presúva sa...",
+      "No folders found": "Nenašli sa žiadne priečinky",
+      "placeholder": "Hľadať priečinky...",
+      "Copy To": "Kopírovať do",
+      "Move To": "Presunúť do",
+      "Confirm": "Potvrdiť",
+      "Deleting...": "Odstraňuje sa...",
+      "deleteConfirmation": "Naozaj chcete odstrániť {{filename}}?",
+      "Save": "Uložiť",
+      "Rename": "Premenovať",
+      "Share": "Zdieľať",
+      "Delete": "Odstrániť",
+      "Move": "Presunúť",
+      "Copy": "Kopírovať",
+      "enterFolderName": "Zadajte názov priečinka",
+      "errorCreatingFolder": "Chyba pri vytváraní priečinka",
+      "Create": "Vytvoriť"
+    },
+    "videoPlayer": {
+      "file": "Súbor",
+      "name": "Názov: {{value}}",
+      "path": "Cesta: {{value}}",
+      "size": "Veľkosť: {{value}}",
+      "created": "Vytvorené: {{value}}",
+      "multimedia": "Multimédiá",
+      "format": "Formát: {{value}}",
+      "duration": "Trvanie: {{value}}",
+      "resolution": "Rozlíšenie: {{value}}"
+    }
+  }

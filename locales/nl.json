@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play heeft toegang tot je mediabibliotheek nodig om audio- en videobestanden af te spelen. Geef alsjeblieft toestemming om verder te gaan.",
+      "grant_permission": "Toestemming Geven",
+      "close_app": "App Sluiten"
+    },
+    "video_library": {
+      "videos": "Video's",
+      "search": "Zoeken...",
+      "no_videos_available": "Geen Video's Beschikbaar",
+      "no_albums_available": "Geen Albums Beschikbaar",
+      "view_mode": "Weergavemodus",
+      "layout": "Indeling",
+      "sort": "Sorteren",
+      "cancel": "Annuleren",
+      "done": "Klaar"
+    },
+    "music_library": {
+      "music": "Muziek",
+      "songs": "Nummers",
+      "search": "Zoeken...",
+      "start_adding_favorites": "Begin met het toevoegen van je favoriete nummers om hier van te genieten!",
+      "your_starry_favorites": "Jouw Sterfavorieten",
+      "loading_starry_favorites": "Jouw Sterfavorieten Worden Geladen...",
+      "no_music_available": "Geen Muziek Beschikbaar",
+      "no_albums_available": "Geen Albums Beschikbaar",
+      "view_mode": "Weergavemodus",
+      "layout": "Indeling",
+      "sort": "Sorteren",
+      "cancel": "Annuleren",
+      "done": "Klaar"
+    },
+    "settings": {
+      "title": "Instellingen",
+      "app_theme": "App-Thema",
+      "language": "Taal",
+      "pip_settings": "PiP-Instellingen",
+      "terms_of_use": "Gebruiksvoorwaarden en Regels",
+      "privacy_policy": "Privacybeleid",
+      "accept": "Accepteren",
+      "app_language": "App-Taal",
+      "starts_pip": "Start Beeld-in-Beeld Automatisch",
+      "save": "Opslaan",
+      "cancel": "Annuleren",
+      "terms_of_use_content": "Welkom bij Winu Play, een video- en muziekspeler-app ontwikkeld door Winu Co. Door Winu Play te gebruiken, ga je akkoord met de volgende Gebruiksvoorwaarden:\n\n1. **Acceptatie van Voorwaarden**:\n Door Winu Play te downloaden, te installeren of te gebruiken, ga je akkoord met het naleven van deze Gebruiksvoorwaarden. Als je niet akkoord gaat, verwijder de app dan.\n\n2. **Gebruik van de App**:\n Winu Play stelt je in staat om video- en audiobestanden af te spelen die op je apparaat zijn opgeslagen. Jij bent verantwoordelijk om ervoor te zorgen dat je het wettelijke recht hebt om toegang te krijgen tot deze bestanden en ze af te spelen.\n\n3. **Geen Account Vereist**:\n Winu Play vereist geen gebruikersregistratie of login. Er worden geen persoonlijke gegevens verzameld of opgeslagen.\n\n4. **Verboden Activiteiten**:\n Je mag Winu Play niet gebruiken voor onwettige doeleinden, inclusief maar niet beperkt tot het verspreiden van auteursrechtelijk beschermd materiaal zonder toestemming, of het deelnemen aan activiteiten die andere gebruikers of de functionaliteit van de app schaden.\n\n5. **Intellectueel Eigendom**:\n Winu Play en het logo zijn eigendom van Winu Co. Je mag geen enkel deel van de app reproduceren, aanpassen of distribueren zonder schriftelijke toestemming van Winu Co.\n\n6. **Vrijwaring van Garanties**:\n Winu Play wordt geleverd “zoals het is” zonder enige garanties, expliciet of impliciet. Winu Co garandeert geen ononderbroken of foutloze werking van de app.\n\n7. **Beperking van Aansprakelijkheid**:\n Winu Co is niet aansprakelijk voor indirecte, incidentele, speciale of gevolgschade die voortvloeit uit het gebruik of het onvermogen om Winu Play te gebruiken.\n\n8. **Wijzigingen in Voorwaarden**:\n Winu Co kan deze Gebruiksvoorwaarden op elk moment bijwerken. Voortgezet gebruik van de app na dergelijke wijzigingen betekent acceptatie van de nieuwe voorwaarden.\n\n9. **Beëindiging**:\n Winu Co behoudt zich het recht voor om de toegang tot Winu Play te beëindigen of te beperken naar eigen goeddunken als je deze voorwaarden schendt.\n\n10. **Neem Contact Met Ons Op**:\n Als je vragen of zorgen hebt, neem dan contact met ons op via winu-co@outlook.com.\n\nDeze Gebruiksvoorwaarden worden beheerst door de wetten van de jurisdictie waar Winu Co gevestigd is. Door Winu Play te gebruiken, ga je akkoord met het oplossen van eventuele geschillen via arbitrage of bij de bevoegde rechtbanken van die jurisdictie.",
+      "privacy_policy_content": "Privacybeleid van Winu Play\n\nWinu Play, ontwikkeld door Winu Co, zet zich in om jouw privacy te beschermen. Dit Privacybeleid legt uit hoe wij jouw informatie behandelen wanneer je onze video- en muziekspeler-app gebruikt.\n\n1. **Geen Gegevensverzameling**:\n Winu Play verzamelt, bewaart of verzendt geen persoonlijke of apparaatgegevens. We vereisen geen registratie, login of accountcreatie, en we volgen jouw activiteiten niet noch delen we informatie met derden.\n\n2. **Lokaal Gebruik**:\n Winu Play werkt volledig op jouw apparaat en heeft alleen toegang tot de video- en audiobestanden die je kiest om af te spelen vanuit je lokale opslag. Er worden geen gegevens verzonden naar servers of externe diensten.\n\n3. **Geen Diensten van Derden**:\n We integreren geen analytische tools, advertenties of trackingtools van derden die gegevens kunnen verzamelen.\n\n4. **Toestemmingen**:\n Winu Play vraagt toegang tot jouw mediabestanden (video’s en muziek) om te functioneren. Jij beheert deze toestemmingen en kunt ze op elk moment intrekken via de instellingen van je apparaat.\n\n5. **Wijzigingen in het Beleid**:\n Winu Co kan dit Privacybeleid bijwerken om veranderingen in onze praktijken weer te geven. We zullen je informeren over belangrijke wijzigingen via de app of onze contactinformatie.\n\n6. **Neem Contact Met Ons Op**:\n Als je vragen of zorgen hebt over jouw privacy, neem dan contact met ons op via winu-co@outlook.com.\n\nDoor Winu Play te gebruiken, erken je dat je dit Privacybeleid hebt gelezen en begrepen. Dit beleid voldoet aan de toepasselijke wetten inzake gegevensbescherming en de vereisten van app-winkels."
+    },
+    "theme_settings": {
+      "title": "Thema-Instellingen",
+      "save": "Opslaan",
+      "color_options": {
+        "background_color": "Achtergrondkleur",
+        "text_color": "Tekstkleur",
+        "nav_bar_color": "Kleur Navigatiebalk",
+        "icon_tint_color": "Kleur Iconen",
+        "button_bg_color": "Achtergrondkleur Knop",
+        "active_button_color": "Kleur Actieve Knop",
+        "mini_player_position": "Positie Mini-Speler",
+        "mini_player_position_values": {
+          "bottom": "Onder",
+          "top": "Boven"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Video's Downloaden",
+      "download": "Downloaden",
+      "close": "Sluiten",
+      "no_videos_founds": "Geen Video's Gevonden",
+      "download_progress": "Downloadvoortgang",
+      "no_downloads": "Geen Downloads"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopieer Hier",
+      "Move Here": "Verplaats Hier",
+      "Cancel": "Annuleren",
+      "Copying...": "Kopiëren...",
+      "Moving...": "Verplaatsen...",
+      "No folders found": "Geen Mappen Gevonden",
+      "placeholder": "Zoek mappen...",
+      "Copy To": "Kopieer Naar",
+      "Move To": "Verplaats Naar",
+      "Confirm": "Bevestigen",
+      "Deleting...": "Verwijderen...",
+      "deleteConfirmation": "Weet je zeker dat je {{filename}} wilt verwijderen?",
+      "Save": "Opslaan",
+      "Rename": "Hernoemen",
+      "Share": "Delen",
+      "Delete": "Verwijderen",
+      "Move": "Verplaatsen",
+      "Copy": "Kopiëren",
+      "enterFolderName": "Voer mapnaam in",
+      "errorCreatingFolder": "Fout bij het maken van de map",
+      "Create": "Aanmaken"
+    },
+    "videoPlayer": {
+      "file": "Bestand",
+      "name": "Naam: {{value}}",
+      "path": "Pad: {{value}}",
+      "size": "Grootte: {{value}}",
+      "created": "Gemaakt: {{value}}",
+      "multimedia": "Multimedia",
+      "format": "Formaat: {{value}}",
+      "duration": "Duur: {{value}}",
+      "resolution": "Resolutie: {{value}}"
+    }
+  }

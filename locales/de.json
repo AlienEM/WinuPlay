@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play benötigt Zugriff auf Ihre Medienbibliothek, um Audio- und Videodateien abzuspielen. Bitte erteilen Sie die Erlaubnis, um fortzufahren.",
+      "grant_permission": "Erlaubnis Erteilen",
+      "close_app": "App Schließen"
+    },
+    "video_library": {
+      "videos": "Videos",
+      "search": "Suchen...",
+      "no_videos_available": "Keine Videos Verfügbar",
+      "no_albums_available": "Keine Alben Verfügbar",
+      "view_mode": "Ansichtsmodus",
+      "layout": "Layout",
+      "sort": "Sortieren",
+      "cancel": "Abbrechen",
+      "done": "Fertig"
+    },
+    "music_library": {
+      "music": "Musik",
+      "songs": "Lieder",
+      "search": "Suchen...",
+      "start_adding_favorites": "Beginnen Sie, Ihre Lieblingslieder hinzuzufügen, um sie hier zu genießen!",
+      "your_starry_favorites": "Ihre Stern-Favoriten",
+      "loading_starry_favorites": "Ihre Stern-Favoriten werden geladen...",
+      "no_music_available": "Keine Musik Verfügbar",
+      "no_albums_available": "Keine Alben Verfügbar",
+      "view_mode": "Ansichtsmodus",
+      "layout": "Layout",
+      "sort": "Sortieren",
+      "cancel": "Abbrechen",
+      "done": "Fertig"
+    },
+    "settings": {
+      "title": "Einstellungen",
+      "app_theme": "App-Thema",
+      "language": "Sprache",
+      "pip_settings": "PiP-Einstellungen",
+      "terms_of_use": "Nutzungsbedingungen und Regeln",
+      "privacy_policy": "Datenschutzrichtlinie",
+      "accept": "Akzeptieren",
+      "app_language": "App-Sprache",
+      "starts_pip": "Bild-im-Bild Automatisch Starten",
+      "save": "Speichern",
+      "cancel": "Abbrechen",
+      "terms_of_use_content": "Willkommen bei Winu Play, einer Video- und Musik-Player-App, entwickelt von Winu Co. Durch die Nutzung von Winu Play stimmen Sie den folgenden Nutzungsbedingungen zu:\n\n1. **Annahme der Bedingungen**:\n Durch das Herunterladen, Installieren oder Verwenden von Winu Play erklären Sie sich damit einverstanden, diese Nutzungsbedingungen einzuhalten. Wenn Sie nicht zustimmen, deinstallieren Sie bitte die App.\n\n2. **Nutzung der App**:\n Winu Play ermöglicht Ihnen das Abspielen von Video- und Audiodateien, die auf Ihrem Gerät gespeichert sind. Sie sind dafür verantwortlich sicherzustellen, dass Sie das gesetzliche Recht haben, auf diese Dateien zuzugreifen und sie abzuspielen.\n\n3. **Kein Konto Erforderlich**:\n Winu Play erfordert keine Benutzerregistrierung oder Anmeldung. Es werden keine persönlichen Daten gesammelt oder gespeichert.\n\n4. **Verbotene Aktivitäten**:\n Sie dürfen Winu Play nicht für illegale Zwecke nutzen, einschließlich, aber nicht beschränkt auf die Verbreitung urheberrechtlich geschützten Materials ohne Genehmigung oder die Teilnahme an Aktivitäten, die anderen Benutzern oder der Funktionalität der App schaden.\n\n5. **Geistiges Eigentum**:\n Winu Play und sein Logo sind Eigentum von Winu Co. Sie dürfen keinen Teil der App reproduzieren, modifizieren oder verteilen ohne schriftliche Genehmigung von Winu Co.\n\n6. **Haftungsausschluss**:\n Winu Play wird „wie es ist“ bereitgestellt, ohne jegliche ausdrückliche oder stillschweigende Garantien. Winu Co garantiert nicht den unterbrechungsfreien oder fehlerfreien Betrieb der App.\n\n7. **Haftungsbeschränkung**:\n Winu Co haftet nicht für indirekte, zufällige, besondere oder Folgeschäden, die aus der Nutzung oder der Unfähigkeit zur Nutzung von Winu Play entstehen.\n\n8. **Änderungen der Bedingungen**:\n Winu Co kann diese Nutzungsbedingungen jederzeit aktualisieren. Die fortgesetzte Nutzung der App nach solchen Änderungen stellt eine Zustimmung zu den neuen Bedingungen dar.\n\n9. **Kündigung**:\n Winu Co behält sich das Recht vor, den Zugriff auf Winu Play nach eigenem Ermessen zu beenden oder einzuschränken, wenn Sie diese Bedingungen verletzen.\n\n10. **Kontaktieren Sie Uns**:\n Wenn Sie Fragen oder Bedenken haben, kontaktieren Sie uns bitte unter winu-co@outlook.com.\n\nDiese Nutzungsbedingungen unterliegen den Gesetzen der Gerichtsbarkeit, in der Winu Co ansässig ist. Durch die Nutzung von Winu Play stimmen Sie zu, Streitigkeiten durch Schiedsgerichtsbarkeit oder vor den zuständigen Gerichten dieser Gerichtsbarkeit zu klären.",
+      "privacy_policy_content": "Datenschutzrichtlinie von Winu Play\n\nWinu Play, entwickelt von Winu Co, verpflichtet sich, Ihre Privatsphäre zu schützen. Diese Datenschutzrichtlinie erläutert, wie wir Ihre Informationen behandeln, wenn Sie unsere Video- und Musik-Player-App nutzen.\n\n1. **Keine Datensammlung**:\n Winu Play sammelt, speichert oder überträgt keine persönlichen oder Gerätedaten. Wir verlangen keine Registrierung, Anmeldung oder Kontoerstellung und verfolgen Ihre Aktivitäten nicht noch teilen wir Informationen mit Dritten.\n\n2. **Lokale Nutzung**:\n Winu Play funktioniert ausschließlich auf Ihrem Gerät und greift nur auf die Video- und Audiodateien zu, die Sie aus Ihrem lokalen Speicher zur Wiedergabe auswählen. Es werden keine Daten an Server oder externe Dienste gesendet.\n\n3. **Keine Drittanbieter-Dienste**:\n Wir integrieren keine Analysetools, Werbung oder Tracking-Tools von Drittanbietern, die Daten sammeln könnten.\n\n4. **Berechtigungen**:\n Winu Play benötigt Zugriff auf Ihre Mediendateien (Videos und Musik), um zu funktionieren. Sie kontrollieren diese Berechtigungen und können sie jederzeit über die Einstellungen Ihres Geräts widerrufen.\n\n5. **Änderungen der Richtlinie**:\n Winu Co kann diese Datenschutzrichtlinie aktualisieren, um Änderungen in unseren Praktiken widerzuspiegeln. Wir werden Sie über wesentliche Änderungen über die App oder unsere Kontaktinformationen informieren.\n\n6. **Kontaktieren Sie Uns**:\n Wenn Sie Fragen oder Bedenken bezüglich Ihrer Privatsphäre haben, kontaktieren Sie uns bitte unter winu-co@outlook.com.\n\nDurch die Nutzung von Winu Play bestätigen Sie, dass Sie diese Datenschutzrichtlinie gelesen und verstanden haben. Diese Richtlinie entspricht den geltenden Datenschutzgesetzen und den Anforderungen der App-Stores."
+    },
+    "theme_settings": {
+      "title": "Themen-Einstellungen",
+      "save": "Speichern",
+      "color_options": {
+        "background_color": "Hintergrundfarbe",
+        "text_color": "Textfarbe",
+        "nav_bar_color": "Farbe der Navigationsleiste",
+        "icon_tint_color": "Farbton der Symbole",
+        "button_bg_color": "Hintergrundfarbe des Buttons",
+        "active_button_color": "Farbe des Aktiven Buttons",
+        "mini_player_position": "Position des Mini-Players",
+        "mini_player_position_values": {
+          "bottom": "Unten",
+          "top": "Oben"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Videos Herunterladen",
+      "download": "Herunterladen",
+      "close": "Schließen",
+      "no_videos_founds": "Keine Videos Gefunden",
+      "download_progress": "Download-Fortschritt",
+      "no_downloads": "Keine Downloads"
+    },
+    "fileOperation": {
+      "Copy Here": "Hierher Kopieren",
+      "Move Here": "Hierher Verschieben",
+      "Cancel": "Abbrechen",
+      "Copying...": "Kopieren...",
+      "Moving...": "Verschieben...",
+      "No folders found": "Keine Ordner Gefunden",
+      "placeholder": "Ordner suchen...",
+      "Copy To": "Kopieren Nach",
+      "Move To": "Verschieben Nach",
+      "Confirm": "Bestätigen",
+      "Deleting...": "Löschen...",
+      "deleteConfirmation": "Sind Sie sicher, dass Sie {{filename}} löschen möchten?",
+      "Save": "Speichern",
+      "Rename": "Umbenennen",
+      "Share": "Teilen",
+      "Delete": "Löschen",
+      "Move": "Verschieben",
+      "Copy": "Kopieren",
+      "enterFolderName": "Ordnernamen eingeben",
+      "errorCreatingFolder": "Fehler beim Erstellen des Ordners",
+      "Create": "Erstellen"
+    },
+    "videoPlayer": {
+      "file": "Datei",
+      "name": "Name: {{value}}",
+      "path": "Pfad: {{value}}",
+      "size": "Größe: {{value}}",
+      "created": "Erstellt: {{value}}",
+      "multimedia": "Multimedia",
+      "format": "Format: {{value}}",
+      "duration": "Dauer: {{value}}",
+      "resolution": "Auflösung: {{value}}"
+    }
+  }

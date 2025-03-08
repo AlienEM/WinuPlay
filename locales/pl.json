@@ -1,0 +1,107 @@
+{
+    "permission_modal": {
+      "message": "Winu Play wymaga dostępu do Twojej biblioteki multimedialnej, aby odtwarzać pliki audio i wideo. Proszę, udziel zgody, aby kontynuować.",
+      "grant_permission": "Udziel Zgody",
+      "close_app": "Zamknij Aplikację"
+    },
+    "video_library": {
+      "videos": "Wideo",
+      "search": "Szukaj...",
+      "no_videos_available": "Brak Dostępnych Filmów",
+      "no_albums_available": "Brak Dostępnych Albumów",
+      "view_mode": "Tryb Widoku",
+      "layout": "Układ",
+      "sort": "Sortuj",
+      "cancel": "Anuluj",
+      "done": "Gotowe"
+    },
+    "music_library": {
+      "music": "Muzyka",
+      "songs": "Piosenki",
+      "search": "Szukaj...",
+      "start_adding_favorites": "Zacznij dodawać swoje ulubione piosenki, aby cieszyć się nimi tutaj!",
+      "your_starry_favorites": "Twoje Ulubione z Gwiazdką",
+      "loading_starry_favorites": "Ładowanie Twoich Ulubionych z Gwiazdką...",
+      "no_music_available": "Brak Dostępnej Muzyki",
+      "no_albums_available": "Brak Dostępnych Albumów",
+      "view_mode": "Tryb Widoku",
+      "layout": "Układ",
+      "sort": "Sortuj",
+      "cancel": "Anuluj",
+      "done": "Gotowe"
+    },
+    "settings": {
+      "title": "Ustawienia",
+      "app_theme": "Motyw Aplikacji",
+      "language": "Język",
+      "pip_settings": "Ustawienia Obrazu w Obrazie",
+      "terms_of_use": "Warunki Użytkowania i Zasady",
+      "privacy_policy": "Polityka Prywatności",
+      "accept": "Akceptuj",
+      "app_language": "Język Aplikacji",
+      "starts_pip": "Automatycznie Uruchom Obraz w Obrazie",
+      "save": "Zapisz",
+      "cancel": "Anuluj",
+      "terms_of_use_content": "Witamy w Winu Play, aplikacji do odtwarzania wideo i muzyki opracowanej przez Winu Co. Korzystając z Winu Play, zgadzasz się na następujące Warunki Użytkowania:\n\n1. **Akceptacja Warunków**:\n Pobierając, instalując lub używając Winu Play, zgadzasz się przestrzegać niniejszych Warunków Użytkowania. Jeśli się nie zgadzasz, proszę odinstaluj aplikację.\n\n2. **Korzystanie z Aplikacji**:\n Winu Play umożliwia odtwarzanie plików wideo i audio przechowywanych na Twoim urządzeniu. Odpowiadasz za upewnienie się, że masz legalne prawo do dostępu i odtwarzania tych plików.\n\n3. **Konto Nie Jest Wymagane**:\n Winu Play nie wymaga rejestracji ani logowania użytkownika. Żadne dane osobowe nie są zbierane ani przechowywane.\n\n4. **Zabronione Działania**:\n Nie możesz używać Winu Play do celów niezgodnych z prawem, w tym między innymi do dystrybucji materiałów chronionych prawem autorskim bez zgody lub angażowania się w działania szkodzące innym użytkownikom lub funkcjonalności aplikacji.\n\n5. **Własność Intelektualna**:\n Winu Play i jego logo są własnością Winu Co. Nie możesz reprodukować, modyfikować ani dystrybuować żadnej części aplikacji bez pisemnej zgody Winu Co.\n\n6. **Zrzeczenie się Gwarancji**:\n Winu Play jest dostarczany „tak jak jest” bez żadnych gwarancji, wyraźnych ani dorozumianych. Winu Co nie gwarantuje nieprzerwanego ani wolnego od błędów działania aplikacji.\n\n7. **Ograniczenie Odpowiedzialności**:\n Winu Co nie ponosi odpowiedzialności za pośrednie, przypadkowe, szczególne lub wynikowe szkody wynikające z używania lub niemożności używania Winu Play.\n\n8. **Zmiany Warunków**:\n Winu Co może zaktualizować niniejsze Warunki Użytkowania w dowolnym momencie. Dalsze korzystanie z aplikacji po takich zmianach oznacza akceptację nowych warunków.\n\n9. **Zakończenie**:\n Winu Co zastrzega sobie prawo do zakończenia lub ograniczenia dostępu do Winu Play według własnego uznania, jeśli naruszysz te warunki.\n\n10. **Skontaktuj się z Nami**:\n Jeśli masz pytania lub obawy, skontaktuj się z nami pod adresem winu-co@outlook.com.\n\nNiniejsze Warunki Użytkowania podlegają prawu jurysdykcji, w której znajduje się Winu Co. Korzystając z Winu Play, zgadzasz się rozstrzygać wszelkie spory za pomocą arbitrażu lub w odpowiednich sądach tej jurysdykcji.",
+      "privacy_policy_content": "Polityka Prywatności Winu Play\n\nWinu Play, opracowany przez Winu Co, zobowiązuje się do ochrony Twojej prywatności. Niniejsza Polityka Prywatności wyjaśnia, jak zarządzamy Twoimi informacjami, gdy korzystasz z naszej aplikacji do odtwarzania wideo i muzyki.\n\n1. **Brak Zbierania Danych**:\n Winu Play nie zbiera, nie przechowuje ani nie przesyła danych osobowych ani danych urządzenia. Nie wymagamy rejestracji, logowania ani tworzenia konta, nie śledzimy Twojej aktywności ani nie udostępniamy informacji stronom trzecim.\n\n2. **Lokalne Użycie**:\n Winu Play działa wyłącznie na Twoim urządzeniu i uzyskuje dostęp tylko do plików wideo i audio, które wybierzesz do odtwarzania z lokalnej pamięci. Żadne dane nie są wysyłane na serwery ani do zewnętrznych usług.\n\n3. **Brak Usług Stron Trzecich**:\n Nie integrujemy analityki stron trzecich, reklam ani narzędzi śledzących, które mogłyby zbierać dane.\n\n4. **Uprawnienia**:\n Winu Play wymaga dostępu do Twoich plików multimedialnych (wideo i muzyki), aby działać. Ty kontrolujesz te uprawnienia i możesz je w dowolnym momencie cofnąć za pomocą ustawień urządzenia.\n\n5. **Zmiany w Polityce**:\n Winu Co może zaktualizować niniejszą Politykę Prywatności, aby odzwierciedlić zmiany w naszych praktykach. Poinformujemy Cię o istotnych zmianach za pośrednictwem aplikacji lub naszych danych kontaktowych.\n\n6. **Skontaktuj się z Nami**:\n Jeśli masz pytania lub obawy dotyczące swojej prywatności, skontaktuj się z nami pod adresem winu-co@outlook.com.\n\nKorzystając z Winu Play, potwierdzasz, że przeczytałeś i zrozumiałeś niniejszą Politykę Prywatności. Polityka ta jest zgodna z obowiązującymi przepisami o ochronie danych oraz wymaganiami sklepów z aplikacjami."
+    },
+    "theme_settings": {
+      "title": "Ustawienia Motywu",
+      "save": "Zapisz",
+      "color_options": {
+        "background_color": "Kolor Tła",
+        "text_color": "Kolor Tekstu",
+        "nav_bar_color": "Kolor Paska Nawigacyjnego",
+        "icon_tint_color": "Odcień Ikon",
+        "button_bg_color": "Kolor Tła Przycisku",
+        "active_button_color": "Kolor Aktywnego Przycisku",
+        "mini_player_position": "Pozycja Mini Odtwarzacza",
+        "mini_player_position_values": {
+          "bottom": "Na Dole",
+          "top": "Na Górze"
+        }
+      }
+    },
+    "browser": {
+      "download_videos": "Pobierz Wideo",
+      "download": "Pobierz",
+      "close": "Zamknij",
+      "no_videos_founds": "Nie Znaleziono Filmów",
+      "download_progress": "Postęp Pobierania",
+      "no_downloads": "Brak Pobrań"
+    },
+    "fileOperation": {
+      "Copy Here": "Kopiuj Tutaj",
+      "Move Here": "Przenieś Tutaj",
+      "Cancel": "Anuluj",
+      "Copying...": "Kopiowanie...",
+      "Moving...": "Przenoszenie...",
+      "No folders found": "Nie Znaleziono Folderów",
+      "placeholder": "Szukaj folderów...",
+      "Copy To": "Kopiuj Do",
+      "Move To": "Przenieś Do",
+      "Confirm": "Potwierdź",
+      "Deleting...": "Usuwanie...",
+      "deleteConfirmation": "Czy na pewno chcesz usunąć {{filename}}?",
+      "Save": "Zapisz",
+      "Rename": "Zmień Nazwę",
+      "Share": "Udostępnij",
+      "Delete": "Usuń",
+      "Move": "Przenieś",
+      "Copy": "Kopiuj",
+      "enterFolderName": "Wprowadź nazwę folderu",
+      "errorCreatingFolder": "Błąd podczas tworzenia folderu",
+      "Create": "Utwórz"
+    },
+    "videoPlayer": {
+      "file": "Plik",
+      "name": "Nazwa: {{value}}",
+      "path": "Ścieżka: {{value}}",
+      "size": "Rozmiar: {{value}}",
+      "created": "Utworzono: {{value}}",
+      "multimedia": "Multimedia",
+      "format": "Format: {{value}}",
+      "duration": "Czas trwania: {{value}}",
+      "resolution": "Rozdzielczość: {{value}}"
+    }
+  }
