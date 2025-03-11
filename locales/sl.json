@@ -96,7 +96,8 @@
       "Copy": "Kopiraj",
       "enterFolderName": "Vnesite ime mape",
       "errorCreatingFolder": "Napaka pri ustvarjanju mape",
-      "Create": "Ustvari"
+      "Create": "Ustvari",
+        "Properties": "Lastnosti"
     },
     "videoPlayer": {
       "file": "Datoteka",
