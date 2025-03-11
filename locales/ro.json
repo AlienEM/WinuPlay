@@ -68,7 +68,12 @@
       "close": "Închide",
       "no_videos_founds": "Niciun Videoclip Găsit",
       "download_progress": "Progres Descărcare",
-      "no_downloads": "Nicio Descărcare"
+      "no_downloads": "Nicio Descărcare",
+        "History": "Istoric",
+    "Clear Browsing Data...": "Ștergeți datele de navigare...",
+    "no_history": "Fără istoric",
+    "download_not_supported": "Descărcarea nu este acceptată",
+    "youtube_copyright_notice": "Descărcarea videoclipurilor de pe YouTube nu este acceptată din cauza restricțiilor privind drepturile de autor. Vă rugăm să utilizați conținut de pe alte platforme sau să vă asigurați că aveți permisiunea de a descărca."
     },
     "fileOperation": {
       "Copy Here": "Copiază Aici",
