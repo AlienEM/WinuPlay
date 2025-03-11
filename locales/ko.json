@@ -68,7 +68,12 @@
       "close": "닫기",
       "no_videos_founds": "비디오를 찾을 수 없습니다",
       "download_progress": "다운로드 진행 상황",
-      "no_downloads": "다운로드 없음"
+      "no_downloads": "다운로드 없음",
+        "History": "기록",
+    "Clear Browsing Data...": "브라우징 데이터 지우기...",
+    "no_history": "기록 없음",
+    "download_not_supported": "다운로드가 지원되지 않습니다",
+    "youtube_copyright_notice": "저작권 제한으로 인해 YouTube에서 비디오를 다운로드하는 것은 지원되지 않습니다. 다른 플랫폼의 콘텐츠를 사용하거나 다운로드 허가가 있는지 확인해 주세요."
     },
     "fileOperation": {
       "Copy Here": "여기에 복사",
