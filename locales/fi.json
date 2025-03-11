@@ -68,7 +68,12 @@
       "close": "Sulje",
       "no_videos_founds": "Videoita Ei Löytynyt",
       "download_progress": "Latauksen Edistyminen",
-      "no_downloads": "Ei Latauksia"
+      "no_downloads": "Ei Latauksia",
+        "History": "Historia",
+    "Clear Browsing Data...": "Tyhjennä selaustiedot...",
+    "no_history": "Ei historiaa",
+    "download_not_supported": "Lataus ei ole tuettu",
+    "youtube_copyright_notice": "Videoiden lataaminen YouTubesta ei ole tuettu tekijänoikeusrajoitusten vuoksi. Käytä sisältöä muilta alustoilta tai varmista, että sinulla on lupa ladata."
     },
     "fileOperation": {
       "Copy Here": "Kopioi Tänne",
