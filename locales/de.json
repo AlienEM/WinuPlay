@@ -96,7 +96,8 @@
       "Copy": "Kopieren",
       "enterFolderName": "Ordnernamen eingeben",
       "errorCreatingFolder": "Fehler beim Erstellen des Ordners",
-      "Create": "Erstellen"
+      "Create": "Erstellen",
+        "Properties": "Eigenschaften"
     },
     "videoPlayer": {
       "file": "Datei",
