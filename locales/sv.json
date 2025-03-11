@@ -96,7 +96,8 @@
       "Copy": "Kopiera",
       "enterFolderName": "Ange mappnamn",
       "errorCreatingFolder": "Fel vid skapande av mapp",
-      "Create": "Skapa"
+      "Create": "Skapa",
+        "Properties": "Egenskaper"
     },
     "videoPlayer": {
       "file": "Fil",
