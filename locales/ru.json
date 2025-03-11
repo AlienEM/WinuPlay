@@ -96,7 +96,8 @@
       "Copy": "Скопировать",
       "enterFolderName": "Введите имя папки",
       "errorCreatingFolder": "Ошибка при создании папки",
-      "Create": "Создать"
+      "Create": "Создать",
+        "Properties": "Свойства"
     },
     "videoPlayer": {
       "file": "Файл",
