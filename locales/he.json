@@ -96,7 +96,8 @@
       "Copy": "העתק",
       "enterFolderName": "הזן שם תיקיה",
       "errorCreatingFolder": "שגיאה ביצירת תיקיה",
-      "Create": "צור"
+      "Create": "צור",
+        "Properties": "מאפיינים"
     },
     "videoPlayer": {
       "file": "קובץ",
