@@ -96,7 +96,8 @@
       "Copy": "Copia",
       "enterFolderName": "Inserisci il nome della cartella",
       "errorCreatingFolder": "Errore nella creazione della cartella",
-      "Create": "Crea"
+      "Create": "Crea",
+        "Properties": "Proprietà"
     },
     "videoPlayer": {
       "file": "File",
