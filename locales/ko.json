@@ -96,7 +96,8 @@
       "Copy": "복사",
       "enterFolderName": "폴더 이름 입력",
       "errorCreatingFolder": "폴더 생성 오류",
-      "Create": "생성"
+      "Create": "생성",
+        "Properties": "속성"
     },
     "videoPlayer": {
       "file": "파일",
