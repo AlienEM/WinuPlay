@@ -68,7 +68,12 @@
       "close": "閉じる",
       "no_videos_founds": "ビデオが見つかりませんでした",
       "download_progress": "ダウンロードの進捗",
-      "no_downloads": "ダウンロードなし"
+      "no_downloads": "ダウンロードなし",
+        "History": "履歴",
+    "Clear Browsing Data...": "閲覧データを消去...",
+    "no_history": "履歴なし",
+    "download_not_supported": "ダウンロードはサポートされていません",
+    "youtube_copyright_notice": "著作権の制限により、YouTubeからの動画ダウンロードはサポートされていません。他のプラットフォームのコンテンツを使用するか、ダウンロードの許可があることを確認してください。"
     },
     "fileOperation": {
       "Copy Here": "ここにコピー",
