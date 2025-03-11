@@ -96,7 +96,8 @@
       "Copy": "Kopírovat",
       "enterFolderName": "Zadejte název složky",
       "errorCreatingFolder": "Chyba při vytváření složky",
-      "Create": "Vytvořit"
+      "Create": "Vytvořit",
+        "Properties": "Vlastnosti"
     },
     "videoPlayer": {
       "file": "Soubor",
