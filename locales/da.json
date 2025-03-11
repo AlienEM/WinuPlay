@@ -68,7 +68,12 @@
       "close": "Luk",
       "no_videos_founds": "Ingen Videoer Fundet",
       "download_progress": "Download Fremskridt",
-      "no_downloads": "Ingen Downloads"
+      "no_downloads": "Ingen Downloads",
+        "History": "Historik",
+    "Clear Browsing Data...": "Ryd browserdata...",
+    "no_history": "Ingen historik",
+    "download_not_supported": "Download understøttes ikke",
+    "youtube_copyright_notice": "Download af videoer fra YouTube understøttes ikke på grund af ophavsretlige begrænsninger. Brug venligst indhold fra andre platforme, eller sørg for, at du har tilladelse til at downloade."
     },
     "fileOperation": {
       "Copy Here": "Kopiér Her",
