@@ -96,7 +96,8 @@
       "Copy": "Kopier",
       "enterFolderName": "Skriv inn mappenavn",
       "errorCreatingFolder": "Feil ved oppretting av mappe",
-      "Create": "Opprett"
+      "Create": "Opprett",
+        "Properties": "Egenskaper"
     },
     "videoPlayer": {
       "file": "Fil",
