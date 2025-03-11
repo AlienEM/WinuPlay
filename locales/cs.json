@@ -68,7 +68,12 @@
       "close": "Zavřít",
       "no_videos_founds": "Nenalezena Žádná Videa",
       "download_progress": "Průběh Stahování",
-      "no_downloads": "Žádné Stahování"
+      "no_downloads": "Žádné Stahování",
+        "History": "Historie",
+    "Clear Browsing Data...": "Vymazat data prohlížení...",
+    "no_history": "Žádná historie",
+    "download_not_supported": "Stahování není podporováno",
+    "youtube_copyright_notice": "Stahování videí z YouTube není podporováno kvůli omezením autorských práv. Prosím, použijte obsah z jiných platforem nebo se ujistěte, že máte povolení ke stažení."
     },
     "fileOperation": {
       "Copy Here": "Kopírovat Sem",
