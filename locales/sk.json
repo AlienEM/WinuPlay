@@ -68,7 +68,12 @@
       "close": "Zavrieť",
       "no_videos_founds": "Nenašli sa žiadne videá",
       "download_progress": "Priebeh sťahovania",
-      "no_downloads": "Žiadne sťahovania"
+      "no_downloads": "Žiadne sťahovania",
+        "History": "História",
+    "Clear Browsing Data...": "Vymazať údaje prehliadania...",
+    "no_history": "Žiadna história",
+    "download_not_supported": "Sťahovanie nie je podporované",
+    "youtube_copyright_notice": "Sťahovanie videí z YouTube nie je podporované kvôli obmedzeniam autorských práv. Použite obsah z iných platforiem alebo sa uistite, že máte povolenie na stiahnutie."
     },
     "fileOperation": {
       "Copy Here": "Kopírovať sem",
