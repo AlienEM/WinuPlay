@@ -68,7 +68,12 @@
       "close": "Kapat",
       "no_videos_founds": "Hiç Video Bulunamadı",
       "download_progress": "İndirme İlerlemesi",
-      "no_downloads": "İndirme Yok"
+      "no_downloads": "İndirme Yok",
+        "History": "Geçmiş",
+    "Clear Browsing Data...": "Tarama Verilerini Temizle...",
+    "no_history": "Geçmiş yok",
+    "download_not_supported": "İndirme desteklenmiyor",
+    "youtube_copyright_notice": "Telif hakkı kısıtlamaları nedeniyle YouTube'dan video indirme desteklenmiyor. Lütfen diğer platformlardan içerik kullanın veya indirme izniniz olduğundan emin olun."
     },
     "fileOperation": {
       "Copy Here": "Buraya Kopyala",
