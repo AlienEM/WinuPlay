@@ -68,7 +68,12 @@
       "close": "Đóng",
       "no_videos_founds": "Không tìm thấy video",
       "download_progress": "Tiến trình tải xuống",
-      "no_downloads": "Không có tải xuống"
+      "no_downloads": "Không có tải xuống",
+        "History": "Lịch sử",
+    "Clear Browsing Data...": "Xóa dữ liệu duyệt web...",
+    "no_history": "Không có lịch sử",
+    "download_not_supported": "Tải xuống không được hỗ trợ",
+    "youtube_copyright_notice": "Việc tải xuống video từ YouTube không được hỗ trợ do các hạn chế về bản quyền. Vui lòng sử dụng nội dung từ các nền tảng khác hoặc đảm bảo bạn có quyền tải xuống."
     },
     "fileOperation": {
       "Copy Here": "Sao chép tại đây",
