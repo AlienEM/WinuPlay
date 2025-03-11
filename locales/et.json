@@ -96,7 +96,8 @@
       "Copy": "Kopeeri",
       "enterFolderName": "Sisesta kausta nimi",
       "errorCreatingFolder": "Viga kausta loomisel",
-      "Create": "Loo"
+      "Create": "Loo",
+        "Properties": "Omadused"
     },
     "videoPlayer": {
       "file": "Fail",
