@@ -96,7 +96,8 @@
       "Copy": "Salin",
       "enterFolderName": "Masukkan nama folder",
       "errorCreatingFolder": "Ralat semasa mencipta folder",
-      "Create": "Cipta"
+      "Create": "Cipta",
+        "Properties": "Ciri-ciri"
     },
     "videoPlayer": {
       "file": "Fail",
