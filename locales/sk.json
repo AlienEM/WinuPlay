@@ -96,7 +96,8 @@
       "Copy": "Kopírovať",
       "enterFolderName": "Zadajte názov priečinka",
       "errorCreatingFolder": "Chyba pri vytváraní priečinka",
-      "Create": "Vytvoriť"
+      "Create": "Vytvoriť",
+        "Properties": "Vlastnosti"
     },
     "videoPlayer": {
       "file": "Súbor",
