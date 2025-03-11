@@ -68,7 +68,12 @@
       "close": "Fechar",
       "no_videos_founds": "Nenhum Vídeo Encontrado",
       "download_progress": "Progresso do Download",
-      "no_downloads": "Nenhum Download"
+      "no_downloads": "Nenhum Download",
+        "History": "Histórico",
+    "Clear Browsing Data...": "Limpar dados de navegação...",
+    "no_history": "Sem histórico",
+    "download_not_supported": "Download não suportado",
+    "youtube_copyright_notice": "O download de vídeos do YouTube não é suportado devido a restrições de direitos autorais. Por favor, use conteúdo de outras plataformas ou certifique-se de que tem permissão para baixar."
     },
     "fileOperation": {
       "Copy Here": "Copiar Aqui",
