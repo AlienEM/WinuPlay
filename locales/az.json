@@ -68,7 +68,12 @@
       "close": "Bağla",
       "no_videos_founds": "Video Tapılmadı",
       "download_progress": "Endirmə Tərəqqi",
-      "no_downloads": "Endirmə Yoxdur"
+      "no_downloads": "Endirmə Yoxdur",
+        "History": "Tarixçə",
+    "Clear Browsing Data...": "Brauzer Məlumatlarını Təmizlə...",
+    "no_history": "Tarixçə yoxdur",
+    "download_not_supported": "Yükləmə dəstəklənmir",
+    "youtube_copyright_notice": "YouTube-dan videoların yüklənməsi müəllif hüquqları məhdudiyyətləri səbəbindən dəstəklənmir. Zəhmət olmasa digər platformalardan məzmun istifadə edin və ya yükləmək üçün icazəniz olduğundan əmin olun."
     },
     "fileOperation": {
       "Copy Here": "Buraya Kopyala",
