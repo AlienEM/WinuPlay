@@ -68,7 +68,12 @@
       "close": "Zatvori",
       "no_videos_founds": "Nema Pronađenih Videozapisa",
       "download_progress": "Napredak Preuzimanja",
-      "no_downloads": "Nema Preuzimanja"
+      "no_downloads": "Nema Preuzimanja",
+        "History": "Povijest",
+    "Clear Browsing Data...": "Obriši podatke pregledavanja...",
+    "no_history": "Nema povijesti",
+    "download_not_supported": "Preuzimanje nije podržano",
+    "youtube_copyright_notice": "Preuzimanje videa s YouTubea nije podržano zbog ograničenja autorskih prava. Molimo koristite sadržaj s drugih platformi ili se uvjerite da imate dopuštenje za preuzimanje."
     },
     "fileOperation": {
       "Copy Here": "Kopiraj Ovdje",
