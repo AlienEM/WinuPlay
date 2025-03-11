@@ -96,7 +96,8 @@
       "Copy": "অনুলিপি",
       "enterFolderName": "ফোল্ডারের নাম লিখুন",
       "errorCreatingFolder": "ফোল্ডার তৈরিতে ত্রুটি",
-      "Create": "তৈরি করুন"
+      "Create": "তৈরি করুন",
+        "Properties": "গুণাবলী"
     },
     "videoPlayer": {
       "file": "ফাইল",
