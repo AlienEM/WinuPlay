@@ -96,7 +96,8 @@
       "Copy": "Копіювати",
       "enterFolderName": "Введіть назву папки",
       "errorCreatingFolder": "Помилка створення папки",
-      "Create": "Створити"
+      "Create": "Створити",
+        "Properties": "Властивості"
     },
     "videoPlayer": {
       "file": "Файл",
