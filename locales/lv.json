@@ -68,7 +68,12 @@
       "close": "Aizvērt",
       "no_videos_founds": "Nav Atrastu Video",
       "download_progress": "Lejupielādes Progress",
-      "no_downloads": "Nav Lejupielāžu"
+      "no_downloads": "Nav Lejupielāžu",
+        "History": "Vēsture",
+    "Clear Browsing Data...": "Notīrīt pārlūkošanas datus...",
+    "no_history": "Nav vēstures",
+    "download_not_supported": "Lejupielāde netiek atbalstīta",
+    "youtube_copyright_notice": "Autortiesību ierobežojumu dēļ YouTube videoklipu lejupielāde netiek atbalstīta. Lūdzu, izmantojiet saturu no citām platformām vai pārliecinieties, ka jums ir atļauja lejupielādēt."
     },
     "fileOperation": {
       "Copy Here": "Kopēt Šeit",
