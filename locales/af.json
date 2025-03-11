@@ -68,7 +68,12 @@
       "close": "Sluit",
       "no_videos_founds": "Geen Video's Gevind Nie",
       "download_progress": "Aflaai Vordering",
-      "no_downloads": "Geen Aflaaie Nie"
+      "no_downloads": "Geen Aflaaie Nie",
+        "History": "Geskiedenis",
+    "Clear Browsing Data...": "Vee Blaaigegewens uit...",
+    "no_history": "Geen geskiedenis nie",
+    "download_not_supported": "Aflaai word nie ondersteun nie",
+    "youtube_copyright_notice": "Aflaai van video's vanaf YouTube word nie ondersteun nie as gevolg van kopieregbeperkings. Gebruik asseblief inhoud van ander platforms of verseker dat u toestemming het om af te laai."
     },
     "fileOperation": {
       "Copy Here": "Kopieer Hier",
