@@ -96,7 +96,8 @@
     "Copy": "คัดลอก",
     "enterFolderName": "ป้อนชื่อโฟลเดอร์",
     "errorCreatingFolder": "เกิดข้อผิดพลาดในการสร้างโฟลเดอร์",
-    "Create": "สร้าง"
+    "Create": "สร้าง",
+    "Properties": "คุณสมบัติ"
   },
   "videoPlayer": {
     "file": "ไฟล์",
