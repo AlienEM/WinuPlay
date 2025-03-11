@@ -96,7 +96,8 @@
       "Copy": "Копирај",
       "enterFolderName": "Унесите име фасцикле",
       "errorCreatingFolder": "Грешка при креирању фасцикле",
-      "Create": "Креирај"
+      "Create": "Креирај",
+        "Properties": "Својства"
     },
     "videoPlayer": {
       "file": "Датотека",
