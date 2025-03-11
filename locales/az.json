@@ -96,7 +96,8 @@
       "Copy": "Kopyala",
       "enterFolderName": "Qovluq adını daxil et",
       "errorCreatingFolder": "Qovluq yaradılmasında xəta",
-      "Create": "Yarat"
+      "Create": "Yarat",
+        "Properties": "Xüsusiyyətlər"
     },
     "videoPlayer": {
       "file": "Fayl",
