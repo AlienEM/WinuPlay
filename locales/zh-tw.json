@@ -96,7 +96,8 @@
       "Copy": "複製",
       "enterFolderName": "輸入資料夾名稱",
       "errorCreatingFolder": "創建資料夾時出錯",
-      "Create": "創建"
+      "Create": "創建",
+        "Properties": "屬性"
     },
     "videoPlayer": {
       "file": "文件",
