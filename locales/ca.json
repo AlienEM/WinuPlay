@@ -68,7 +68,12 @@
       "close": "Tanca",
       "no_videos_founds": "No s'han Trobat Vídeos",
       "download_progress": "Progrés de la Descàrrega",
-      "no_downloads": "Sense Descàrregues"
+      "no_downloads": "Sense Descàrregues",
+        "History": "Historial",
+    "Clear Browsing Data...": "Esborra les dades de navegació...",
+    "no_history": "Sense historial",
+    "download_not_supported": "La descàrrega no és compatible",
+    "youtube_copyright_notice": "La descàrrega de vídeos de YouTube no és compatible a causa de restriccions de drets d'autor. Si us plau, utilitzeu contingut d'altres plataformes o assegureu-vos que teniu permís per descarregar."
     },
     "fileOperation": {
       "Copy Here": "Copia Aquí",
