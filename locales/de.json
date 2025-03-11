@@ -68,7 +68,12 @@
       "close": "Schließen",
       "no_videos_founds": "Keine Videos Gefunden",
       "download_progress": "Download-Fortschritt",
-      "no_downloads": "Keine Downloads"
+      "no_downloads": "Keine Downloads",
+        "History": "Verlauf",
+    "Clear Browsing Data...": "Browserdaten löschen...",
+    "no_history": "Kein Verlauf",
+    "download_not_supported": "Download wird nicht unterstützt",
+    "youtube_copyright_notice": "Das Herunterladen von Videos von YouTube wird aufgrund von Urheberrechtsbeschränkungen nicht unterstützt. Bitte verwenden Sie Inhalte von anderen Plattformen oder stellen Sie sicher, dass Sie die Berechtigung zum Herunterladen haben."
     },
     "fileOperation": {
       "Copy Here": "Hierher Kopieren",
