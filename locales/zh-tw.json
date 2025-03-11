@@ -68,7 +68,12 @@
       "close": "關閉",
       "no_videos_founds": "未找到視頻",
       "download_progress": "下載進度",
-      "no_downloads": "無下載"
+      "no_downloads": "無下載",
+        "History": "歷史記錄",
+    "Clear Browsing Data...": "清除瀏覽資料...",
+    "no_history": "沒有歷史記錄",
+    "download_not_supported": "下載不支援",
+    "youtube_copyright_notice": "由於版權限制，從YouTube下載影片不被支援。請使用其他平台的內容，或確保您有下載的許可。"
     },
     "fileOperation": {
       "Copy Here": "複製到這裡",
