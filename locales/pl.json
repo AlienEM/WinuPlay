@@ -68,7 +68,12 @@
       "close": "Zamknij",
       "no_videos_founds": "Nie Znaleziono Filmów",
       "download_progress": "Postęp Pobierania",
-      "no_downloads": "Brak Pobrań"
+      "no_downloads": "Brak Pobrań",
+        "History": "Historia",
+    "Clear Browsing Data...": "Wyczyść dane przeglądania...",
+    "no_history": "Brak historii",
+    "download_not_supported": "Pobieranie nie jest obsługiwane",
+    "youtube_copyright_notice": "Pobieranie filmów z YouTube nie jest obsługiwane ze względu na ograniczenia praw autorskich. Proszę używać treści z innych platform lub upewnić się, że masz pozwolenie na pobieranie."
     },
     "fileOperation": {
       "Copy Here": "Kopiuj Tutaj",
