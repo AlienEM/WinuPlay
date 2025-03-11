@@ -68,7 +68,12 @@
       "close": "Uždaryti",
       "no_videos_founds": "Vaizdo įrašų Nerasta",
       "download_progress": "Atsisiuntimo Eiga",
-      "no_downloads": "Nėra Atsisiuntimų"
+      "no_downloads": "Nėra Atsisiuntimų",
+        "History": "Istorija",
+    "Clear Browsing Data...": "Išvalyti naršymo duomenis...",
+    "no_history": "Nėra istorijos",
+    "download_not_supported": "Atsisiuntimas nepalaikomas",
+    "youtube_copyright_notice": "Dėl autorių teisių apribojimų atsisiuntimas iš YouTube nepalaikomas. Prašome naudoti turinį iš kitų platformų arba įsitikinti, kad turite leidimą atsisiųsti."
     },
     "fileOperation": {
       "Copy Here": "Kopijuoti Čia",
