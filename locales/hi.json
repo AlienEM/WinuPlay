@@ -96,7 +96,8 @@
       "Copy": "कॉपी करें",
       "enterFolderName": "फ़ोल्डर का नाम दर्ज करें",
       "errorCreatingFolder": "फ़ोल्डर बनाने में त्रुटि",
-      "Create": "बनाएँ"
+      "Create": "बनाएँ",
+        "Properties": "गुण"
     },
     "videoPlayer": {
       "file": "फ़ाइल",
