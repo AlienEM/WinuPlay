@@ -96,7 +96,8 @@
       "Copy": "Kopyala",
       "enterFolderName": "Klasör adını girin",
       "errorCreatingFolder": "Klasör oluşturulurken hata",
-      "Create": "Oluştur"
+      "Create": "Oluştur",
+        "Properties": "Özellikler"
     },
     "videoPlayer": {
       "file": "Dosya",
