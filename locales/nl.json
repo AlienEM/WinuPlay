@@ -96,7 +96,8 @@
       "Copy": "Kopiëren",
       "enterFolderName": "Voer mapnaam in",
       "errorCreatingFolder": "Fout bij het maken van de map",
-      "Create": "Aanmaken"
+      "Create": "Aanmaken",
+        "Properties": "Eigenschappen"
     },
     "videoPlayer": {
       "file": "Bestand",
