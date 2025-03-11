@@ -96,7 +96,8 @@
       "Copy": "Αντιγραφή",
       "enterFolderName": "Εισαγωγή ονόματος φακέλου",
       "errorCreatingFolder": "Σφάλμα κατά τη δημιουργία φακέλου",
-      "Create": "Δημιουργία"
+      "Create": "Δημιουργία",
+        "Properties": "Ιδιότητες"
     },
     "videoPlayer": {
       "file": "Αρχείο",
