@@ -68,7 +68,12 @@
       "close": "Stäng",
       "no_videos_founds": "Inga videor hittades",
       "download_progress": "Nedladdningsförlopp",
-      "no_downloads": "Inga nedladdningar"
+      "no_downloads": "Inga nedladdningar",
+        "History": "Historik",
+    "Clear Browsing Data...": "Rensa webbdata...",
+    "no_history": "Ingen historik",
+    "download_not_supported": "Nedladdning stöds inte",
+    "youtube_copyright_notice": "Nedladdning av videor från YouTube stöds inte på grund av upphovsrättsliga begränsningar. Vänligen använd innehåll från andra plattformar eller se till att du har tillstånd att ladda ner."
     },
     "fileOperation": {
       "Copy Here": "Kopiera hit",
