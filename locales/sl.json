@@ -68,7 +68,12 @@
       "close": "Zapri",
       "no_videos_founds": "Ni najdenih video posnetkov",
       "download_progress": "Napredek prenosa",
-      "no_downloads": "Ni prenosov"
+      "no_downloads": "Ni prenosov",
+        "History": "Zgodovina",
+    "Clear Browsing Data...": "Počisti podatke brskanja...",
+    "no_history": "Brez zgodovine",
+    "download_not_supported": "Prenos ni podprt",
+    "youtube_copyright_notice": "Prenos videoposnetkov z YouTuba ni podprt zaradi omejitev avtorskih pravic. Prosimo, uporabite vsebino z drugih platform ali se prepričajte, da imate dovoljenje za prenos."
     },
     "fileOperation": {
       "Copy Here": "Kopiraj sem",
