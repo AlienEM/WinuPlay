@@ -68,7 +68,12 @@
       "close": "Tutup",
       "no_videos_founds": "Tidak Ada Video yang Ditemukan",
       "download_progress": "Progres Pengunduhan",
-      "no_downloads": "Tidak Ada Pengunduhan"
+      "no_downloads": "Tidak Ada Pengunduhan",
+        "History": "Riwayat",
+    "Clear Browsing Data...": "Hapus Data Penjelajahan...",
+    "no_history": "Tidak ada riwayat",
+    "download_not_supported": "Unduh Tidak Didukung",
+    "youtube_copyright_notice": "Mengunduh video dari YouTube tidak didukung karena batasan hak cipta. Silakan gunakan konten dari platform lain atau pastikan Anda memiliki izin untuk mengunduh."
     },
     "fileOperation": {
       "Copy Here": "Salin ke Sini",
