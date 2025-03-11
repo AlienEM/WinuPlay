@@ -96,7 +96,8 @@
       "Copy": "Salin",
       "enterFolderName": "Masukkan nama folder",
       "errorCreatingFolder": "Kesalahan saat membuat folder",
-      "Create": "Buat"
+      "Create": "Buat",
+        "Properties": "Properti"
     },
     "videoPlayer": {
       "file": "File",
