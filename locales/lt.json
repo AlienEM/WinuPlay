@@ -96,7 +96,8 @@
       "Copy": "Kopijuoti",
       "enterFolderName": "Įveskite aplanko pavadinimą",
       "errorCreatingFolder": "Klaida kuriant aplanką",
-      "Create": "Sukurti"
+      "Create": "Sukurti",
+        "Properties": "Savybės"
     },
     "videoPlayer": {
       "file": "Failas",
