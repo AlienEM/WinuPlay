@@ -96,7 +96,8 @@
       "Copy": "Kopieer",
       "enterFolderName": "Voer vouernaam in",
       "errorCreatingFolder": "Fout met die skep van vouer",
-      "Create": "Skep"
+      "Create": "Skep",
+        "Properties": "Eienskappe"
     },
     "videoPlayer": {
       "file": "Lêer",
