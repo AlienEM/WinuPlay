@@ -68,7 +68,12 @@
       "close": "סגור",
       "no_videos_founds": "לא נמצאו סרטונים",
       "download_progress": "התקדמות הורדה",
-      "no_downloads": "אין הורדות"
+      "no_downloads": "אין הורדות",
+        "History": "היסטוריה",
+    "Clear Browsing Data...": "נקה נתוני גלישה...",
+    "no_history": "אין היסטוריה",
+    "download_not_supported": "הורדה לא נתמכת",
+    "youtube_copyright_notice": "הורדת סרטונים מיוטיוב אינה נתמכת עקב הגבלות זכויות יוצרים. אנא השתמש בתוכן מפלטפורמות אחרות או וודא שיש לך אישור להורדה."
     },
     "fileOperation": {
       "Copy Here": "העתק לכאן",
