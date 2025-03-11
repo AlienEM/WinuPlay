@@ -68,7 +68,12 @@
       "close": "Sulge",
       "no_videos_founds": "Videoid Ei Leitud",
       "download_progress": "Allalaadimise Edenemine",
-      "no_downloads": "Allalaadimisi Pole"
+      "no_downloads": "Allalaadimisi Pole",
+    "History": "Ajalugu",
+    "Clear Browsing Data...": "Kustuta sirvimisandmed...",
+    "no_history": "Ajalugu puudub",
+    "download_not_supported": "Allalaadimine pole toetatud",
+    "youtube_copyright_notice": "YouTube'ist videote allalaadimine pole autoriõiguste piirangute tõttu toetatud. Palun kasutage sisu teistelt platvormidelt või veenduge, et teil on allalaadimiseks luba."
     },
     "fileOperation": {
       "Copy Here": "Kopeeri Siia",
