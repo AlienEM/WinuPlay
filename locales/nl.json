@@ -68,7 +68,12 @@
       "close": "Sluiten",
       "no_videos_founds": "Geen Video's Gevonden",
       "download_progress": "Downloadvoortgang",
-      "no_downloads": "Geen Downloads"
+      "no_downloads": "Geen Downloads",
+        "History": "Geschiedenis",
+    "Clear Browsing Data...": "Browsegegevens wissen...",
+    "no_history": "Geen geschiedenis",
+    "download_not_supported": "Downloaden wordt niet ondersteund",
+    "youtube_copyright_notice": "Het downloaden van video's van YouTube wordt niet ondersteund vanwege auteursrechtelijke beperkingen. Gebruik alsjeblieft inhoud van andere platforms of zorg ervoor dat je toestemming hebt om te downloaden."
     },
     "fileOperation": {
       "Copy Here": "Kopieer Hier",
