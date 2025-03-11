@@ -96,7 +96,8 @@
       "Copy": "Kopioi",
       "enterFolderName": "Syötä kansion nimi",
       "errorCreatingFolder": "Virhe kansion luomisessa",
-      "Create": "Luo"
+      "Create": "Luo",
+        "Properties": "Ominaisuudet"
     },
     "videoPlayer": {
       "file": "Tiedosto",
