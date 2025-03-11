@@ -96,7 +96,8 @@
       "Copy": "Sao chép",
       "enterFolderName": "Nhập tên thư mục",
       "errorCreatingFolder": "Lỗi khi tạo thư mục",
-      "Create": "Tạo"
+      "Create": "Tạo",
+        "Properties": "Thuộc tính"
     },
     "videoPlayer": {
       "file": "Tệp",
