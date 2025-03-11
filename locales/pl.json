@@ -96,7 +96,8 @@
       "Copy": "Kopiuj",
       "enterFolderName": "Wprowadź nazwę folderu",
       "errorCreatingFolder": "Błąd podczas tworzenia folderu",
-      "Create": "Utwórz"
+      "Create": "Utwórz",
+        "Properties": "Właściwości"
     },
     "videoPlayer": {
       "file": "Plik",
