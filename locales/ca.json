@@ -96,7 +96,8 @@
       "Copy": "Copia",
       "enterFolderName": "Introdueix el nom de la carpeta",
       "errorCreatingFolder": "Error en crear la carpeta",
-      "Create": "Crea"
+      "Create": "Crea",
+        "Properties": "Propietats"
     },
     "videoPlayer": {
       "file": "Fitxer",
