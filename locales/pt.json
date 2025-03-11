@@ -96,7 +96,8 @@
       "Copy": "Copiar",
       "enterFolderName": "Digite o nome da pasta",
       "errorCreatingFolder": "Erro ao criar pasta",
-      "Create": "Criar"
+      "Create": "Criar",
+        "Properties": "Propriedades"
     },
     "videoPlayer": {
       "file": "Arquivo",
