@@ -96,7 +96,8 @@
       "Copy": "Kopēt",
       "enterFolderName": "Ievadiet mapes nosaukumu",
       "errorCreatingFolder": "Kļūda, izveidojot mapi",
-      "Create": "Izveidot"
+      "Create": "Izveidot",
+        "Properties": "Īpašības"
     },
     "videoPlayer": {
       "file": "Fails",
