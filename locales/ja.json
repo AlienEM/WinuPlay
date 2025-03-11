@@ -96,7 +96,8 @@
       "Copy": "コピー",
       "enterFolderName": "フォルダ名を入力",
       "errorCreatingFolder": "フォルダ作成エラー",
-      "Create": "作成"
+      "Create": "作成",
+        "Properties": "プロパティ"
     },
     "videoPlayer": {
       "file": "ファイル",
