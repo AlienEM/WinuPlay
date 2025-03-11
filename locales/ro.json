@@ -96,7 +96,8 @@
       "Copy": "Copiază",
       "enterFolderName": "Introdu numele dosarului",
       "errorCreatingFolder": "Eroare la crearea dosarului",
-      "Create": "Creează"
+      "Create": "Creează",
+        "Properties": "Proprietăți"
     },
     "videoPlayer": {
       "file": "Fișier",
