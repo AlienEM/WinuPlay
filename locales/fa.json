@@ -96,7 +96,8 @@
       "Copy": "کپی",
       "enterFolderName": "نام پوشه را وارد کنید",
       "errorCreatingFolder": "خطا در ایجاد پوشه",
-      "Create": "ایجاد"
+      "Create": "ایجاد",
+        "Properties": "خواص"
     },
     "videoPlayer": {
       "file": "فایل",
