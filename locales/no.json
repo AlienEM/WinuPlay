@@ -46,7 +46,7 @@
       "privacy_policy_content": "Personvernerklæring for Winu Play\n\nWinu Play, utviklet av Winu Co, er forpliktet til å beskytte ditt personvern. Denne personvernerklæringen forklarer hvordan vi håndterer informasjonen din når du bruker vår app for avspilling av video og musikk.\n\n1. **Ingen Datainnsamling**:\n Winu Play samler ikke inn, lagrer eller overfører personopplysninger eller enhetsdata. Vi krever ikke registrering, innlogging eller kontoopprettelse, og vi sporer ikke aktiviteten din eller deler informasjon med tredjeparter.\n\n2. **Lokal Bruk**:\n Winu Play fungerer utelukkende på enheten din og får bare tilgang til video- og lydfiler du velger å spille av fra ditt lokale lagringssted. Ingen data sendes til servere eller eksterne tjenester.\n\n3. **Ingen Tredjepartstjenester**:\n Vi integrerer ikke tredjeparts analyse, annonser eller sporingsverktøy som kan samle inn data.\n\n4. **Tillatelser**:\n Winu Play krever tilgang til mediefilene dine (video og musikk) for å fungere. Du kontrollerer disse tillatelsene og kan tilbakekalle dem når som helst via enhetens innstillinger.\n\n5. **Endringer i Erklæringen**:\n Winu Co kan oppdatere denne personvernerklæringen for å gjenspeile endringer i våre praksiser. Vi vil varsle deg om vesentlige endringer via appen eller våre kontaktopplysninger.\n\n6. **Kontakt Oss**:\n Hvis du har spørsmål eller bekymringer angående personvernet ditt, vennligst kontakt oss på winu-co@outlook.com.\n\nVed å bruke Winu Play bekrefter du at du har lest og forstått denne personvernerklæringen. Denne erklæringen er i samsvar med gjeldende lover om databeskyttelse og krav fra app-butikker."
     },
     "theme_settings": {
-      "title": "Tema Innstillinger",
+      "title": "Tema",
       "save": "Lagre",
       "color_options": {
         "background_color": "Bakgrunnsfarge",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Ikonfargetone",
         "button_bg_color": "Knappens Bakgrunnsfarge",
         "active_button_color": "Aktiv Knappfarge",
+          "folders_color": "Mapper Farge",
         "mini_player_position": "Miniavspillerens Posisjon",
         "mini_player_position_values": {
           "bottom": "Nederst",
