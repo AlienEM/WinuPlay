@@ -46,7 +46,7 @@
       "privacy_policy_content": "Winu Playn Tietosuojakäytäntö\n\nWinu Play, jonka on kehittänyt Winu Co, on sitoutunut suojelemaan yksityisyyttäsi. Tämä tietosuojakäytäntö selittää, miten käsittelemme tietojasi, kun käytät video- ja musiikkisoitinsovellustamme.\n\n1. **Ei Tietojen Keräystä**:\n Winu Play ei kerää, tallenna tai lähetä henkilökohtaisia tietoja tai laitetietoja. Emme vaadi rekisteröitymistä, kirjautumista tai tilin luomista, emmekä seuraa toimintaasi tai jaa tietoja kolmansien osapuolten kanssa.\n\n2. **Paikallinen Käyttö**:\n Winu Play toimii täysin laitteellasi ja käyttää vain niitä video- ja äänitiedostoja, jotka valitset toistettavaksi paikallisesta tallennustilastasi. Mitään tietoja ei lähetetä palvelimille tai ulkoisille palveluille.\n\n3. **Ei Kolmansien Osapuolten Palveluita**:\n Emme integroi kolmansien osapuolten analytiikkaa, mainoksia tai seurantatyökaluja, jotka voisivat kerätä tietoja.\n\n4. **Luvat**:\n Winu Play pyytää pääsyä mediatiedostoihisi (videot ja musiikki) toimiakseen. Sinä hallitset näitä lupia ja voit peruuttaa ne milloin tahansa laitteesi asetuksista.\n\n5. **Käytännön Muutokset**:\n Winu Co voi päivittää tämän tietosuojakäytännön heijastaakseen muutoksia käytännöissämme. Ilmoitamme sinulle merkittävistä muutoksista sovelluksen kautta tai yhteystietojemme avulla.\n\n6. **Ota Yhteyttä**:\n Jos sinulla on kysymyksiä tai huolenaiheita yksityisyydestäsi, ota meihin yhteyttä osoitteessa winu-co@outlook.com.\n\nKäyttämällä Winu Playta vahvistat, että olet lukenut ja ymmärtänyt tämän tietosuojakäytännön. Tämä käytäntö noudattaa sovellettavia tietosuojalakeja ja sovelluskauppojen vaatimuksia."
     },
     "theme_settings": {
-      "title": "Teeman Asetukset",
+      "title": "Teeman",
       "save": "Tallenna",
       "color_options": {
         "background_color": "Taustaväri",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Kuvakkeiden Sävy",
         "button_bg_color": "Painikkeen Taustaväri",
         "active_button_color": "Aktiivisen Painikkeen Väri",
+          "folders_color": "Kansioiden väri",
         "mini_player_position": "Mini-Soittimen Sijainti",
         "mini_player_position_values": {
           "bottom": "Alhaalla",
