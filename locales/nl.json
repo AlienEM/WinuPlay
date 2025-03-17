@@ -46,7 +46,7 @@
       "privacy_policy_content": "Privacybeleid van Winu Play\n\nWinu Play, ontwikkeld door Winu Co, zet zich in om jouw privacy te beschermen. Dit Privacybeleid legt uit hoe wij jouw informatie behandelen wanneer je onze video- en muziekspeler-app gebruikt.\n\n1. **Geen Gegevensverzameling**:\n Winu Play verzamelt, bewaart of verzendt geen persoonlijke of apparaatgegevens. We vereisen geen registratie, login of accountcreatie, en we volgen jouw activiteiten niet noch delen we informatie met derden.\n\n2. **Lokaal Gebruik**:\n Winu Play werkt volledig op jouw apparaat en heeft alleen toegang tot de video- en audiobestanden die je kiest om af te spelen vanuit je lokale opslag. Er worden geen gegevens verzonden naar servers of externe diensten.\n\n3. **Geen Diensten van Derden**:\n We integreren geen analytische tools, advertenties of trackingtools van derden die gegevens kunnen verzamelen.\n\n4. **Toestemmingen**:\n Winu Play vraagt toegang tot jouw mediabestanden (video’s en muziek) om te functioneren. Jij beheert deze toestemmingen en kunt ze op elk moment intrekken via de instellingen van je apparaat.\n\n5. **Wijzigingen in het Beleid**:\n Winu Co kan dit Privacybeleid bijwerken om veranderingen in onze praktijken weer te geven. We zullen je informeren over belangrijke wijzigingen via de app of onze contactinformatie.\n\n6. **Neem Contact Met Ons Op**:\n Als je vragen of zorgen hebt over jouw privacy, neem dan contact met ons op via winu-co@outlook.com.\n\nDoor Winu Play te gebruiken, erken je dat je dit Privacybeleid hebt gelezen en begrepen. Dit beleid voldoet aan de toepasselijke wetten inzake gegevensbescherming en de vereisten van app-winkels."
     },
     "theme_settings": {
-      "title": "Thema-Instellingen",
+      "title": "Thema",
       "save": "Opslaan",
       "color_options": {
         "background_color": "Achtergrondkleur",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Kleur Iconen",
         "button_bg_color": "Achtergrondkleur Knop",
         "active_button_color": "Kleur Actieve Knop",
+          "folders_color": "Mappen Kleur",
         "mini_player_position": "Positie Mini-Speler",
         "mini_player_position_values": {
           "bottom": "Onder",
