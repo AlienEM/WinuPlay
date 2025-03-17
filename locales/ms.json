@@ -46,7 +46,7 @@
       "privacy_policy_content": "Dasar Privasi Winu Play\n\nWinu Play, yang dibangunkan oleh Winu Co, komited untuk melindungi privasi anda. Dasar Privasi ini menerangkan bagaimana kami mengendalikan maklumat anda semasa menggunakan aplikasi pemutar video dan muzik kami.\n\n1. **Tiada Pengumpulan Data**:\n Winu Play tidak mengumpul, menyimpan, atau menghantar sebarang data peribadi atau peranti. Kami tidak memerlukan pendaftaran, log masuk, atau penciptaan akaun, dan kami tidak menjejaki aktiviti anda atau berkongsi maklumat dengan pihak ketiga.\n\n2. **Penggunaan Setempat**:\n Winu Play beroperasi sepenuhnya pada peranti anda, hanya mengakses fail video dan audio yang anda pilih untuk dimainkan dari storan setempat anda. Tiada data dihantar ke pelayan atau perkhidmatan luar.\n\n3. **Tiada Perkhidmatan Pihak Ketiga**:\n Kami tidak mengintegrasikan analitik pihak ketiga, iklan, atau alat penjejakan yang boleh mengumpul data.\n\n4. **Kebenaran**:\n Winu Play meminta akses ke fail media anda (video dan muzik) untuk berfungsi. Anda mengawal kebenaran ini dan boleh membatalkannya pada bila-bila masa melalui tetapan peranti anda.\n\n5. **Perubahan Dasar**:\n Winu Co boleh mengemas kini Dasar Privasi ini untuk mencerminkan perubahan dalam amalan kami. Kami akan memaklumkan anda tentang perubahan penting melalui aplikasi atau maklumat hubungan kami.\n\n6. **Hubungi Kami**:\n Jika anda mempunyai soalan atau kebimbangan mengenai privasi anda, sila hubungi kami di winu-co@outlook.com.\n\nDengan menggunakan Winu Play, anda mengakui bahawa anda telah membaca dan memahami Dasar Privasi ini. Dasar ini mematuhi undang-undang perlindungan data yang berkenaan dan keperluan kedai aplikasi."
     },
     "theme_settings": {
-      "title": "Tetapan Tema",
+      "title": "Tema",
       "save": "Simpan",
       "color_options": {
         "background_color": "Warna Latar Belakang",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Warna Tint Ikon",
         "button_bg_color": "Warna Latar Belakang Butang",
         "active_button_color": "Warna Butang Aktif",
+          "folders_color": "Warna Folder",
         "mini_player_position": "Kedudukan Pemain Mini",
         "mini_player_position_values": {
           "bottom": "Bawah",
