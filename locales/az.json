@@ -46,7 +46,7 @@
       "privacy_policy_content": "Winu Play Məxfilik Siyasəti\n\nWinu Co tərəfindən hazırlanmış Winu Play sizin məxfiliyinizi qorumağa sadiqdir. Bu Məxfilik Siyasəti video və musiqi pleyer tətbiqimizi istifadə edərkən məlumatlarınızın necə idarə olunduğunu izah edir.\n\n1. **Məlumat Toplanmır**:\n Winu Play heç bir şəxsi və ya cihaz məlumatını toplamır, saxlamır və ya ötürmür. Biz qeydiyyat, giriş və ya hesab yaradılmasını tələb etmirik və sizin fəaliyyətinizi izləmirik və ya üçüncü tərəflərlə məlumat paylaşmırıq.\n\n2. **Yerli İstifadə**:\n Winu Play tamamilə cihazınızda işləyir və yalnız yerli yaddaşınızdan oynatmaq üçün seçdiyiniz video və audio fayllara daxil olur. Heç bir məlumat serverlərə və ya xarici xidmətlərə göndərilmir.\n\n3. **Üçüncü Tərəf Xidmətləri Yoxdur**:\n Biz məlumat toplaya biləcək üçüncü tərəf analitikası, reklam və ya izləmə alətlərini inteqrasiya etmirik.\n\n4. **İcazələr**:\n Winu Play funksiyasını yerinə yetirmək üçün media fayllarınıza (videolar və musiqi) giriş tələb edir. Bu icazələri siz idarə edirsiniz və istənilən vaxt cihaz ayarlarınız vasitəsilə ləğv edə bilərsiniz.\n\n5. **Siyasətdə Dəyişikliklər**:\n Winu Co təcrübələrimizdəki dəyişiklikləri əks etdirmək üçün bu Məxfilik Siyasətini yeniləyə bilər. Əhəmiyyətli dəyişikliklər barədə sizi tətbiq və ya əlaqə məlumatlarımız vasitəsilə xəbərdar edəcəyik.\n\n6. **Bizimlə Əlaqə**:\n Məxfiliklə bağlı sual və ya narahatlıqlarınız varsa, lütfən winu-co@outlook.com ünvanına müraciət edin.\n\nWinu Play-i istifadə etməklə, bu Məxfilik Siyasətini oxuduğunuzu və başa düşdüyünüzü təsdiq edirsiniz. Bu siyasət müvafiq məlumat qoruma qanunlarına və tətbiq mağazası tələblərinə uyğundur."
     },
     "theme_settings": {
-      "title": "Tema Tənzimləmələri",
+      "title": "Tema",
       "save": "Yadda Saxla",
       "color_options": {
         "background_color": "Arxa Plan Rəngi",
@@ -54,6 +54,7 @@
         "nav_bar_color": "Naviqasiya Çubuğu Rəngi",
         "icon_tint_color": "İkon Rəngi",
         "button_bg_color": "Düymə Arxa Plan Rəngi",
+          "folders_color": "Qovluq Rəngi",
         "active_button_color": "Aktiv Düymə Rəngi",
         "mini_player_position": "Mini Pleyer Mövqeyi",
         "mini_player_position_values": {
