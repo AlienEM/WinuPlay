@@ -55,6 +55,7 @@
       "icon_tint_color": "สีไอคอน",
       "button_bg_color": "สีพื้นหลังปุ่ม",
       "active_button_color": "สีปุ่มที่ใช้งาน",
+      "folders_color": "สีโฟลเดอร์",
       "mini_player_position": "ตำแหน่งเครื่องเล่นขนาดเล็ก",
       "mini_player_position_values": {
         "bottom": "ด้านล่าง",
