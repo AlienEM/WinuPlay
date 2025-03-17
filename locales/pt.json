@@ -46,7 +46,7 @@
       "privacy_policy_content": "Política de Privacidade do Winu Play\n\nO Winu Play, desenvolvido pela Winu Co, está comprometido em proteger sua privacidade. Esta Política de Privacidade explica como lidamos com suas informações ao usar nosso aplicativo de reprodução de vídeo e música.\n\n1. **Sem Coleta de Dados**:\n O Winu Play não coleta, armazena ou transmite dados pessoais ou dados do dispositivo. Não exigimos registro, login ou criação de conta, e não rastreamos sua atividade ou compartilhamos informações com terceiros.\n\n2. **Uso Local**:\n O Winu Play funciona inteiramente no seu dispositivo e acessa apenas os arquivos de vídeo e áudio que você escolhe reproduzir a partir do armazenamento local. Nenhum dado é enviado para servidores ou serviços externos.\n\n3. **Sem Serviços de Terceiros**:\n Não integramos análises de terceiros, anúncios ou ferramentas de rastreamento que possam coletar dados.\n\n4. **Permissões**:\n O Winu Play requer acesso aos seus arquivos de mídia (vídeo e música) para funcionar. Você controla essas permissões e pode revogá-las a qualquer momento através das configurações do dispositivo.\n\n5. **Alterações na Política**:\n A Winu Co pode atualizar esta Política de Privacidade para refletir mudanças em nossas práticas. Informaremos você sobre alterações significativas por meio do aplicativo ou de nossas informações de contato.\n\n6. **Entre em Contato**:\n Se você tiver dúvidas ou preocupações sobre sua privacidade, entre em contato conosco pelo e-mail winu-co@outlook.com.\n\nAo usar o Winu Play, você confirma que leu e entendeu esta Política de Privacidade. Esta política está em conformidade com as leis de proteção de dados aplicáveis e os requisitos das lojas de aplicativos."
     },
     "theme_settings": {
-      "title": "Configurações de Tema",
+      "title": "Tema",
       "save": "Salvar",
       "color_options": {
         "background_color": "Cor de Fundo",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Tonalidade dos Ícones",
         "button_bg_color": "Cor de Fundo do Botão",
         "active_button_color": "Cor do Botão Ativo",
+          "folders_color": "Cor das pastas",
         "mini_player_position": "Posição do Mini Player",
         "mini_player_position_values": {
           "bottom": "Abaixo",
