@@ -55,6 +55,7 @@
         "icon_tint_color": "Ikoonide Toon",
         "button_bg_color": "Nupu Taustavärv",
         "active_button_color": "Aktiivse Nupu Värv",
+          "folders_color": "Kaustade värv",
         "mini_player_position": "Mini-Mängija Asukoht",
         "mini_player_position_values": {
           "bottom": "All",
