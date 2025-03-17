@@ -46,7 +46,7 @@
       "privacy_policy_content": "Winu Play Privaatheidsbeleid\n\nWinu Play, ontwikkel deur Winu Co, is toegewyd aan die beskerming van jou privaatheid. Hierdie Privaatheidsbeleid verduidelik hoe ons jou inligting hanteer wanneer jy ons video- en musiekspeler-toepassing gebruik.\n\n1. **Geen Data Versameling Nie**:\n Winu Play versamel, stoor of stuur geen persoonlike of toesteldata nie. Ons vereis nie registrasie, aanmelding of rekening skepping nie, en ons volg nie jou aktiwiteit of deel inligting met derde partye nie.\n\n2. **Plaaslike Gebruik**:\n Winu Play werk uitsluitlik op jou toestel en kry toegang tot slegs die video- en oudiolêers wat jy kies om vanaf jou plaaslike berging te speel. Geen data word na bedieners of eksterne dienste gestuur nie.\n\n3. **Geen Derdeparty Dienste Nie**:\n Ons integreer nie derdeparty analitiese, advertensies of opsporingsinstrumente wat data kan insamel nie.\n\n4. **Toestemmings**:\n Winu Play versoek toegang tot jou medialêers (video's en musiek) om te funksioneer. Jy beheer hierdie toestemmings en kan dit enige tyd deur jou toestelinstellings terugtrek.\n\n5. **Veranderinge aan Beleid**:\n Winu Co kan hierdie Privaatheidsbeleid bywerk om veranderinge in ons praktyke te weerspieël. Ons sal jou in kennis stel van beduidende veranderinge via die toepassing of ons kontakinligting.\n\n6. **Kontak Ons**:\n Indien jy vrae of bekommernisse oor jou privaatheid het, kontak ons asseblief by winu-co@outlook.com.\n\nDeur Winu Play te gebruik, erken jy dat jy hierdie Privaatheidsbeleid gelees en verstaan het. Hierdie beleid voldoen aan toepaslike databeskermingswette en toepassingwinkelvereistes."
     },
     "theme_settings": {
-      "title": "Tema Instellings",
+      "title": "Tema",
       "save": "Stoor",
       "color_options": {
         "background_color": "Agtergrondkleur",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Ikoon Tint Kleur",
         "button_bg_color": "Knoppie Agtergrondkleur",
         "active_button_color": "Aktiewe Knoppie Kleur",
+          "folders_color": "Gidskleur",
         "mini_player_position": "Mini Speler Posisie",
         "mini_player_position_values": {
           "bottom": "Onder",
