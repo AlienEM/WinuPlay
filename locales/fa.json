@@ -55,6 +55,7 @@
         "icon_tint_color": "رنگ تینت آیکون",
         "button_bg_color": "رنگ پس‌زمینه دکمه",
         "active_button_color": "رنگ دکمه فعال",
+          "folders_color": "رنگ پوشه‌ها",
         "mini_player_position": "موقعیت پخش‌کننده کوچک",
         "mini_player_position_values": {
           "bottom": "پایین",
