@@ -55,6 +55,7 @@
         "icon_tint_color": "Boja Nijanse Ikona",
         "button_bg_color": "Boja Pozadine Gumba",
         "active_button_color": "Boja Aktivnog Gumba",
+          "folders_color": "Boja mapa",
         "mini_player_position": "Položaj Mini Playera",
         "mini_player_position_values": {
           "bottom": "Dolje",
