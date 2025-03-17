@@ -46,7 +46,7 @@
       "privacy_policy_content": "Polityka Prywatności Winu Play\n\nWinu Play, opracowany przez Winu Co, zobowiązuje się do ochrony Twojej prywatności. Niniejsza Polityka Prywatności wyjaśnia, jak zarządzamy Twoimi informacjami, gdy korzystasz z naszej aplikacji do odtwarzania wideo i muzyki.\n\n1. **Brak Zbierania Danych**:\n Winu Play nie zbiera, nie przechowuje ani nie przesyła danych osobowych ani danych urządzenia. Nie wymagamy rejestracji, logowania ani tworzenia konta, nie śledzimy Twojej aktywności ani nie udostępniamy informacji stronom trzecim.\n\n2. **Lokalne Użycie**:\n Winu Play działa wyłącznie na Twoim urządzeniu i uzyskuje dostęp tylko do plików wideo i audio, które wybierzesz do odtwarzania z lokalnej pamięci. Żadne dane nie są wysyłane na serwery ani do zewnętrznych usług.\n\n3. **Brak Usług Stron Trzecich**:\n Nie integrujemy analityki stron trzecich, reklam ani narzędzi śledzących, które mogłyby zbierać dane.\n\n4. **Uprawnienia**:\n Winu Play wymaga dostępu do Twoich plików multimedialnych (wideo i muzyki), aby działać. Ty kontrolujesz te uprawnienia i możesz je w dowolnym momencie cofnąć za pomocą ustawień urządzenia.\n\n5. **Zmiany w Polityce**:\n Winu Co może zaktualizować niniejszą Politykę Prywatności, aby odzwierciedlić zmiany w naszych praktykach. Poinformujemy Cię o istotnych zmianach za pośrednictwem aplikacji lub naszych danych kontaktowych.\n\n6. **Skontaktuj się z Nami**:\n Jeśli masz pytania lub obawy dotyczące swojej prywatności, skontaktuj się z nami pod adresem winu-co@outlook.com.\n\nKorzystając z Winu Play, potwierdzasz, że przeczytałeś i zrozumiałeś niniejszą Politykę Prywatności. Polityka ta jest zgodna z obowiązującymi przepisami o ochronie danych oraz wymaganiami sklepów z aplikacjami."
     },
     "theme_settings": {
-      "title": "Ustawienia Motywu",
+      "title": "Motywu",
       "save": "Zapisz",
       "color_options": {
         "background_color": "Kolor Tła",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Odcień Ikon",
         "button_bg_color": "Kolor Tła Przycisku",
         "active_button_color": "Kolor Aktywnego Przycisku",
+          "folders_color": "Kolor folderów",
         "mini_player_position": "Pozycja Mini Odtwarzacza",
         "mini_player_position_values": {
           "bottom": "Na Dole",
