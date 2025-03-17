@@ -55,6 +55,7 @@
         "icon_tint_color": "アイコンの色調",
         "button_bg_color": "ボタンの背景色",
         "active_button_color": "アクティブボタンの色",
+          "folders_color": "フォルダーの色",
         "mini_player_position": "ミニプレーヤーの位置",
         "mini_player_position_values": {
           "bottom": "下",
