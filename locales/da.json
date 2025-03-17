@@ -55,6 +55,7 @@
         "icon_tint_color": "Ikonfarvetone",
         "button_bg_color": "Knap Baggrundsfarve",
         "active_button_color": "Aktiv Knapfarve",
+          "folders_color": "Mapper Farve",
         "mini_player_position": "Mini Afspiller Position",
         "mini_player_position_values": {
           "bottom": "Nederst",
