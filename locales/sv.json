@@ -46,7 +46,7 @@
       "privacy_policy_content": "Integritetspolicy för Winu Play\n\nWinu Co värnar om din integritet. Denna policy förklarar hur vi hanterar din information:\n\n1. **Ingen datainsamling**:\n Winu Play samlar inte in, lagrar eller överför personlig data. Ingen registrering krävs.\n\n2. **Lokal användning**:\n Appen fungerar enbart på din enhet och kommer endast åt filer du väljer.\n\n3. **Inga tredjepartstjänster**:\n Vi använder inga analys- eller annonsverktyg från tredje part.\n\n4. **Behörigheter**:\n Mediatillgång kan när som helst ändras i enhetsinställningarna.\n\n5. **Policyändringar**:\n Viktiga ändringar meddelas via appen eller e-post.\n\n6. **Kontakt**:\n Frågor om integritet skickas till winu-co@outlook.com.\n\nGenom att använda appen godkänner du denna policy."
     },
     "theme_settings": {
-      "title": "Temainställningar",
+      "title": "Tema",
       "save": "Spara",
       "color_options": {
         "background_color": "Bakgrundsfärg",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Ikonfärg",
         "button_bg_color": "Knappbakgrundsfärg",
         "active_button_color": "Aktiv knappfärg",
+          "folders_color": "Mappar Färg",
         "mini_player_position": "Miniplayersposition",
         "mini_player_position_values": {
           "bottom": "Längst ner",
