@@ -55,6 +55,7 @@
         "icon_tint_color": "Màu biểu tượng",
         "button_bg_color": "Màu nút",
         "active_button_color": "Màu nút hoạt động",
+          "folders_color": "Màu thư mục",
         "mini_player_position": "Vị trí trình phát nhỏ",
         "mini_player_position_values": {
           "bottom": "Dưới cùng",
