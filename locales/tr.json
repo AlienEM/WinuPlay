@@ -46,7 +46,7 @@
       "privacy_policy_content": "Winu Play Gizlilik Politikası\n\nWinu Co. tarafından geliştirilen Winu Play, gizliliğinize saygı duyar. Bu Gizlilik Politikası, uygulamamızı kullanırken bilgilerinizin nasıl işlendiğini açıklar.\n\n1. **Veri Toplanmaz**:\n Winu Play hiçbir kişisel veya cihaz verisi toplamaz, saklamaz veya iletmez. Kayıt, giriş veya hesap oluşturma gerektirmez. Faaliyetleriniz izlenmez veya üçüncü taraflarla paylaşılmaz.\n\n2. **Yerel Kullanım**:\n Winu Play tamamen cihazınızda çalışır ve yalnızca yerel depolamanızdan seçtiğiniz dosyaları oynatır. Hiçbir veri sunuculara veya harici servislere gönderilmez.\n\n3. **Üçüncü Taraf Entegrasyonu Yok**:\n Veri toplayabilecek analiz, reklam veya izleme araçları kullanılmaz.\n\n4. **İzinler**:\n Winu Play, işlevselliği için medya dosyalarınıza erişim ister. Bu izinleri cihaz ayarlarınızdan dilediğiniz zaman iptal edebilirsiniz.\n\n5. **Politika Değişiklikleri**:\n Winu Co., bu politikayı güncelleyebilir. Önemli değişiklikler uygulama içinden veya iletişim bilgilerimizle bildirilir.\n\n6. **İletişim**:\n Gizlilikle ilgili sorularınız için winu-co@outlook.com adresine yazabilirsiniz.\n\nWinu Play'i kullanarak bu Gizlilik Politikasını okuduğunuzu ve anladığınızı kabul etmiş olursunuz. Bu politika, geçerli veri koruma yasalarına ve mağaza gereksinimlerine uygundur."
     },
     "theme_settings": {
-      "title": "Tema Ayarları",
+      "title": "Tema",
       "save": "Kaydet",
       "color_options": {
         "background_color": "Arkaplan Rengi",
@@ -55,6 +55,7 @@
         "icon_tint_color": "İkon Renk Tonu",
         "button_bg_color": "Düğme Arkaplan Rengi",
         "active_button_color": "Aktif Düğme Rengi",
+          "folders_color": "Klasör Rengi",
         "mini_player_position": "Mini Oynatıcı Konumu",
         "mini_player_position_values": {
           "bottom": "Alt",
