@@ -55,6 +55,7 @@
         "icon_tint_color": "Χρώμα Απόχρωσης Εικονιδίων",
         "button_bg_color": "Χρώμα Φόντου Κουμπιού",
         "active_button_color": "Χρώμα Ενεργού Κουμπιού",
+          "folders_color": "Χρώμα φακέλων",
         "mini_player_position": "Θέση Μίνι Αναπαραγωγέα",
         "mini_player_position_values": {
           "bottom": "Κάτω",
