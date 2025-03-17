@@ -46,7 +46,7 @@
       "privacy_policy_content": "Ochrana súkromia v aplikácii Winu Play\n\nSpoločnosť Winu Co sa zaviazala chrániť vaše súkromie. Táto politika vysvetľuje, ako aplikácia Winu Play zaobchádza s vašimi údajmi.\n\n1. **Nezhromažďujeme údaje**:\n Winu Play nezhromažďuje, neukladá ani neprenáša žiadne osobné údaje. Nepožadujeme registráciu ani účty.\n\n2. **Lokálne používanie**:\n Winu Play funguje výhradne vo vašom zariadení a pristupuje len k súborom, ktoré si vyberiete.\n\n3. **Žiadne tretie strany**:\n Nepoužívame analytické ani reklamné nástroje tretích strán.\n\n4. **Oprávnenia**:\n Prístup k médiám môžete kedykoľvek zmeniť v nastaveniach zariadenia.\n\n5. **Zmeny politiky**:\n Významné zmeny v politike budú oznámené prostredníctvom aplikácie.\n\n6. **Kontakt**:\n Otázky týkajúce sa súkromia posielajte na winu-co@outlook.com.\n\nPoužívaním aplikácie potvrdzujete, že ste si prečítali a porozumeli tejto politike."
     },
     "theme_settings": {
-      "title": "Nastavenia témy",
+      "title": "témy",
       "save": "Uložiť",
       "color_options": {
         "background_color": "Farba pozadia",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Farba ikon",
         "button_bg_color": "Farba pozadia tlačidla",
         "active_button_color": "Farba aktívneho tlačidla",
+          "folders_color": "Farba priečinkov",
         "mini_player_position": "Pozícia mini prehrávača",
         "mini_player_position_values": {
           "bottom": "Dole",
