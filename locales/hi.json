@@ -55,6 +55,7 @@
         "icon_tint_color": "आइकन टिंट रंग",
         "button_bg_color": "बटन पृष्ठभूमि रंग",
         "active_button_color": "सक्रिय बटन रंग",
+          "folders_color": "फ़ोल्डर का रंग",
         "mini_player_position": "मिनी प्लेयर स्थिति",
         "mini_player_position_values": {
           "bottom": "नीचे",
