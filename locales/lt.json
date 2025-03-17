@@ -46,7 +46,7 @@
       "privacy_policy_content": "Winu Play Privatumo Politika\n\nWinu Play, sukurtas Winu Co, yra įsipareigojęs apsaugoti jūsų privatumą. Ši Privatumo Politika paaiškina, kaip mes tvarkome jūsų informaciją, kai naudojate mūsų vaizdo ir muzikos grotuvo programėlę.\n\n1. **Duomenų Nerenkama**:\n Winu Play nerenka, nesaugo ir neperduoda asmeninių ar įrenginio duomenų. Mes nereikalaujame registracijos, prisijungimo ar paskyros sukūrimo, taip pat nestebime jūsų veiklos ir nesidaliname informacija su trečiosiomis šalimis.\n\n2. **Vietinis Naudojimas**:\n Winu Play veikia tik jūsų įrenginyje ir pasiekia tik tuos vaizdo ir garso failus, kuriuos pasirenkate atkurti iš vietinės atminties. Duomenys nėra siunčiami į serverius ar išorines paslaugas.\n\n3. **Jokių Trečiųjų Šalių Paslaugų**:\n Mes neintegruojame trečiųjų šalių analitikos, reklamos ar sekimo įrankių, galinčių rinkti duomenis.\n\n4. **Leidimai**:\n Winu Play reikalinga prieiga prie jūsų medijos failų (vaizdo ir muzikos), kad veiktų. Jūs kontroliuojate šiuos leidimus ir galite juos bet kada atšaukti per įrenginio nustatymus.\n\n5. **Politikos Pakeitimai**:\n Winu Co gali atnaujinti šią Privatumo Politiką, kad atspindėtų mūsų praktikos pokyčius. Apie reikšmingus pakeitimus jus informuosime per programėlę ar mūsų kontaktinę informaciją.\n\n6. **Susisiekite su Mumis**:\n Jei turite klausimų ar rūpesčių dėl savo privatumo, prašome susisiekti su mumis el. paštu: winu-co@outlook.com.\n\nNaudodamiesi Winu Play, jūs patvirtinate, kad perskaitėte ir supratote šią Privatumo Politiką. Ši politika atitinka galiojančius duomenų apsaugos įstatymus ir programėlių parduotuvių reikalavimus."
     },
     "theme_settings": {
-      "title": "Temos Nustatymai",
+      "title": "Temos",
       "save": "Išsaugoti",
       "color_options": {
         "background_color": "Fono Spalva",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Ikonų Atspalvio Spalva",
         "button_bg_color": "Mygtuko Fono Spalva",
         "active_button_color": "Aktyvaus Mygtuko Spalva",
+          "folders_color": "Aplankų spalva",
         "mini_player_position": "Mini Grotuvo Pozicija",
         "mini_player_position_values": {
           "bottom": "Apačioje",
