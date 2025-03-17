@@ -46,7 +46,7 @@
       "privacy_policy_content": "Politika zasebnosti Winu Play\n\nPodjetje Winu Co spoštuje vašo zasebnost. Ta politika opisuje obravnavo podatkov v aplikaciji Winu Play.\n\n1. **Brez zbiranja podatkov**:\n Winu Play ne zbira, ne shranjuje in ne prenaša osebnih podatkov. Ni potrebna registracija.\n\n2. **Lokalna uporaba**:\n Aplikacija deluje samo v vaši napravi in dostopa le do izbranih datotek.\n\n3. **Brez storitev tretjih**:\n Ne uporabljamo analitičnih ali oglaševalskih orodij tretjih strani.\n\n4. **Dovoljenja**:\n Dostop do medijev lahko kadarkoli spremenite v nastavitvah naprave.\n\n5. **Spremembe politike**:\n Večje spremembe bodo objavljene preko aplikacije.\n\n6. **Kontakt**:\n Vprašanja o zasebnosti pošljite na winu-co@outlook.com.\n\nZ uporabo aplikacije potrjujete, da ste seznanjeni s to politiko."
     },
     "theme_settings": {
-      "title": "Nastavitve teme",
+      "title": "teme",
       "save": "Shrani",
       "color_options": {
         "background_color": "Barva ozadja",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Barva ikon",
         "button_bg_color": "Barva gumba",
         "active_button_color": "Barva aktivnega gumba",
+          "folders_color": "Barva map",
         "mini_player_position": "Položaj mini predvajalnika",
         "mini_player_position_values": {
           "bottom": "Spodaj",
