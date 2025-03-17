@@ -55,6 +55,7 @@
         "icon_tint_color": "圖示色調",
         "button_bg_color": "按鈕背景顏色",
         "active_button_color": "啟用按鈕顏色",
+        "folders_color": "資料夾顏色",
         "mini_player_position": "迷你播放器位置",
         "mini_player_position_values": {
           "bottom": "底部",
