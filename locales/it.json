@@ -46,7 +46,7 @@
       "privacy_policy_content": "Informativa sulla Privacy di Winu Play\n\nWinu Play, sviluppato da Winu Co, si impegna a proteggere la tua privacy. Questa Informativa sulla Privacy spiega come gestiamo le tue informazioni quando utilizzi la nostra app per la riproduzione di video e musica.\n\n1. **Nessuna Raccolta di Dati**:\n Winu Play non raccoglie, memorizza o trasmette dati personali o relativi al dispositivo. Non richiediamo registrazione, accesso o creazione di un account, né monitoriamo la tua attività o condividiamo informazioni con terze parti.\n\n2. **Uso Locale**:\n Winu Play funziona interamente sul tuo dispositivo e accede solo ai file video e audio che scegli di riprodurre dalla tua memoria locale. Nessun dato viene inviato a server o servizi esterni.\n\n3. **Nessun Servizio di Terze Parti**:\n Non integriamo analisi di terze parti, pubblicità o strumenti di tracciamento che potrebbero raccogliere dati.\n\n4. **Permessi**:\n Winu Play richiede l'accesso ai tuoi file multimediali (video e musica) per funzionare. Tu controlli questi permessi e puoi revocarli in qualsiasi momento tramite le impostazioni del tuo dispositivo.\n\n5. **Modifiche all'Informativa**:\n Winu Co può aggiornare questa Informativa sulla Privacy per riflettere cambiamenti nelle nostre pratiche. Ti informeremo di modifiche significative tramite l'app o i nostri dati di contatto.\n\n6. **Contattaci**:\n Se hai domande o dubbi sulla tua privacy, contattaci all'indirizzo winu-co@outlook.com.\n\nUtilizzando Winu Play, riconosci di aver letto e compreso questa Informativa sulla Privacy. Questa informativa è conforme alle leggi sulla protezione dei dati applicabili e ai requisiti degli store di app."
     },
     "theme_settings": {
-      "title": "Impostazioni Tema",
+      "title": "Tema",
       "save": "Salva",
       "color_options": {
         "background_color": "Colore di Sfondo",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Tonalità delle Icone",
         "button_bg_color": "Colore di Sfondo del Pulsante",
         "active_button_color": "Colore del Pulsante Attivo",
+          "folders_color": "Colore delle cartelle",
         "mini_player_position": "Posizione del Mini Player",
         "mini_player_position_values": {
           "bottom": "In Basso",
