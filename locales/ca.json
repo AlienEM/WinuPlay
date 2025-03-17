@@ -46,7 +46,7 @@
       "privacy_policy_content": "Política de Privadesa de Winu Play\n\nWinu Play, desenvolupat per Winu Co, està compromès a protegir la vostra privadesa. Aquesta Política de Privadesa explica com gestionem la vostra informació quan utilitzeu la nostra aplicació de reproducció de vídeo i música.\n\n1. **Sense Recollida de Dades**:\n Winu Play no recull, emmagatzema ni transmet cap dada personal o del dispositiu. No requerim registre, inici de sessió ni creació de compte, i no rastrejem la vostra activitat ni compartim informació amb tercers.\n\n2. **Ús Local**:\n Winu Play funciona íntegrament al vostre dispositiu, accedint només als fitxers de vídeo i àudio que trieu reproduir des del vostre emmagatzematge local. No s'envien dades a servidors o serveis externs.\n\n3. **Sense Serveis de Tercers**:\n No integrem analítiques de tercers, anuncis ni eines de seguiment que puguin recollir dades.\n\n4. **Permisos**:\n Winu Play sol·licita accés als vostres fitxers multimèdia (vídeos i música) per funcionar. Vosaltres controleu aquests permisos i podeu revocar-los en qualsevol moment mitjançant la configuració del vostre dispositiu.\n\n5. **Canvis a la Política**:\n Winu Co pot actualitzar aquesta Política de Privadesa per reflectir canvis en les nostres pràctiques. Us notificarem sobre canvis significatius a través de l'aplicació o de la nostra informació de contacte.\n\n6. **Contacteu-nos**:\n Si teniu preguntes o dubtes sobre la vostra privadesa, poseu-vos en contacte amb nosaltres a winu-co@outlook.com.\n\nEn utilitzar Winu Play, reconeixeu que heu llegit i entesos aquesta Política de Privadesa. Aquesta política compleix amb les lleis de protecció de dades aplicables i els requisits de la botiga d'aplicacions."
     },
     "theme_settings": {
-      "title": "Configuració del Tema",
+      "title": "Tema",
       "save": "Desa",
       "color_options": {
         "background_color": "Color de Fons",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Color del Tint de les Icones",
         "button_bg_color": "Color de Fons del Botó",
         "active_button_color": "Color del Botó Actiu",
+          "folders_color": "Color de les carpetes",
         "mini_player_position": "Posició del Reproductor Mini",
         "mini_player_position_values": {
           "bottom": "A baix",
