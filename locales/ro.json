@@ -46,7 +46,7 @@
       "privacy_policy_content": "Politica de Confidențialitate Winu Play\n\nWinu Play, dezvoltat de Winu Co, se angajează să protejeze confidențialitatea ta. Această Politică de Confidențialitate explică modul în care gestionăm informațiile tale atunci când utilizezi aplicația noastră de redare video și muzică.\n\n1. **Fără Colectare de Date**:\n Winu Play nu colectează, nu stochează și nu transmite date personale sau date ale dispozitivului. Nu solicităm înregistrare, autentificare sau crearea unui cont și nu urmărim activitatea ta sau nu împărtășim informații cu terțe părți.\n\n2. **Utilizare Locală**:\n Winu Play funcționează exclusiv pe dispozitivul tău și accesează doar fișierele video și audio pe care le alegi să le redai din stocarea locală. Niciun fel de date nu sunt trimise către servere sau servicii externe.\n\n3. **Fără Servicii Terțe**:\n Nu integrăm analize de la terți, reclame sau instrumente de urmărire care ar putea colecta date.\n\n4. **Permisiuni**:\n Winu Play necesită acces la fișierele tale multimedia (video și muzică) pentru a funcționa. Tu controlezi aceste permisiuni și le poți revoca oricând prin setările dispozitivului.\n\n5. **Modificări ale Politicii**:\n Winu Co poate actualiza această Politică de Confidențialitate pentru a reflecta schimbările în practicile noastre. Te vom informa despre modificările semnificative prin intermediul aplicației sau al informațiilor noastre de contact.\n\n6. **Contactează-ne**:\n Dacă ai întrebări sau preocupări legate de confidențialitatea ta, te rugăm să ne contactezi la winu-co@outlook.com.\n\nPrin utilizarea Winu Play, confirmi că ai citit și ai înțeles această Politică de Confidențialitate. Această politică respectă legile aplicabile privind protecția datelor și cerințele magazinelor de aplicații."
     },
     "theme_settings": {
-      "title": "Setări Temă",
+      "title": "Temă",
       "save": "Salvează",
       "color_options": {
         "background_color": "Culoare Fundal",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Ton Culoare Pictograme",
         "button_bg_color": "Culoare Fundal Buton",
         "active_button_color": "Culoare Buton Activ",
+          "folders_color": "Culoare foldere",
         "mini_player_position": "Poziție Mini Player",
         "mini_player_position_values": {
           "bottom": "Jos",
