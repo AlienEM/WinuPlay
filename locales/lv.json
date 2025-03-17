@@ -46,7 +46,7 @@
       "privacy_policy_content": "Winu Play Privātuma Politika\n\nWinu Play, ko izstrādājusi Winu Co, ir apņēmusies aizsargāt jūsu privātumu. Šī Privātuma Politika izskaidro, kā mēs apstrādājam jūsu informāciju, kad izmantojat mūsu video un mūzikas atskaņošanas lietotni.\n\n1. **Datu Nesavākšana**:\n Winu Play nesavāc, neglabā un nepārraida personas vai ierīces datus. Mēs neprasām reģistrāciju, pieteikšanos vai konta izveidi, kā arī nesekojam jūsu darbībām un nedalāmies ar informāciju ar trešajām pusēm.\n\n2. **Vietējā Lietošana**:\n Winu Play darbojas pilnībā jūsu ierīcē un piekļūst tikai tiem video un audio failiem, kurus izvēlaties atskaņot no vietējās atmiņas. Dati netiek nosūtīti uz serveriem vai ārējiem pakalpojumiem.\n\n3. **Nav Trešo Pušu Pakalpojumu**:\n Mēs neintegrējam trešo pušu analītiku, reklāmas vai izsekošanas rīkus, kas varētu savākt datus.\n\n4. **Atļaujas**:\n Winu Play ir nepieciešama piekļuve jūsu multivides failiem (video un mūzikai), lai darbotos. Jūs kontrolējat šīs atļaujas un varat tās jebkurā laikā atsaukt, izmantojot ierīces iestatījumus.\n\n5. **Politikas Izmaiņas**:\n Winu Co var atjaunināt šo Privātuma Politiku, lai atspoguļotu izmaiņas mūsu praksē. Mēs jūs informēsim par būtiskām izmaiņām, izmantojot lietotni vai mūsu kontaktinformāciju.\n\n6. **Sazinieties ar Mums**:\n Ja jums ir jautājumi vai bažas par jūsu privātumu, lūdzu, sazinieties ar mums pa e-pastu: winu-co@outlook.com.\n\nIzmantojot Winu Play, jūs apstiprināt, ka esat izlasījis un sapratis šo Privātuma Politiku. Šī politika atbilst piemērojamajiem datu aizsardzības likumiem un lietotņu veikalu prasībām."
     },
     "theme_settings": {
-      "title": "Tēmas Iestatījumi",
+      "title": "Tēmas",
       "save": "Saglabāt",
       "color_options": {
         "background_color": "Fona Krāsa",
@@ -55,6 +55,7 @@
         "icon_tint_color": "Ikonu Toņa Krāsa",
         "button_bg_color": "Pogas Fona Krāsa",
         "active_button_color": "Aktīvās Pogas Krāsa",
+          "folders_color": "Mapju krāsa",
         "mini_player_position": "Mini Atskaņotāja Pozīcija",
         "mini_player_position_values": {
           "bottom": "Apakšā",
