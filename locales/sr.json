@@ -69,6 +69,8 @@
       "close": "Затвори",
       "no_videos_founds": "Видео Није Пронађен",
       "download_progress": "Напредак Преузимања",
+        "download_complete": "Преузимање завршено",
+  "video_saved_to_winu_downloader": "Видео сачуван у Winu Downloader",
       "no_downloads": "Нема Преузимања",
         "History": "Историја",
     "Clear Browsing Data...": "Обриши податке прегледања...",
