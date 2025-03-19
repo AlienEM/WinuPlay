@@ -70,6 +70,8 @@
       "no_videos_founds": "Nav Atrastu Video",
       "download_progress": "Lejupielādes Progress",
       "no_downloads": "Nav Lejupielāžu",
+        "download_complete": "Lejupielāde pabeigta",
+  "video_saved_to_winu_downloader": "Video saglabāts Winu Downloader",
         "History": "Vēsture",
     "Clear Browsing Data...": "Notīrīt pārlūkošanas datus...",
     "no_history": "Nav vēstures",
