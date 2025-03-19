@@ -70,6 +70,8 @@
       "no_videos_founds": "কোনো ভিডিও পাওয়া যায়নি",
       "download_progress": "ডাউনলোড অগ্রগতি",
       "no_downloads": "কোনো ডাউনলোড নেই",
+        "download_complete": "ডাউনলোড সম্পন্ন",
+  "video_saved_to_winu_downloader": "ভিডিও Winu Downloader-এ সংরক্ষিত",
         "History": "ইতিহাস",
     "Clear Browsing Data...": "ব্রাউজিং ডেটা সাফ করুন...",
     "no_history": "কোনো ইতিহাস নেই",
