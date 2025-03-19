@@ -70,6 +70,8 @@
       "no_videos_founds": "कोई वीडियो नहीं मिला",
       "download_progress": "डाउनलोड प्रगति",
       "no_downloads": "कोई डाउनलोड नहीं",
+        "download_complete": "डाउनलोड पूरा हुआ",
+  "video_saved_to_winu_downloader": "वीडियो Winu Downloader में सहेजा गया",
         "History": "इतिहास",
     "Clear Browsing Data...": "ब्राउज़िंग डेटा साफ़ करें...",
     "no_history": "कोई इतिहास नहीं",
