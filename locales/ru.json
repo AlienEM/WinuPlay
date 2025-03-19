@@ -70,6 +70,8 @@
       "no_videos_founds": "Видео Не Найдено",
       "download_progress": "Прогресс Загрузки",
       "no_downloads": "Нет Загрузок",
+        "download_complete": "Загрузка завершена",
+  "video_saved_to_winu_downloader": "Видео сохранено в Winu Downloader",
         "History": "История",
     "Clear Browsing Data...": "Очистить данные просмотра...",
     "no_history": "Нет истории",
