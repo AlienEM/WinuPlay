@@ -70,6 +70,8 @@
       "no_videos_founds": "Ingen Videoer Fundet",
       "download_progress": "Download Fremskridt",
       "no_downloads": "Ingen Downloads",
+        "download_complete": "Download fuldført",
+  "video_saved_to_winu_downloader": "Video gemt i Winu Downloader",
         "History": "Historik",
     "Clear Browsing Data...": "Ryd browserdata...",
     "no_history": "Ingen historik",
