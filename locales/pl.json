@@ -70,6 +70,8 @@
       "no_videos_founds": "Nie Znaleziono Filmów",
       "download_progress": "Postęp Pobierania",
       "no_downloads": "Brak Pobrań",
+        "download_complete": "Pobieranie zakończone",
+  "video_saved_to_winu_downloader": "Wideo zapisane w Winu Downloader",
         "History": "Historia",
     "Clear Browsing Data...": "Wyczyść dane przeglądania...",
     "no_history": "Brak historii",
