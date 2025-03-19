@@ -70,6 +70,8 @@
       "no_videos_founds": "Ingen Videoer Funnet",
       "download_progress": "Nedlastingsfremgang",
       "no_downloads": "Ingen Nedlastinger",
+        "download_complete": "Nedlasting fullført",
+  "video_saved_to_winu_downloader": "Video lagret i Winu Downloader",
         "History": "Historikk",
     "Clear Browsing Data...": "Slett nettleserdata...",
     "no_history": "Ingen historikk",
