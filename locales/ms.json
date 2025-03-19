@@ -70,6 +70,8 @@
       "no_videos_founds": "Tiada Video Ditemui",
       "download_progress": "Kemajuan Muat Turun",
       "no_downloads": "Tiada Muat Turun",
+        "download_complete": "Muat turun selesai",
+  "video_saved_to_winu_downloader": "Video disimpan di Winu Downloader",
         "History": "Sejarah",
     "Clear Browsing Data...": "Kosongkan Data Pelayaran...",
     "no_history": "Tiada sejarah",
