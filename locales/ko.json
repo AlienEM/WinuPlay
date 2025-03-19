@@ -70,6 +70,8 @@
       "no_videos_founds": "비디오를 찾을 수 없습니다",
       "download_progress": "다운로드 진행 상황",
       "no_downloads": "다운로드 없음",
+        "download_complete": "다운로드 완료",
+  "video_saved_to_winu_downloader": "비디오가 Winu Downloader에 저장됨",
         "History": "기록",
     "Clear Browsing Data...": "브라우징 데이터 지우기...",
     "no_history": "기록 없음",
