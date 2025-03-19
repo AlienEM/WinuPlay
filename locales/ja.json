@@ -70,6 +70,8 @@
       "no_videos_founds": "ビデオが見つかりませんでした",
       "download_progress": "ダウンロードの進捗",
       "no_downloads": "ダウンロードなし",
+        "download_complete": "ダウンロード完了",
+  "video_saved_to_winu_downloader": "ビデオがWinu Downloaderに保存されました",
         "History": "履歴",
     "Clear Browsing Data...": "閲覧データを消去...",
     "no_history": "履歴なし",
