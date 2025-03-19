@@ -70,6 +70,8 @@
       "no_videos_founds": "Niciun Videoclip Găsit",
       "download_progress": "Progres Descărcare",
       "no_downloads": "Nicio Descărcare",
+        "download_complete": "Descărcare finalizată",
+  "video_saved_to_winu_downloader": "Video salvat în Winu Downloader",
         "History": "Istoric",
     "Clear Browsing Data...": "Ștergeți datele de navigare...",
     "no_history": "Fără istoric",
