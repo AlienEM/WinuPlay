@@ -70,6 +70,8 @@
       "no_videos_founds": "Ni najdenih video posnetkov",
       "download_progress": "Napredek prenosa",
       "no_downloads": "Ni prenosov",
+        "download_complete": "Prenos končan",
+  "video_saved_to_winu_downloader": "Video shranjen v Winu Downloader",
         "History": "Zgodovina",
     "Clear Browsing Data...": "Počisti podatke brskanja...",
     "no_history": "Brez zgodovine",
