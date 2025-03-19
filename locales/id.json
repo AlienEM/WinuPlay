@@ -70,6 +70,8 @@
       "no_videos_founds": "Tidak Ada Video yang Ditemukan",
       "download_progress": "Progres Pengunduhan",
       "no_downloads": "Tidak Ada Pengunduhan",
+        "download_complete": "Unduh selesai",
+  "video_saved_to_winu_downloader": "Video disimpan di Winu Downloader",
         "History": "Riwayat",
     "Clear Browsing Data...": "Hapus Data Penjelajahan...",
     "no_history": "Tidak ada riwayat",
