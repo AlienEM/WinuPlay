@@ -70,6 +70,8 @@
       "no_videos_founds": "Videoita Ei Löytynyt",
       "download_progress": "Latauksen Edistyminen",
       "no_downloads": "Ei Latauksia",
+        "download_complete": "Lataus valmis",
+  "video_saved_to_winu_downloader": "Video tallennettu Winu Downloaderiin",
         "History": "Historia",
     "Clear Browsing Data...": "Tyhjennä selaustiedot...",
     "no_history": "Ei historiaa",
