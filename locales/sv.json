@@ -70,6 +70,8 @@
       "no_videos_founds": "Inga videor hittades",
       "download_progress": "Nedladdningsförlopp",
       "no_downloads": "Inga nedladdningar",
+        "download_complete": "Nedladdning klar",
+  "video_saved_to_winu_downloader": "Video sparad i Winu Downloader",
         "History": "Historik",
     "Clear Browsing Data...": "Rensa webbdata...",
     "no_history": "Ingen historik",
