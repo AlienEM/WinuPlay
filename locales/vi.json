@@ -70,6 +70,8 @@
       "no_videos_founds": "Không tìm thấy video",
       "download_progress": "Tiến trình tải xuống",
       "no_downloads": "Không có tải xuống",
+        "download_complete": "Tải xuống hoàn tất",
+  "video_saved_to_winu_downloader": "Video đã được lưu vào Winu Downloader",
         "History": "Lịch sử",
     "Clear Browsing Data...": "Xóa dữ liệu duyệt web...",
     "no_history": "Không có lịch sử",
