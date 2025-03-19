@@ -70,6 +70,8 @@
       "no_videos_founds": "לא נמצאו סרטונים",
       "download_progress": "התקדמות הורדה",
       "no_downloads": "אין הורדות",
+        "download_complete": "ההורדה הושלמה",
+  "video_saved_to_winu_downloader": "הסרטון נשמר ב-Winu Downloader",
         "History": "היסטוריה",
     "Clear Browsing Data...": "נקה נתוני גלישה...",
     "no_history": "אין היסטוריה",
