@@ -70,6 +70,8 @@
       "no_videos_founds": "未找到視頻",
       "download_progress": "下載進度",
       "no_downloads": "無下載",
+        "download_complete": "下載完成",
+  "video_saved_to_winu_downloader": "影片已儲存至Winu Downloader",
         "History": "歷史記錄",
     "Clear Browsing Data...": "清除瀏覽資料...",
     "no_history": "沒有歷史記錄",
