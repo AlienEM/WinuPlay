@@ -70,6 +70,8 @@
       "no_videos_founds": "Nenhum Vídeo Encontrado",
       "download_progress": "Progresso do Download",
       "no_downloads": "Nenhum Download",
+        "download_complete": "Download concluído",
+  "video_saved_to_winu_downloader": "Vídeo salvo no Winu Downloader",
         "History": "Histórico",
     "Clear Browsing Data...": "Limpar dados de navegação...",
     "no_history": "Sem histórico",
