@@ -70,6 +70,8 @@
       "no_videos_founds": "Hiç Video Bulunamadı",
       "download_progress": "İndirme İlerlemesi",
       "no_downloads": "İndirme Yok",
+        "download_complete": "İndirme tamamlandı",
+  "video_saved_to_winu_downloader": "Video Winu Downloader’a kaydedildi",
         "History": "Geçmiş",
     "Clear Browsing Data...": "Tarama Verilerini Temizle...",
     "no_history": "Geçmiş yok",
