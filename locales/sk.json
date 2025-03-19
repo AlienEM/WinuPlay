@@ -70,6 +70,8 @@
       "no_videos_founds": "Nenašli sa žiadne videá",
       "download_progress": "Priebeh sťahovania",
       "no_downloads": "Žiadne sťahovania",
+        "download_complete": "Sťahovanie dokončené",
+  "video_saved_to_winu_downloader": "Video uložené v Winu Downloader",
         "History": "História",
     "Clear Browsing Data...": "Vymazať údaje prehliadania...",
     "no_history": "Žiadna história",
