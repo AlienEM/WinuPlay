@@ -70,6 +70,8 @@
       "no_videos_founds": "Video Tapılmadı",
       "download_progress": "Endirmə Tərəqqi",
       "no_downloads": "Endirmə Yoxdur",
+        "download_complete": "Yükləmə tamamlandı",
+  "video_saved_to_winu_downloader": "Video Winu Downloader-də saxlanıldı",
         "History": "Tarixçə",
     "Clear Browsing Data...": "Brauzer Məlumatlarını Təmizlə...",
     "no_history": "Tarixçə yoxdur",
