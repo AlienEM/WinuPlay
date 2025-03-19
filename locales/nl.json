@@ -70,6 +70,8 @@
       "no_videos_founds": "Geen Video's Gevonden",
       "download_progress": "Downloadvoortgang",
       "no_downloads": "Geen Downloads",
+        "download_complete": "Download voltooid",
+  "video_saved_to_winu_downloader": "Video opgeslagen in Winu Downloader",
         "History": "Geschiedenis",
     "Clear Browsing Data...": "Browsegegevens wissen...",
     "no_history": "Geen geschiedenis",
