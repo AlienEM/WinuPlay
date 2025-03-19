@@ -70,6 +70,8 @@
       "no_videos_founds": "ویدیویی یافت نشد",
       "download_progress": "پیشرفت دانلود",
       "no_downloads": "بدون دانلود",
+        "download_complete": "دانلود کامل شد",
+  "video_saved_to_winu_downloader": "ویدئو در Winu Downloader ذخیره شد",
         "History": "تاریخچه",
     "Clear Browsing Data...": "پاک کردن داده‌های مرور...",
     "no_history": "بدون تاریخچه",
