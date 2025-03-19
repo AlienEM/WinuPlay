@@ -46,7 +46,7 @@
       "privacy_policy_content": "Pravila Privatnosti Winu Playa\n\nWinu Play, koji je razvio Winu Co, predan je zaštiti vaše privatnosti. Ova Pravila Privatnosti objašnjavaju kako upravljamo vašim informacijama dok koristite našu aplikaciju za reprodukciju videa i glazbe.\n\n1. **Bez Prikupljanja Podataka**:\n Winu Play ne prikuplja, ne pohranjuje niti prenosi osobne podatke ili podatke o uređaju. Ne zahtijevamo registraciju, prijavu ili stvaranje računa, niti pratimo vašu aktivnost ili dijelimo informacije s trećim stranama.\n\n2. **Lokalna Upotreba**:\n Winu Play radi isključivo na vašem uređaju i pristupa samo video i audio datotekama koje odaberete za reprodukciju iz vašeg lokalnog spremišta. Nema podataka koji se šalju na poslužitelje ili vanjske usluge.\n\n3. **Bez Usluga Trećih Strana**:\n Ne integriramo analitiku trećih strana, oglase ili alate za praćenje koji bi mogli prikupljati podatke.\n\n4. **Dopuštenja**:\n Winu Play zahtijeva pristup vašim medijskim datotekama (video i glazba) kako bi funkcionirao. Vi upravljate ovim dopuštenjima i možete ih opozvati u bilo kojem trenutku putem postavki uređaja.\n\n5. **Promjene Pravila**:\n Winu Co može ažurirati ova Pravila Privatnosti kako bi odražavala promjene u našim praksama. Obavijestit ćemo vas o značajnim promjenama putem aplikacije ili naših kontakt podataka.\n\n6. **Kontaktirajte Nas**:\n Ako imate pitanja ili nedoumice u vezi s vašom privatnošću, kontaktirajte nas na winu-co@outlook.com.\n\nKorištenjem Winu Playa potvrđujete da ste pročitali i razumjeli ova Pravila Privatnosti. Ova pravila su u skladu s primjenjivim zakonima o zaštiti podataka i zahtjevima trgovina aplikacija."
     },
     "theme_settings": {
-      "title": "Postavke Teme",
+      "title": "Teme",
       "save": "Spremi",
       "color_options": {
         "background_color": "Boja Pozadine",
@@ -70,6 +70,8 @@
       "no_videos_founds": "Nema Pronađenih Videozapisa",
       "download_progress": "Napredak Preuzimanja",
       "no_downloads": "Nema Preuzimanja",
+        "download_complete": "Preuzimanje završeno",
+  "video_saved_to_winu_downloader": "Video spremljen u Winu Downloader",
         "History": "Povijest",
     "Clear Browsing Data...": "Obriši podatke pregledavanja...",
     "no_history": "Nema povijesti",
