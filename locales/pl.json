@@ -56,6 +56,7 @@
         "button_bg_color": "Kolor Tła Przycisku",
         "active_button_color": "Kolor Aktywnego Przycisku",
           "folders_color": "Kolor folderów",
+          "mini_player_background_color": "Kolor tła mini odtwarzacza",
         "mini_player_position": "Pozycja Mini Odtwarzacza",
         "mini_player_position_values": {
           "bottom": "Na Dole",
