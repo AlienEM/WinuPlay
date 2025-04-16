@@ -56,6 +56,7 @@
         "button_bg_color": "Цвят на Фона на Бутона",
         "active_button_color": "Цвят на Активния Бутон",
           "folders_color": "Цвят на папките",
+          "mini_player_background_color": "Цвят на фона на мини плейъра",
         "mini_player_position": "Позиция на Мини Плейъра",
         "mini_player_position_values": {
           "bottom": "Долу",
