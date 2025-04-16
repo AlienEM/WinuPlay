@@ -56,6 +56,7 @@
         "button_bg_color": "Barva Pozadí Tlačítka",
         "active_button_color": "Barva Aktivního Tlačítka",
           "folders_color": "Barva složek",
+          "mini_player_background_color": "Barva pozadí mini přehrávače",
         "mini_player_position": "Pozice Mini Přehrávače",
         "mini_player_position_values": {
           "bottom": "Dole",
