@@ -56,6 +56,7 @@
         "button_bg_color": "Warna Latar Belakang Tombol",
         "active_button_color": "Warna Tombol Aktif",
           "folders_color": "Warna Folder",
+          "mini_player_background_color": "Warna Latar Belakang Pemutar Mini",
         "mini_player_position": "Posisi Pemutar Mini",
         "mini_player_position_values": {
           "bottom": "Bawah",
