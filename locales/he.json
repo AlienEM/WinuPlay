@@ -56,6 +56,7 @@
         "button_bg_color": "צבע רקע של כפתור",
         "active_button_color": "צבע כפתור פעיל",
           "folders_color": "צבע התיקיות",
+          "mini_player_background_color": "צבע רקע של נגן מיני" ,
         "mini_player_position": "מיקום נגן מיני",
         "mini_player_position_values": {
           "bottom": "למטה",
