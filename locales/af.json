@@ -56,6 +56,7 @@
         "button_bg_color": "Knoppie Agtergrondkleur",
         "active_button_color": "Aktiewe Knoppie Kleur",
           "folders_color": "Gidskleur",
+          "mini_player_background_color": "Mini Speler Agtergrondkleur",
         "mini_player_position": "Mini Speler Posisie",
         "mini_player_position_values": {
           "bottom": "Onder",
