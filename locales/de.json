@@ -56,6 +56,7 @@
         "button_bg_color": "Hintergrundfarbe des Buttons",
         "active_button_color": "Farbe des Aktiven Buttons",
           "folders_color": "Ordnerfarbe",
+          "mini_player_background_color": "Mini-Player-Hintergrundfarbe" ,
         "mini_player_position": "Position des Mini-Players",
         "mini_player_position_values": {
           "bottom": "Unten",
