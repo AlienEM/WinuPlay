@@ -56,6 +56,7 @@
         "button_bg_color": "버튼 배경 색상",
         "active_button_color": "활성 버튼 색상",
           "folders_color": "폴더 색상",
+           "mini_player_background_color": "미니 플레이어 배경 색상",
         "mini_player_position": "미니 플레이어 위치",
         "mini_player_position_values": {
           "bottom": "하단",
