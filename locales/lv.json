@@ -56,6 +56,7 @@
         "button_bg_color": "Pogas Fona Krāsa",
         "active_button_color": "Aktīvās Pogas Krāsa",
           "folders_color": "Mapju krāsa",
+          "mini_player_background_color": "Mini atskaņotāja fona krāsa" ,
         "mini_player_position": "Mini Atskaņotāja Pozīcija",
         "mini_player_position_values": {
           "bottom": "Apakšā",
