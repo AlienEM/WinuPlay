@@ -56,6 +56,7 @@
         "button_bg_color": "বোতামের পটভূমির রঙ",
         "active_button_color": "সক্রিয় বোতামের রঙ",
           "folders_color": "ফোল্ডারের রঙ",
+          "mini_player_background_color": "মিনি প্লেয়ারের পটভূমির রঙ",
         "mini_player_position": "মিনি প্লেয়ারের অবস্থান",
         "mini_player_position_values": {
           "bottom": "নীচে",
