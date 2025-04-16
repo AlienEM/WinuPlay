@@ -56,6 +56,7 @@
         "button_bg_color": "Culoare Fundal Buton",
         "active_button_color": "Culoare Buton Activ",
           "folders_color": "Culoare foldere",
+          "mini_player_background_color": "Culoare de fundal a mini-playerului" ,
         "mini_player_position": "Poziție Mini Player",
         "mini_player_position_values": {
           "bottom": "Jos",
