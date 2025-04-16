@@ -56,6 +56,7 @@
         "button_bg_color": "Cor de Fundo do Botão",
         "active_button_color": "Cor do Botão Ativo",
           "folders_color": "Cor das pastas",
+          "mini_player_background_color": "Cor de fundo do mini reprodutor" ,
         "mini_player_position": "Posição do Mini Player",
         "mini_player_position_values": {
           "bottom": "Abaixo",
