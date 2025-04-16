@@ -56,6 +56,7 @@
         "button_bg_color": "Colore di Sfondo del Pulsante",
         "active_button_color": "Colore del Pulsante Attivo",
           "folders_color": "Colore delle cartelle",
+          "mini_player_background_color": "Colore di sfondo del mini player",
         "mini_player_position": "Posizione del Mini Player",
         "mini_player_position_values": {
           "bottom": "In Basso",
