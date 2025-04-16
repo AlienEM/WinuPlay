@@ -56,6 +56,7 @@
         "button_bg_color": "Mygtuko Fono Spalva",
         "active_button_color": "Aktyvaus Mygtuko Spalva",
           "folders_color": "Aplankų spalva",
+          "mini_player_background_color": "Mini grotuvo fono spalva" ,
         "mini_player_position": "Mini Grotuvo Pozicija",
         "mini_player_position_values": {
           "bottom": "Apačioje",
