@@ -56,6 +56,7 @@
         "button_bg_color": "Warna Latar Belakang Butang",
         "active_button_color": "Warna Butang Aktif",
           "folders_color": "Warna Folder",
+          "mini_player_background_color": "Warna Latar Belakang Pemain Mini",
         "mini_player_position": "Kedudukan Pemain Mini",
         "mini_player_position_values": {
           "bottom": "Bawah",
