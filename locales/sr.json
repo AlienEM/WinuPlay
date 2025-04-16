@@ -56,6 +56,7 @@
         "button_bg_color": "Боја Позади Дугмета",
         "active_button_color": "Боја Активног Дугмета",
           "folders_color": "Боја фасцикли",
+          "mini_player_background_color": "Боја позадине мини плејера" 
         "mini_player_position": "Позиција Мини Плејера",
         "mini_player_position_values": {
           "bottom": "Доле",
