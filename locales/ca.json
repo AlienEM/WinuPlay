@@ -56,6 +56,7 @@
         "button_bg_color": "Color de Fons del Botó",
         "active_button_color": "Color del Botó Actiu",
           "folders_color": "Color de les carpetes",
+          "mini_player_background_color": "Color de fons del reproductor mini",
         "mini_player_position": "Posició del Reproductor Mini",
         "mini_player_position_values": {
           "bottom": "A baix",
