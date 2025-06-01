@@ -18,6 +18,12 @@
     "music_library": {
       "music": "संगीत",
       "songs": "गाने",
+        "favorites": "पसंदीदा",
+    "albums": "एल्बम",
+    "artists": "कलाकार",
+    "folders": "फ़ोल्डर",
+    "Unknown_Artist": "अज्ञात कलाकार",
+    "Unknown_Album": "अज्ञात एल्बम",
       "search": "खोजें...",
       "start_adding_favorites": "अपने पसंदीदा गानों को जोड़ना शुरू करें ताकि आप उन्हें यहाँ आनंद ले सकें!",
       "your_starry_favorites": "आपके तारांकित पसंदीदा",
