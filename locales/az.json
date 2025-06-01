@@ -17,6 +17,13 @@
     },
     "music_library": {
       "music": "Musiqi",
+        "songs": "Mahnılar",
+    "favorites": "Sevimlilər",
+    "albums": "Albomlar",
+    "artists": "Rəssamlar",
+    "folders": "Qovluqlar",
+    "Unknown_Artist": "Naməlum Rəssam",
+    "Unknown_Album": "Naməlum Albom",
       "songs": "Mahnılar",
       "search": "Axtar...",
       "start_adding_favorites": "Sevimli mahnılarınızı əlavə etməyə başlayın ki, burada onlardan zövq alasınız!",
