@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Âm nhạc",
       "songs": "Bài hát",
+        "favorites": "Yêu thích",
+    "albums": "Album",
+    "artists": "Nghệ sĩ",
+    "folders": "Thư mục",
+    "Unknown_Artist": "Nghệ sĩ Không rõ",
+    "Unknown_Album": "Album Không rõ",
       "search": "Tìm kiếm...",
       "start_adding_favorites": "Bắt đầu thêm các bài hát yêu thích của bạn để thưởng thức tại đây!",
       "your_starry_favorites": "Yêu thích đầy sao của bạn",
