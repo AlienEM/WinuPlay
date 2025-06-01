@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Muusika",
       "songs": "Laulud",
+         "favorites": "Lemmikud",
+    "albums": "Albumid",
+    "artists": "Artistid",
+    "folders": "Kaustad",
+    "Unknown_Artist": "Tundmatu Artist",
+    "Unknown_Album": "Tundmatu Album",
       "search": "Otsi...",
       "start_adding_favorites": "Alustage oma lemmiklaulude lisamist, et neid siin nautida!",
       "your_starry_favorites": "Teie Tähtedega Lemmikud",
