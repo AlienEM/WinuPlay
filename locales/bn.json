@@ -17,6 +17,13 @@
     },
     "music_library": {
       "music": "সঙ্গীত",
+        "songs": "গান",
+    "favorites": "প্রিয়",
+    "albums": "অ্যালবাম",
+    "artists": "শিল্পী",
+    "folders": "ফোল্ডার",
+    "Unknown_Artist": "অজানা শিল্পী",
+    "Unknown_Album": "অজানা অ্যালবাম",
       "songs": "গান",
       "search": "অনুসন্ধান...",
       "start_adding_favorites": "আপনার প্রিয় গানগুলি যোগ করা শুরু করুন এখানে তাদের উপভোগ করতে!",
