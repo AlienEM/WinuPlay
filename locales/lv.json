@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Mūzika",
       "songs": "Dziesmas",
+        "favorites": "Izlase",
+    "albums": "Albumi",
+    "artists": "Mākslinieki",
+    "folders": "Mapes",
+    "Unknown_Artist": "Nezināms Mākslinieks",
+    "Unknown_Album": "Nezināms Albums",
       "search": "Meklēt...",
       "start_adding_favorites": "Sāciet pievienot savas iecienītās dziesmas, lai tās baudītu šeit!",
       "your_starry_favorites": "Jūsu Zvaigžņotie Favorīti",
