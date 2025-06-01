@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Muzyka",
       "songs": "Piosenki",
+         "favorites": "Ulubione",
+    "albums": "Albumy",
+    "artists": "Artyści",
+    "folders": "Foldery",
+    "Unknown_Artist": "Nieznany Artysta",
+    "Unknown_Album": "Nieznany Album",
       "search": "Szukaj...",
       "start_adding_favorites": "Zacznij dodawać swoje ulubione piosenki, aby cieszyć się nimi tutaj!",
       "your_starry_favorites": "Twoje Ulubione z Gwiazdką",
