@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Музика",
       "songs": "Пісні",
+        "favorites": "Улюблені",
+    "albums": "Альбоми",
+    "artists": "Виконавці",
+    "folders": "Папки",
+    "Unknown_Artist": "Невідомий Виконавець",
+    "Unknown_Album": "Невідомий Альбом",
       "search": "Пошук...",
       "start_adding_favorites": "Почніть додавати улюблені пісні, щоб насолоджуватися ними тут!",
       "your_starry_favorites": "Ваші зоряні улюбленці",
