@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Música",
       "songs": "Músicas",
+        "favorites": "Favoritos",
+    "albums": "Álbuns",
+    "artists": "Artistas",
+    "folders": "Pastas",
+    "Unknown_Artist": "Artista Desconhecido",
+    "Unknown_Album": "Álbum Desconhecido",
       "search": "Pesquisar...",
       "start_adding_favorites": "Comece a adicionar suas músicas favoritas para aproveitá-las aqui!",
       "your_starry_favorites": "Seus Favoritos com Estrela",
