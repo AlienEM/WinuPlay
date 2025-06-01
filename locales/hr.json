@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Glazba",
       "songs": "Pjesme",
+        "favorites": "Omiljene",
+    "albums": "Albumi",
+    "artists": "Umjetnici",
+    "folders": "Mape",
+    "Unknown_Artist": "Nepoznati Umjetnik",
+    "Unknown_Album": "Nepoznati Album",
       "search": "Pretraži...",
       "start_adding_favorites": "Počnite dodavati svoje omiljene pjesme kako biste ih ovdje uživali!",
       "your_starry_favorites": "Vaši Omiljeni sa Zvjezdicom",
