@@ -18,6 +18,12 @@
     "music_library": {
       "music": "音樂",
       "songs": "歌曲",
+        "favorites": "最愛",
+    "albums": "專輯",
+    "artists": "藝術家",
+    "folders": "資料夾",
+    "Unknown_Artist": "未知藝術家",
+    "Unknown_Album": "未知專輯",
       "search": "搜索...",
       "start_adding_favorites": "開始新增您喜愛的歌曲以在此享受它們！",
       "your_starry_favorites": "您的星光收藏",
