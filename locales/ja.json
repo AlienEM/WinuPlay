@@ -18,6 +18,12 @@
     "music_library": {
       "music": "音楽",
       "songs": "曲",
+        "favorites": "お気に入り",
+    "albums": "アルバム",
+    "artists": "アーティスト",
+    "folders": "フォルダ",
+    "Unknown_Artist": "不明なアーティスト",
+    "Unknown_Album": "不明なアルバム",
       "search": "検索...",
       "start_adding_favorites": "お気に入りの曲を追加して、ここで楽しんでください！",
       "your_starry_favorites": "あなたのお気に入り（スター付き）",
