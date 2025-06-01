@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Musiikki",
       "songs": "Kappaleet",
+        "favorites": "Suosikit",
+    "albums": "Albumit",
+    "artists": "Artistit",
+    "folders": "Kansiot",
+    "Unknown_Artist": "Tuntematon Artisti",
+    "Unknown_Album": "Tuntematon Albumi",
       "search": "Hae...",
       "start_adding_favorites": "Aloita suosikkikappaleidesi lisääminen nauttiaksesi niistä täällä!",
       "your_starry_favorites": "Tähdellä Merkityt Suosikkisi",
