@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Музыка",
       "songs": "Песни",
+        "favorites": "Избранное",
+    "albums": "Альбомы",
+    "artists": "Исполнители",
+    "folders": "Папки",
+    "Unknown_Artist": "Неизвестный Исполнитель",
+    "Unknown_Album": "Неизвестный Альбом",
       "search": "Поиск...",
       "start_adding_favorites": "Начните добавлять свои любимые песни, чтобы наслаждаться ими здесь!",
       "your_starry_favorites": "Ваши Избранные с Звездочкой",
