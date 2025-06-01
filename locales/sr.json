@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Музика",
       "songs": "Песме",
+        "favorites": "Омиљене",
+    "albums": "Албуми",
+    "artists": "Уметници",
+    "folders": "Фасцикле",
+    "Unknown_Artist": "Непознати Уметник",
+    "Unknown_Album": "Непознати Албум",
       "search": "Претражи...",
       "start_adding_favorites": "Почните да додајете своје омиљене песме да бисте их уживали овде!",
       "your_starry_favorites": "Ваше Омиљене са Звездицом",
