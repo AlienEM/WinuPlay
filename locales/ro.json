@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Muzică",
       "songs": "Melodii",
+        "favorites": "Favorite",
+    "albums": "Albume",
+    "artists": "Artiști",
+    "folders": "Dosare",
+    "Unknown_Artist": "Artist Necunoscut",
+    "Unknown_Album": "Album Necunoscut",
       "search": "Caută...",
       "start_adding_favorites": "Începe să adaugi melodiile tale preferate pentru a te bucura de ele aici!",
       "your_starry_favorites": "Favoritele Tale Cu Stea",
