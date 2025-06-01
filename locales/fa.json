@@ -18,6 +18,12 @@
     "music_library": {
       "music": "موسیقی",
       "songs": "آهنگ‌ها",
+        "favorites": "مورد علاقه‌ها",
+    "albums": "آلبوم‌ها",
+    "artists": "هنرمندان",
+    "folders": "پوشه‌ها",
+    "Unknown_Artist": "هنرمند ناشناخته",
+    "Unknown_Album": "آلبوم ناشناخته",
       "search": "جستجو...",
       "start_adding_favorites": "شروع به افزودن آهنگ‌های مورد علاقه خود کنید تا اینجا از آن‌ها لذت ببرید!",
       "your_starry_favorites": "مورد علاقه‌های ستاره‌دار شما",
