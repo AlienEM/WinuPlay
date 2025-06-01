@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Müzik",
       "songs": "Şarkılar",
+        "favorites": "Favoriler",
+    "albums": "Albümler",
+    "artists": "Sanatçılar",
+    "folders": "Klasörler",
+    "Unknown_Artist": "Bilinmeyen Sanatçı",
+    "Unknown_Album": "Bilinmeyen Albüm",
       "search": "Ara...",
       "start_adding_favorites": "Favori şarkılarınızı burada dinlemek için eklemeye başlayın!",
       "your_starry_favorites": "Yıldızlı Favorileriniz",
