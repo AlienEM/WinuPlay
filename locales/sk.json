@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Hudba",
       "songs": "Skladby",
+        "favorites": "Obľúbené",
+    "albums": "Albumy",
+    "artists": "Interpreti",
+    "folders": "Priečinky",
+    "Unknown_Artist": "Neznámy Interpret",
+    "Unknown_Album": "Neznámy Album",
       "search": "Hľadať...",
       "start_adding_favorites": "Začnite pridávať svoje obľúbené skladby, aby ste si ich tu mohli užívať!",
       "your_starry_favorites": "Vaše obľúbené hviezdne skladby",
