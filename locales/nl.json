@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Muziek",
       "songs": "Nummers",
+        "favorites": "Favorieten",
+    "albums": "Albums",
+    "artists": "Artiesten",
+    "folders": "Mappen",
+    "Unknown_Artist": "Onbekende Artiest",
+    "Unknown_Album": "Onbekend Album",
       "search": "Zoeken...",
       "start_adding_favorites": "Begin met het toevoegen van je favoriete nummers om hier van te genieten!",
       "your_starry_favorites": "Jouw Sterfavorieten",
