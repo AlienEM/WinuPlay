@@ -18,6 +18,12 @@
     "music_library": {
       "music": "음악",
       "songs": "노래",
+        "favorites": "즐겨찾기",
+    "albums": "앨범",
+    "artists": "아티스트",
+    "folders": "폴더",
+    "Unknown_Artist": "알 수 없는 아티스트",
+    "Unknown_Album": "알 수 없는 앨범",
       "search": "검색...",
       "start_adding_favorites": "좋아하는 노래를 추가하여 여기에서 즐기세요!",
       "your_starry_favorites": "별표 표시된 즐겨찾기",
