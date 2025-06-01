@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Musica",
       "songs": "Canzoni",
+        "favorites": "Preferiti",
+    "albums": "Album",
+    "artists": "Artisti",
+    "folders": "Cartelle",
+    "Unknown_Artist": "Artista Sconosciuto",
+    "Unknown_Album": "Album Sconosciuto",
       "search": "Cerca...",
       "start_adding_favorites": "Inizia ad aggiungere le tue canzoni preferite per godertelo qui!",
       "your_starry_favorites": "I Tuoi Preferiti con Stella",
