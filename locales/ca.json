@@ -17,6 +17,13 @@
     },
     "music_library": {
       "music": "Música",
+        "songs": "Cançons",
+    "favorites": "Favorits",
+    "albums": "Àlbums",
+    "artists": "Artistes",
+    "folders": "Carpetes",
+    "Unknown_Artist": "Artista Desconegut",
+    "Unknown_Album": "Àlbum Desconegut",
       "songs": "Cançons",
       "search": "Cerca...",
       "start_adding_favorites": "Comenceu a afegir les vostres cançons preferides per gaudir-ne aquí!",
