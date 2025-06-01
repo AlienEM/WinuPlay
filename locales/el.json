@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Μουσική",
       "songs": "Τραγούδια",
+        "favorites": "Αγαπημένα",
+    "albums": "Άλμπουμ",
+    "artists": "Καλλιτέχνες",
+    "folders": "Φάκελοι",
+    "Unknown_Artist": "Άγνωστος Καλλιτέχνης",
+    "Unknown_Album": "Άγνωστο Άλμπουμ",
       "search": "Αναζήτηση...",
       "start_adding_favorites": "Ξεκινήστε να προσθέτετε τα αγαπημένα σας τραγούδια για να τα απολαμβάνετε εδώ!",
       "your_starry_favorites": "Τα Αστέρια Αγαπημένα Σας",
