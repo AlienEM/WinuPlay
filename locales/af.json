@@ -17,6 +17,13 @@
     },
     "music_library": {
       "music": "Musiek",
+        "songs": "Liedjies",
+    "favorites": "Gunstelinge",
+    "albums": "Albums",
+    "artists": "Kunstenaars",
+    "folders": "Vouers",
+    "Unknown_Artist": "Onbekende Kunstenaar",
+    "Unknown_Album": "Onbekende Album",
       "songs": "Liedjies",
       "search": "Soek...",
       "start_adding_favorites": "Begin om jou gunsteling liedjies by te voeg om hier te geniet!",
