@@ -17,6 +17,13 @@
     },
     "music_library": {
       "music": "Hudba",
+        "songs": "Písně",
+    "favorites": "Oblíbené",
+    "albums": "Alba",
+    "artists": "Umělci",
+    "folders": "Složky",
+    "Unknown_Artist": "Není známý umělec",
+    "Unknown_Album": "Není známé album",
       "songs": "Písně",
       "search": "Hledat...",
       "start_adding_favorites": "Začněte přidávat své oblíbené písně, abyste si je zde užili!",
