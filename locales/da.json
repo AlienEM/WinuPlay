@@ -17,6 +17,13 @@
     },
     "music_library": {
       "music": "Musik",
+        "songs": "Sange",
+    "favorites": "Favoritter",
+    "albums": "Albummer",
+    "artists": "Kunstnere",
+    "folders": "Mapper",
+    "Unknown_Artist": "Ukendt Kunstner",
+    "Unknown_Album": "Ukendt Album",
       "songs": "Sange",
       "search": "Søg...",
       "start_adding_favorites": "Begynd at tilføje dine yndlingssange for at nyde dem her!",
