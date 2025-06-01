@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Muzika",
       "songs": "Dainos",
+        "favorites": "Mėgstamiausi",
+    "albums": "Albumai",
+    "artists": "Atlikėjai",
+    "folders": "Aplankai",
+    "Unknown_Artist": "Nežinomas Atlikėjas",
+    "Unknown_Album": "Nežinomas Albumas",
       "search": "Ieškoti...",
       "start_adding_favorites": "Pradėkite pridėti savo mėgstamas dainas, kad galėtumėte jas mėgautis čia!",
       "your_starry_favorites": "Jūsų Žvaigždutėmis Pažymėti Mėgstamiausi",
