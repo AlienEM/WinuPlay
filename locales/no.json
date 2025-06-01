@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Musikk",
       "songs": "Sanger",
+        "favorites": "Favoritter",
+    "albums": "Album",
+    "artists": "Artister",
+    "folders": "Mapper",
+    "Unknown_Artist": "Ukjent Artist",
+    "Unknown_Album": "Ukjent Album",
       "search": "Søk...",
       "start_adding_favorites": "Begynn å legge til favorittsangene dine for å nyte dem her!",
       "your_starry_favorites": "Dine Stjernemerkede Favoritter",
