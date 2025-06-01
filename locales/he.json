@@ -18,6 +18,12 @@
     "music_library": {
       "music": "מוזיקה",
       "songs": "שירים",
+        "favorites": "מועדפים",
+    "albums": "אלבומים",
+    "artists": "אמנים",
+    "folders": "תיקיות",
+    "Unknown_Artist": "אמן לא ידוע",
+    "Unknown_Album": "אלבום לא ידוע",
       "search": "חיפוש...",
       "start_adding_favorites": "התחל להוסיף את השירים המועדפים עליך כדי ליהנות מהם כאן!",
       "your_starry_favorites": "המועדפים המסומנים בכוכב שלך",
