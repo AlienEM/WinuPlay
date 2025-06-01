@@ -18,6 +18,12 @@
     "music_library": {
       "music": "Musik",
       "songs": "Lagu",
+        "favorites": "Favorit",
+    "albums": "Album",
+    "artists": "Artis",
+    "folders": "Folder",
+    "Unknown_Artist": "Artis Tidak Diketahui",
+    "Unknown_Album": "Album Tidak Diketahui",
       "search": "Cari...",
       "start_adding_favorites": "Mulai tambahkan lagu favorit Anda untuk menikmatinya di sini!",
       "your_starry_favorites": "Favorit Berbintang Anda",
