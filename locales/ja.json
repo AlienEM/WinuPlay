@@ -29,6 +29,7 @@
       "your_starry_favorites": "あなたのお気に入り（スター付き）",
       "loading_starry_favorites": "あなたのお気に入り（スター付き）を読み込んでいます...",
       "no_music_available": "利用可能な音楽はありません",
+        "no_artists_available": "利用可能なアーティストがいません",
       "no_albums_available": "利用可能なアルバムはありません",
       "view_mode": "表示モード",
       "layout": "レイアウト",
