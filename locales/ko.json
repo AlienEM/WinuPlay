@@ -29,6 +29,7 @@
       "your_starry_favorites": "별표 표시된 즐겨찾기",
       "loading_starry_favorites": "별표 표시된 즐겨찾기를 불러오는 중...",
       "no_music_available": "사용 가능한 음악이 없습니다",
+        "no_artists_available": "사용 가능한 아티스트가 없습니다",
       "no_albums_available": "사용 가능한 앨범이 없습니다",
       "view_mode": "보기 모드",
       "layout": "레이아웃",
